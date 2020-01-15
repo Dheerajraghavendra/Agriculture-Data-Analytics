@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:Zimbra-Calendar-Provider
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Colombo
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETTO:+0530
+TZOFFSETFROM:+0530
+TZNAME:IST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6c3c3fbd-f5ec-449d-91a5-6de7677c9223
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR
+SUMMARY:BTP-WD-ADA
+LOCATION:F25-KCIS
+ATTENDEE;CN=purnachand;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:
+ mailto:purnachand.jaddu@students.iiit.ac.in
+ATTENDEE;CN=varanasi asish;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=T
+ RUE:mailto:varanasi.asish@students.iiit.ac.in
+ORGANIZER;CN=Avinash Sharma:mailto:asharma@iiit.ac.in
+DTSTART;TZID="Asia/Colombo":20170113T163000
+DTEND;TZID="Asia/Colombo":20170113T170000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20170111T043858Z
+DTSTAMP:20170111T043858Z
+SEQUENCE:1
+DESCRIPTION:The following is a new meeting request:\n\nSubject: BTP-WD-ADA \
+ nOrganizer: "Avinash Sharma" <asharma@iiit.ac.in> \n\nLocation: F25-KCIS \nT
+ ime: 4:30:00 PM - 5:00:00 PM GMT +05:30 Sri Jayawardenepura\n Recurrence : E
+ very Friday.   No end date.   Effective Jan 13\, 2017\n\nInvitees: purnachan
+ d.jaddu@students.iiit.ac.in\; varanasi.asish@students.iiit.ac.in \n\n\n*~*~*
+ ~*~*~*~*~*~*~*\n\nPlease call your other team mates also for this regular it
+ eration.  \n\nAvinash
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;RELATED=START:-PT5M
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

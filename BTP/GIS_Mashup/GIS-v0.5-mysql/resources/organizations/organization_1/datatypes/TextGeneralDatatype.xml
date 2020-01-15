@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataType exportedWithPermissions="true"><folder>/organizations/organization_1/datatypes</folder><name>TextGeneralDatatype</name><version>0</version><label>Text General Datatype</label><description>Use for text, no pattern or restrictions</description><creationDate>2013-11-01T11:24:57.000-07:00</creationDate><updateDate>2012-11-08T06:10:28.000-08:00</updateDate><type>1</type><regularExpr></regularExpr><strictMin>false</strictMin><strictMax>false</strictMax></dataType>

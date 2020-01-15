@@ -1,0 +1,314 @@
+advice_date	problem	advice_text_english
+2016-07-25	Mealybug, Aphid, Leaf miner:	Mealybug,Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds
+2016-08-03	Jassid	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Jassid	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-23	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.Spray 
+2016-08-31	healthy	healthy
+2016-09-19	cercospora leaf spot	cercospora leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-09-28	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-06	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-19	Jassid 	Jassid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-25	Leaf miner:	Leaf miner:Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-03	healthy	healthy
+2016-08-31	Magnesium deficiency, Sucking pest: 	Magnesium deficiency, Sucking pest: : Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a). Already sprayed imidachloprid. 
+2016-09-19	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-09-28	healthy	healthy
+2016-10-06	water stag	water stag
+2016-10-19	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-08-13	healthy	healthy
+2016-09-19	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-06	Jassid 	Jassid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-19	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-27	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-25	 Aphid, Leaf miner, phyto toxicity:	Aphid, Leaf miner, phyto toxicity:: Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-03	healthy	healthy
+2016-08-13	Jassid	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-23	Phyto toxicity	Phyto toxicity
+2016-09-19	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-09-19	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-09-28	Jassid and leaf spot	Jassid and leaf spot: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water.\nspray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval. 
+2016-10-06	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-08-03	Jassid, Aphid	Jassid, Aphid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-23	healthy	healthy
+2016-09-29	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-19	picking	picking
+2016-07-22	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Sucking Pest	Sucking Pest Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-13	Aphid:	Aphid: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-24	Mealybug:	Mealybug,Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-09-07	Aphid:	Aphid: Spray Acephate @1.5 g or profenophos@ 2ml /lit water
+2016-09-17	Mealybug:	Mealybug,Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-09-26	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-03	healthy	healthy
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-11-07	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-08-03	healthy	healthy
+2016-07-25	Aphid:	Aphid: Spray Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-03	healthy	healthy
+2016-08-13	healthy	healthy
+2016-08-23	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-31	Jassid, white fly: 	Jassid, white fly: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-19	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-09-29	White fly and boll rot	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\nBoll rot : Spray poshmycin 1 g +coc 30g per 10 lit water\n\n
+2016-10-06	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-19	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-27	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-25	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Magnesium deficiency	Magnesium deficiency: Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a)
+2016-09-19	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-28	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-06	Sucking pest, waterlogging	Sucking pest, waterlogging Spray Acephate @2g or Monochrotophos @ 2ml /l of water. 
+2016-10-19	picking	picking
+2016-08-13	Mealybug, Aphid, Leaf miner:	Mealybug, Aphid: Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds
+2016-08-23	Magnesium deficiency, Sucking pest: 	Magnesium deficiency, Sucking pest: : Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a). Already sprayed imidachloprid. 
+2016-08-31	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-19	healthy	healthy
+2016-09-28	healthy	healthy
+2016-10-06	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-27	leaf spot	 leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-09-03	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-22	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-03	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-17	Mealybug:	Mealybug:Spray acephate 1.5g or dimethiote @ 2ml + sandovit 1ml /lit water. remove weeds
+2016-11-07	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-07-23	healthy	healthy
+2016-08-05	healthy	healthy
+2016-08-17	Spray 19:19:19	Spray 19:19:19
+2016-08-25	healthy	healthy
+2016-09-03	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-22	healthy	healthy
+2016-10-03	Jassids thrips :	Jassids thrips : thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-17	cercospora leaf spot	cercospora leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-10-27	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-07-23	healthy	healthy
+2016-08-05	Aphid:	Aphid: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-17	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-25	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-03	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-22	healthy	healthy
+2016-10-03	healthy	healthy
+2016-10-17	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-27	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-11-07	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-30	healthy	healthy
+2016-09-14	cercospora leaf spot	cercospora leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-09-24	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-03	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-07-22	White fly:(low)	White fly:(low): spray NSKE 5% or 5ml neemoil/lit water. place yellow stick traps.
+2016-08-13	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-22	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-30	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-14	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-26	healthy	healthy
+2016-10-03	cercospora leaf spot	cercospora leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	picking	picking
+2016-07-22	Aphid:	Aphid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-02	Magnesium deficiency	Magnesium deficiency: Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a)
+2016-08-13	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.Spray 
+2016-08-30	Spodoptera:	Spodoptera: Bait and spray prophinophas 2ml/lit
+2016-09-14	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-09-24	healthy	healthy
+2016-10-03	Jassid, white fly: 	Jassid, white fly: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	Jassids thrips :	Jassids thrips : thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-07-22	Mealybug, Aphid, Leaf miner:	Mealybug, Aphid: Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds
+2016-08-02	Mealybug:	Mealybug,Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-08-13	healthy	healthy
+2016-08-22	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-30	healthy	healthy
+2016-09-14	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-09-24	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-03	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	healthy	healthy
+2016-07-22	Magnesium deficiency	Magnesium deficiency: Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a)
+2016-08-03	Jassid, Aphid	Jassid, Aphid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-24	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-07	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-17	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-09-26	healthy	healthy
+2016-10-03	Jassid 	Jassid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-03	Jassid 	Jassid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-27	irrelevant pics	irrelevant pics 
+2016-11-07	JAssids 	*JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-08-03	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.Spray 
+2016-08-13	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-24	Jassid: 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-07	caterpillar 	caterpillar:  small holes are there so some leaf eating insects might caused the damage. for the control of the leaf eating insects spray acephate 1.5 grams per lit of water
+2016-09-17	healthy	healthy
+2016-09-26	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-03	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-08-03	healthy	healthy
+2016-08-13	healthy	healthy
+2016-09-07	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-17	Jassid, white fly: 	Jassid, white fly: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-26	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-10-03	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-03	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-27	Jassid and leaf spot	Jassid and leaf spot: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water.\nspray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval. 
+2016-11-07	leaf spot	 *leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-07-22	Aphid:	Aphid: Spray imidachloprid 0.5ml/lit or  Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-03	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-07	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-22	Aphid:	Aphid: Spray  Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-03	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.Spray 
+2016-08-13	healthy	healthy
+2016-08-24	Sucking pest, waterlogging	Sucking pest, waterlogging Spray Acephate @2g or Monochrotophos @ 2ml /l of water. 
+2016-09-07	healthy	healthy
+2016-09-17	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-03	healthy	healthy
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-07-23	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-05	Aphid:	Aphid: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-17	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-25	water stress	water stress: Irrigate field.
+2016-09-03	healthy	healthy
+2016-09-16	healthy	healthy
+2016-09-22	cercospora leaf spot	cercospora leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-10-03	Aphids and White fly:	Aphids and White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-17	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-27	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-11-07	JAssids and borers	JAssids and Borers: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-07-23	Aphid:	Aphid: Spray Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-05	Sucking pest, waterlogging	Sucking pest, waterlogging Spray Acephate @2g or Monochrotophos @ 2ml /l of water. 
+2016-08-17	Magnesium deficiency, Sucking pest: 	Magnesium deficiency, Sucking pest: : Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a). Already sprayed imidachloprid. 
+2016-08-25	Magnesium deficiency	Magnesium deficiency: Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a)
+2016-09-03	healthy	healthy
+2016-09-16	healthy	healthy
+2016-09-22	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-03	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-17	healthy	healthy
+2016-10-27	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-11-07	Jassid 	Jassid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-22	Aphid, leaf miner:	Aphid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-02	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-22	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-30	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-14	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-24	healthy	healthy
+2016-10-03	Jassid, white fly: 	Jassid, white fly: Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	picking	picking
+2016-08-02	Sucking pest, waterlogging	Sucking pest, waterlogging Spray Acephate @2g or Monochrotophos @ 2ml /l of water. 
+2016-08-13	healthy	healthy
+2016-08-22	healthy	healthy
+2016-09-14	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-09-24	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-03	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	leaf spot	 leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-07-22	Aphid:	Aphid: Spray imidachloprid 0.5ml/lit or  Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-14	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-24	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-03	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-22	Magnesium deficiency, Sucking pest: 	Magnesium deficiency, Sucking pest: : Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a). Already sprayed imidachloprid. 
+2016-07-22	Magnesium deficiency	Magnesium deficiency: Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a)
+2016-08-13	Jassid, Aphid	Jassid, Aphid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-22	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-30	Mealybug:	Mealybug:Spray acephate 1.5g or dimethiote @ 2ml + sandovit 1ml /lit water. remove weeds
+2016-09-14	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-09-24	healthy	healthy
+2016-10-03	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-14	picking	picking
+2016-10-22	JAssids and sanitation	JAssids and sanitation: REmove weeds Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-07-22	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-25	Aphid:	Aphid: Spray Acephate @1.5 g or profenophos@ 2ml /lit water
+2016-08-05	Aphid:	Aphid: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-26	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-09	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-19	irrelevant pics 	irrelevant pics 
+2016-09-29	healthy	healthy
+2016-10-06	healthy	healthy
+2016-10-17	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-27	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-11-07	healthy	healthy
+2016-07-22	Aphid:	Aphid: Spray Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-03	Sucking Pest	Sucking Pest Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-13	Sucking Pest	Sucking Pest Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-24	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-07	Mealybug, Aphid, Leaf miner:	Mealybug, Aphid: Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds
+2016-09-17	healthy	healthy
+2016-09-26	healthy	healthy
+2016-10-03	healthy	healthy
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-27	leaf spot	 leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-11-07	Jassid, Aphid	Jassid, Aphid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-22	Mealybug, Aphid	Mealybug, Aphid: Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds
+2016-08-03	Aphid:	Aphid: Spray Dimethioate (Ragar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-13	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-07	Mealybug, Aphid, Leaf miner:	Mealybug, Aphid: Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds
+2016-09-17	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-09-26	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-10-03	healthy	healthy
+2016-10-03	healthy	healthy
+2016-10-14	*Jassid, Aphids,white fly: 	*Jassid, Aphids,white fly:  Spray spinOsad 0.3 ml or acetAmeprid 0.2 g /l of water. 
+2016-10-27	Aphid:	Aphid: Spray  Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-11-07	leaf spot	 *leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-08-05	Aphid:	Aphid: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-17	healthy	healthy
+2016-08-26	Jassid and Mg deficiency	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-09	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-29	healthy	healthy
+2016-10-06	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-17	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-25	Magnesium deficiency	Magnesium deficiency: Spray magnesium sulphate @ 10 g/ lit (2kg/200lit /a)
+2016-08-05	Aphid:	Aphid: Spray  Acephate @1.5g or fipronil @ 2ml or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-17	White fly:(low)	White fly:(low): spray NSKE 5% or 5ml neemoil/lit water. place yellow stick traps.
+2016-08-26	Jassid, white fly: 	Jassid, white fly: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-09	Jassid 	Jassid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-19	irrelevant pics	irrelevant pics 
+2016-09-19	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-09-29	healthy	healthy
+2016-10-06	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-10-17	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-27	leaf spot	 leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-11-07	healthy	healthy
+2016-07-25	Leaf miner:	Aphid, Leaf miner, phyto toxicity:: Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-05	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-08-17	Spray 19:19:19	Spray 19:19:19
+2016-08-26	Spray 19:19:19	Spray 19:19:19
+2016-09-19	Mealybug:	Mealybug:Spray acephate 1.5g or dimethiote @ 2ml + sandovit 1ml /lit water. remove weeds
+2016-09-29	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-10-06	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-17	leaf spot	 leaf spot: spray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval.
+2016-10-27	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-11-07	Mealybug:	Mealybug:Spray acephate 1.5g or dimethiote @ 2ml + sandovit 1ml /lit water. remove weeds
+2016-07-25	Sucking Pest	Sucking Pest Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-05	healthy	healthy
+2016-08-17	healthy	healthy
+2016-08-26	Mealybug:	Mealybug:Spray acephate 1.5g or dimethiote @ 2ml + sandovit 1ml /lit water. remove weeds
+2016-09-09	Mealybug:	Mealybug,Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-09-19	healthy	healthy
+2016-09-29	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-17	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-27	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-11-07	Jassid and leaf spot	Jassid and leaf spot: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water.\nspray 2.5 g mancojeb or 3 g coc or 4 ml ziram or 1 ml propiconajole per lit water in 15 days interval. 
+2016-07-25	Leaf miner:	Aphid, Leaf miner, phyto toxicity:: Stem application with monochrotophos @1:4 ration on young green stems. or spary 5 ml neemoil per lit water.
+2016-08-17	White fly:(low)	White fly:(low): spray NSKE 5% or 5ml neemoil/lit water. place yellow stick traps.
+2016-08-26	pesticide misuse 	pesticide misuse: 
+2016-09-09	healthy	healthy
+2016-09-19	healthy	healthy
+2016-10-06	White fly:	White fly: sticky yellow traps\nno use of pyrethroids\nspray 2 ml triazophos @ 2ml or profenophos 2 ml/ liter water + 5 % neem oil\n\n
+2016-10-17	picking	picking
+2016-10-27	Mealybug:	Mealybug: Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-11-07	Aphids:	Aphids: Spray Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-07-25	Sucking Pest	Sucking Pest Stem application with monochrotophos @1:4 ration on young green stems. or spray 5 ml neemoil per lit water.
+2016-08-17	Spray 19:19:19	Spray 19:19:19
+2016-08-26	Mealybug:	Mealybug,Stem application with monochrotophos @1:4 ration on young green stems. Removal and destruction of weeds and previous crop debris stored along with bunds.
+2016-09-09	Jassid 	JassidSpray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-19	Jassid 	Jassid: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-09-29	thrips:	thrips: Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-17	JAssids 	JAssids  Spray imidachloprid 2.5 ml or acetameprid 2 g, thaimethoaxim 2 g per 10 liters of water
+2016-10-27	Jassid, Aphid	Jassid, Aphid:Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 
+2016-11-07	Jassid, white fly: 	Jassid, white fly: Spray Acephate @1.5g or Dimethioate (Rogar) 2mi/l or Monochrotophos @ 2ml /l of water. 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report6" language="groovy" pageWidth="380" pageHeight="300" columnWidth="380" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0">
+	<property name="ireport.jasperserver.reportUnit" value="/reports/Fusion/Pie"/>
+	<property name="ireport.jasperserver.url" value="http://91.121.118.76:8081/jasperserver-pro/services/repository"/>
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString>
+		<![CDATA[SELECT
+     orders.`ORDERID` AS orders_ORDERID,
+     orders.`SHIPPEDDATE` AS orders_SHIPPEDDATE,
+     sum(orders.`FREIGHT`) AS orders_FREIGHT,
+     orders.`SHIPCITY` AS orders_SHIPCITY,
+     orders.`SHIPREGION` AS orders_SHIPREGION,
+     orders.`SHIPCOUNTRY` AS orders_SHIPCOUNTRY
+FROM
+     `ORDERS` orders
+GROUP BY
+     SHIPCOUNTRY
+LIMIT 7]]>
+	</queryString>
+	<field name="orders_ORDERID" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="orders_SHIPPEDDATE" class="java.sql.Timestamp">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="orders_FREIGHT" class="java.math.BigDecimal">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="orders_SHIPCITY" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="orders_SHIPREGION" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="orders_SHIPCOUNTRY" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<background>
+		<band/>
+	</background>
+	<title>
+		<band height="300">
+			<componentElement>
+				<reportElement x="0" y="20" width="380" height="280"/>
+				<fc:chart xmlns:fc="http://jaspersoft.com/fusion" xsi:schemaLocation="http://jaspersoft.com/fusion http://jaspersoft.com/schema/fusion.xsd" type="Pie3D" evaluationTime="Report">
+					<fc:chartProperty name="showBorder">
+						<fc:propertyExpression><![CDATA[Boolean.TRUE]]></fc:propertyExpression>
+					</fc:chartProperty>
+					<fc:chartProperty name="borderColor">
+						<fc:propertyExpression><![CDATA[new java.awt.Color(-16777216)]]></fc:propertyExpression>
+					</fc:chartProperty>
+					<fc:chartProperty name="borderThickness">
+						<fc:propertyExpression><![CDATA[new Integer(1)]]></fc:propertyExpression>
+					</fc:chartProperty>
+					<fc:chartDataset>
+						<fc:item>
+							<fc:seriesExpression><![CDATA[""]]></fc:seriesExpression>
+							<fc:labelExpression><![CDATA[$F{orders_SHIPCOUNTRY}]]></fc:labelExpression>
+							<fc:valueExpression><![CDATA[$F{orders_FREIGHT}]]></fc:valueExpression>
+						</fc:item>
+					</fc:chartDataset>
+				</fc:chart>
+			</componentElement>
+			<textField>
+				<reportElement mode="Opaque" x="0" y="0" width="380" height="20" backcolor="#CCCCFF"/>
+				<box topPadding="1" leftPadding="1" bottomPadding="1" rightPadding="1">
+					<pen lineWidth="0.0"/>
+					<topPen lineWidth="0.0"/>
+					<leftPen lineWidth="0.0"/>
+					<bottomPen lineWidth="0.0"/>
+					<rightPen lineWidth="0.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA["Units Sold in 2010"]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band/>
+	</pageHeader>
+	<columnHeader>
+		<band/>
+	</columnHeader>
+	<detail>
+		<band/>
+	</detail>
+	<columnFooter>
+		<band/>
+	</columnFooter>
+	<pageFooter>
+		<band/>
+	</pageFooter>
+	<summary>
+		<band/>
+	</summary>
+</jasperReport>

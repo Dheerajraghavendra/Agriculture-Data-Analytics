@@ -1,0 +1,2 @@
+Date    MAXT(C)    MINT (C)    RH1(%)    RH2 (%)    WS (kmph)    RF (mm)    SS (hr)    EVP (mm)
+2013-01-17    32.0    16.1    90.0    31.0    2.4    0.0    9.8    3.9

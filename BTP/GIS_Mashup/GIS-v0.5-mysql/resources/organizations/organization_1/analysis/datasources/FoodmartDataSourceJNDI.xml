@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jndiJdbcDataSource exportedWithPermissions="true"><folder>/organizations/organization_1/analysis/datasources</folder><name>FoodmartDataSourceJNDI</name><version>1</version><label>Foodmart Data Source JNDI</label><description>Foodmart Data Source JNDI</description><creationDate>2013-11-01T11:43:01.000-07:00</creationDate><updateDate>2013-10-24T06:05:33.000-07:00</updateDate><jndiName>jdbc/foodmart</jndiName></jndiJdbcDataSource>

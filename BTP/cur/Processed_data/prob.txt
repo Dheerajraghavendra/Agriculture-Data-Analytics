@@ -1,0 +1,39 @@
+thrips;fipronil;methyl damatan;xxxxxx;xxxxxx
+mites;phosalone;xxxxxx;xxxxxx;xxxxxx
+sucking pest;imidachloprid;dimethoate;xxxxxx;xxxxxx
+borer;carbofuran;manocrotophos;xxxxxx;xxxxxx
+white fly;neem oil;xxxxxx;xxxxxx;xxxxxx
+nitrogen defi;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+aphid;acetamiprid;thiomethaxam;acephate;dimethoate
+helicoverpa;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+caterpillar;catterpillar;chloripyriphos;cartep hydrochloride;xxxxxx
+leafminer;leaf miner;leaf minor;xxxxxx;xxxxxx
+spodoptera;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+cercospora;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+blast;leaf blast;xxxxxx;xxxxxx;xxxxxx
+grub;root grub;xxxxxx;xxxxxx;xxxxxx
+heliothis;prophalact;xxxxxx;xxxxxx;xxxxxx
+Boron defi;borax;xxxxxx;xxxxxx;xxxxxx
+fungus;prefenophos;carbendizm;xxxxxx;xxxxxx
+rodent;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+case worm;monochrotophos;xxxxxx;xxxxxx;xxxxxx
+tsv virus;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+blb;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+boll worm;spinosad;xxxxxx;xxxxxx;xxxxxx
+hispa;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+algal;algae;copper crystals;xxxxxx;xxxxxx
+moth;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+zn deficiency;zinc deficiency;xxxxxx;xxxxxx;xxxxxx
+bacterial;streptocyclin;coc;xxxxxx;xxxxxx
+jassid;triazophos;xxxxxx;xxxxxx;xxxxxx
+magnesium defi;mg defi;mgso4 defi;xxxxxx;xxxxxx
+die back;phytophthora;xxxxx;xxxxxx;xxxxxx
+blotch;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+square burning;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+chlorosis;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+mealy bug;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+leaf folder;chloranitriprol;xxxxxx;xxxxxx;xxxxxx
+choanephora;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+cutworm;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+mosaic;xxxxxx;xxxxxx;xxxxxx;xxxxxx
+mildew;xxxxxx;xxxxxx;xxxxxx;xxxxxx

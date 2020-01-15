@@ -1,0 +1,6 @@
+healthy	12,12
+die back	11,16
+aphid	1,1,2,2,4,7,8,10,11,11,13,13,14,14,16
+mealy bug	15,18,18,19,21,22
+helicoverpa	1
+thrips	1,6,6,8

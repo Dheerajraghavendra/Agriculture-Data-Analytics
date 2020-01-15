@@ -1,0 +1,6 @@
+jassid	12,18,16,19,1,5
+healthy	12
+Boron defi	8,9,15,17
+aphid	13,18,1,2
+sucking pest	2,4
+thrips	5

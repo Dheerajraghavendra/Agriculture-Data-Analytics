@@ -1,0 +1,4 @@
+leafminer	8,8
+white fly	6,6
+sucking pest	12
+aphid	12,13

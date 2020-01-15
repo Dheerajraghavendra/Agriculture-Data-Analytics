@@ -1,0 +1,2 @@
+spodoptera	4
+aphid	4

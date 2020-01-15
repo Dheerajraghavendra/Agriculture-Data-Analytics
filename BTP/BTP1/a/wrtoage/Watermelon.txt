@@ -1,0 +1,5 @@
+healthy	0,1
+Boron defi	6,8
+jassid	3,4,5,6,3,4
+thrips	2
+sucking pest	0,0,2

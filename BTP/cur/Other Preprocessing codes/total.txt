@@ -1,0 +1,1337 @@
+2016-01-04	ts_ran_sha_pro_0007_oct15_0_bott_a_2016-01-02	Bottlegourd	aphid
+2016-01-04	ts_ran_sha_bul_0006_aug15_0_brin_a_2016-01-03	Brinjal	sucking pest;borer;jassid
+2016-01-04	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-01-03	Brinjal	sucking pest;borer;jassid
+2016-01-04	ts_ran_sha_tan_0002_sep15_0_brin_a_2016-01-02	Brinjal	mites;borer
+2016-01-04	ts_ran_sha_tan_0005_sep15_0_brin_a_2016-01-02	Brinjal	white fly;jassid
+2016-01-04	ts_ran_sha_bul_0014_nov15_0_chic_a_2016-01-03	Chickpea_Bengalgram	helicoverpa
+2016-01-04	ts_ran_sha_yel_0001_dec15_0_chic_a_2016-01-02	Chickpea_Bengalgram	helicoverpa
+2016-01-04	ts_med_nar_nar_0001_oct15_0_clus_a_2016-01-03	ClusterBean	jassid
+2016-01-04	ts_med_nar_nar_0002_nov15_0_clus_a_2016-01-03	ClusterBean	sucking pest;mildew
+2016-01-04	ts_med_nar_nar_0003_nov15_0_clus_a_2016-01-03	ClusterBean	sucking pest
+2016-01-04	ts_med_nar_nar_0010_nov15_0_toma_a_2016-01-04	Tomato	sucking pest
+2016-01-04	ts_med_nar_bra_0004_jan16_0_toma_b_2016-01-04	Tomato	sucking pest
+2016-01-04	ts_med_nar_lin_0011_dec15_0_toma_b_2016-01-04	Tomato	sucking pest
+2016-01-04	ts_med_nar_nar_0008_nov15_0_toma_b_2016-01-04	Tomato	sucking pest
+2016-01-04	ts_ran_sha_tan_0008_jan16_0_toma_a_2016-01-02	Tomato	sucking pest
+2016-01-04	ts_ran_sha_yel_0001_nov15_0_chil_a_2016-01-02	Chilli	thrips
+2016-01-04	ts_med_nar_bra_0004_jan16_0_lady_a_2016-01-03	Ladyfinger	aphid
+2016-01-04	ts_med_nar_bra_0005_jan16_0_lady_a_2016-01-03	Ladyfinger	aphid
+2016-01-04	ts_ran_sha_bul_0013_nov15_0_lady_a_2016-01-03	Ladyfinger	sucking pest;spodoptera;mildew
+2016-01-04	ts_ran_sha_yel_0009_aug15_0_lady_a_2016-01-02	Ladyfinger	sucking pest;jassid;mildew
+2016-01-04	ap_war_gha_mal_0008_nov15_0_maiz_a_2016-01-01	Maize	borer
+2016-01-04	ap_war_gha_ven_0002_nov15_0_maiz_a_2016-01-01	Maize	borer
+2016-01-05	ts_med_war_war_0023_sep15_6_chil_a_2016-01-04	Chilli	thrips
+2016-01-05	ts_med_war_war_0021_sep15_16_bott_c_2016-01-04	Bottlegourd	sucking pest
+2016-01-05	ts_med_war_war_0023_sep15_23_maiz_d_2016-01-04	Maize	borer
+2016-01-05	ts_med_war_war_0029_jan16_2_maiz_b_2016-01-04	Maize	borer
+2016-01-05	ts_med_war_war_0025_nov15_3_clus_e_2016-01-04	ClusterBean	sucking pest;mildew
+2016-01-05	ts_med_war_war_0028_jan16_2_clus_b_2016-01-04	ClusterBean	sucking pest;mildew
+2016-01-05	ts_med_war_war_0028_jan16_2_grou_c_2016-01-04	Groundnut	thrips
+2016-01-05	ts_med_war_war_0026_nov15_23_lady_a_2016-01-04	Ladyfinger	sucking pest;mildew
+2016-01-05	ts_med_war_war_0027_dec15_23_lady_a_2016-01-04	Ladyfinger	sucking pest;mildew
+2016-01-05	ts_med_war_war_0028_jan16_2_lady_a_2016-01-04	Ladyfinger	sucking pest;mildew
+2016-01-05	ts_med_war_war_0029_jan16_2_lady_a_2016-01-04	Ladyfinger	sucking pest;mildew
+2016-01-07	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-01-07	Brinjal	sucking pest;borer;jassid
+2016-01-08	ts_med_jin_gum_0006_nov15_0_bitt_e_2016-01-08	Bittergourd	sucking pest;aphid
+2016-01-08	ts_med_jin_gum_0009_nov15_0_bitt_e_2016-01-08	Bittergourd	sucking pest;aphid
+2016-01-08	ts_med_jin_gum_0010_oct15_0_bitt_d_2016-01-08	Bittergourd	sucking pest;aphid
+2016-01-08	ts_med_jin_gum_0019_nov15_0_bitt_d_2016-01-08	Bittergourd	sucking pest;aphid
+2016-01-08	ts_med_jin_gum_0020_nov15_0_bitt_a_2016-01-08	Bittergourd	sucking pest;aphid
+2016-01-08	ts_med_jin_gum_0020_nov15_0_bitt_a_2015-12-29	Bittergourd	sucking pest;aphid
+2016-01-08	ts_med_jin_gum_0024_dec15_0_brin_a_2016-01-08	Brinjal	sucking pest;jassid
+2016-01-08	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-01-07	Brinjal	sucking pest;jassid
+2016-01-08	ts_ran_sha_maa_0013_sep15_0_caul_a_2016-01-07	Cauliflower	boll worm
+2016-01-08	ts_med_jin_gum_0026_jan16_0_caul_b_2016-01-08	Cauliflower	boll worm
+2016-01-08	ts_med_jin_gum_0020_jan16_0_caul_c_2016-01-08	Cauliflower	boll worm
+2016-01-08	ts_ran_sha_paa_0012_oct15_0_chic_a_2016-01-07	Chickpea_Bengalgram	helicoverpa
+2016-01-08	ts_med_jin_gum_0011_sep15_0_chil_c_2016-01-08	Chilli	thrips
+2016-01-08	ts_med_jin_gum_0019_nov15_0_chil_b_2016-01-08	Chilli	thrips
+2016-01-08	ts_med_jin_nal_0019_nov15_0_chil_c_2016-01-08	Chilli	thrips
+2016-01-08	ts_med_mul_mul_0023_jan16_7_chil_b_2016-01-07	Chilli	thrips
+2016-01-08	ts_med_mul_mul_0020_nov15_18_clus_b_2016-01-07	ClusterBean	jassid
+2016-01-08	ts_med_jin_gum_0008_nov15_0_toma_b_2016-01-08	Tomato	jassid
+2016-01-08	ts_med_mul_mul_0021_oct15_30_toma_d_2016-01-07	Tomato	jassid
+2016-01-08	ts_med_mul_mul_0023_jan16_7_toma_a_2016-01-07	Tomato	jassid
+2016-01-08	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-01-07	Tomato	thrips;sucking pest
+2016-01-08	ts_ran_sha_maa_0012_sep15_0_toma_a_2016-01-07	Tomato	thrips
+2016-01-08	ts_med_mul_mul_0019_sep15_20_snak_e_2016-01-07	Snakegourd	Boron defi
+2016-01-08	ts_med_jin_gum_0020_dec15_0_brin_b_2016-01-08	Brinjal	mites;jassid
+2016-01-08	ts_med_jin_nal_0019_dec15_0_brin_b_2016-01-08	Brinjal	sucking pest;jassid
+2016-01-08	ts_med_jin_gum_0011_sep15_0_caul_a_2016-01-08	Cauliflower	boll worm
+2016-01-08	ts_med_jin_gum_0027_jan16_0_caul_a_2016-01-08	Cauliflower	boll worm
+2016-01-08	ts_ran_sha_maa_0012_sep15_0_caul_a_2016-01-07	Cauliflower	bacterial
+2016-01-08	ts_med_mul_mul_0019_nov15_8_chil_h_2016-01-07	Chilli	thrips
+2016-01-08	ts_med_mul_mul_0021_nov15_18_chil_e_2016-01-07	Chilli	thrips;mites;jassid
+2016-01-08	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-01-07	Chilli	thrips
+2016-01-08	ts_med_jin_nal_0017_jan16_0_caul_c_2016-01-08	Cauliflower	boll worm
+2016-01-08	ts_med_jin_gum_0009_sep15_0_toma_c_2016-01-08	Tomato	jassid
+2016-01-08	ts_med_jin_gum_0021_dec15_0_toma_b_2016-01-08	Tomato	jassid
+2016-01-08	ts_med_jin_gum_0024_dec15_0_toma_b_2016-01-08	Tomato	aphid
+2016-01-08	ts_med_jin_gum_0026_jan16_0_toma_a_2016-01-08	Tomato	jassid
+2016-01-08	ts_ran_sha_maa_0014_sep15_0_toma_a_2016-01-07	Tomato	sucking pest
+2016-01-08	ts_ran_sha_bul_0013_sep15_0_toma_a_2016-01-06	Tomato	thrips
+2016-01-08	ts_med_mul_mul_0020_aug15_17_toma_b_2016-01-07	Tomato	sucking pest
+2016-01-08	ts_med_mul_mul_0019_aug15_0_toma_c_2016-01-07	Tomato	sucking pest
+2016-01-08	ts_med_mul_mul_0019_aug15_16_bitt_b_2016-01-07	Bittergourd	mildew
+2016-01-11	ts_med_gaj_ahm_0028_sep15_0_bitt_b_2016-01-09	Bittergourd	mildew
+2016-01-11	ts_ran_sha_pro_0007_oct15_0_bott_a_2016-01-09	Bottlegourd	leafminer
+2016-01-11	ts_med_pat_pat_0003_dec15_0_chil_a_2016-01-08	Chilli	thrips;mildew
+2016-01-11	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-01-09	Chilli	thrips
+2016-01-11	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-01-09	Chilli	thrips
+2016-01-11	ts_ran_sha_mah_0010_sep15_0_chil_a_2016-01-09	Chilli	thrips
+2016-01-11	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-01-09	Chilli	thrips
+2016-01-11	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-01-09	Chilli	thrips
+2016-01-11	ts_med_gaj_ahm_0029_sep15_21_brin_a_2016-01-09	Brinjal	borer
+2016-01-11	ts_med_nar_lin_0008_dec15_0_brin_b_2016-01-10	Brinjal	sucking pest;jassid
+2016-01-11	ts_med_pat_gha_0003_oct15_2_brin_a_2016-01-08	Brinjal	sucking pest;jassid
+2016-01-11	ts_med_pat_pat_0010_dec15_0_brin_a_2016-01-08	Brinjal	sucking pest;jassid
+2016-01-11	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-01-09	Brinjal	sucking pest;jassid
+2016-01-11	ts_ran_sha_tan_0002_sep15_0_brin_a_2016-01-09	Brinjal	borer
+2016-01-11	ts_med_gaj_ahm_0030_sep15_21_clus_a_2016-01-09	ClusterBean	jassid
+2016-01-11	ts_med_nar_bra_0005_jan16_0_clus_c_2016-01-10	ClusterBean	sucking pest;mildew
+2016-01-11	ts_med_nar_lin_0015_jan16_0_clus_c_2016-01-10	ClusterBean	sucking pest;mildew
+2016-01-11	ts_med_nar_nar_0001_oct15_0_clus_a_2016-01-10	ClusterBean	sucking pest
+2016-01-11	ts_med_nar_nar_0002_nov15_0_clus_a_2016-01-10	ClusterBean	sucking pest;mildew
+2016-01-11	ts_med_pat_gha_0004_nov15_0_clus_a_2016-01-08	ClusterBean	borer
+2016-01-11	ts_ran_sha_yel_0009_aug15_0_clus_a_2016-01-09	ClusterBean	jassid
+2016-01-11	ts_med_nar_bra_0004_jan16_0_lady_a_2016-01-10	Ladyfinger	aphid;spodoptera
+2016-01-11	ts_med_nar_bra_0005_jan16_0_lady_a_2016-01-10	Ladyfinger	aphid
+2016-01-11	ts_ran_sha_yel_0009_nov15_0_lady_a_2016-01-09	Ladyfinger	aphid
+2016-01-11	ts_med_gaj_ahm_0028_dec15_30_maiz_d_2016-01-09	Maize	borer
+2016-01-11	ts_med_gaj_ahm_0007_dec15_23_sunf_b_2016-01-09	Sunflower	sucking pest
+2016-01-11	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-01-09	Tomato	jassid
+2016-01-11	ts_med_nar_lin_0015_jan16_0_toma_b_2016-01-10	Tomato	thrips;sucking pest
+2016-01-11	ts_med_nar_nar_0008_nov15_0_toma_b_2016-01-10	Tomato	sucking pest
+2016-01-11	ts_med_nar_nar_0010_nov15_0_toma_a_2016-01-10	Tomato	thrips
+2016-01-11	ts_ran_sha_mah_0004_aug15_0_toma_a_2016-01-09	Tomato	thrips;sucking pest
+2016-01-11	ts_ran_sha_tan_0006_sep15_0_toma_a_2016-01-09	Tomato	sucking pest
+2016-01-12	ts_ran_sha_bul_0013_nov15_0_lady_a_2016-01-11	Ladyfinger	sucking pest;mildew
+2016-01-12	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-01-09	Brinjal	sucking pest;jassid
+2016-01-12	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-01-09	ClusterBean	aphid
+2016-01-12	ts_med_gaj_ahm_0007_dec15_23_cucu_d_2016-01-09	Cucumber	sucking pest;jassid
+2016-01-12	ts_ran_sha_bul_0006_aug15_0_brin_a_2016-01-11	Brinjal	sucking pest;borer;jassid
+2016-01-12	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-01-11	Brinjal	sucking pest;borer;jassid
+2016-01-12	ts_ran_sha_bul_0014_nov15_0_chic_a_2016-01-11	Chickpea_Bengalgram	helicoverpa
+2016-01-12	ts_ran_sha_bul_0015_nov15_0_chic_a_2016-01-11	Chickpea_Bengalgram	helicoverpa
+2016-01-13	ts_med_war_war_0021_sep15_16_bott_c_2016-01-12	Bottlegourd	sucking pest;mildew
+2016-01-13	ts_med_war_war_0029_jan16_2_bott_c_2016-01-12	Bottlegourd	aphid
+2016-01-13	ts_med_war_war_0025_nov15_3_clus_e_2016-01-12	ClusterBean	jassid
+2016-01-13	ts_med_war_war_0028_jan16_2_clus_b_2016-01-12	ClusterBean	sucking pest;mildew
+2016-01-13	ts_med_war_war_0028_jan16_2_grou_c_2016-01-12	Groundnut	thrips
+2016-01-13	ts_med_war_war_0028_jan16_2_lady_a_2016-01-12	Ladyfinger	sucking pest;mildew
+2016-01-13	ts_med_war_war_0026_dec15_23_maiz_d_2016-01-12	Maize	borer
+2016-01-13	ts_med_war_war_0027_dec15_3_maiz_b_2016-01-12	Maize	borer
+2016-01-13	ts_med_war_war_0025_nov15_14_onio_d_2016-01-12	Onion	thrips;blotch
+2016-01-13	ts_med_nar_bra_0003_dec15_0_onio_a_2016-01-10	Onion	thrips;blotch
+2016-01-18	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-01-17	Marigold	thrips
+2016-01-18	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-01-17	Marigold	thrips
+2016-01-18	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-01-17	Tomato	thrips;bacterial
+2016-01-18	ts_ran_sha_maa_0014_sep15_0_toma_a_2016-01-17	Tomato	sucking pest
+2016-01-18	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-01-17	Brinjal	sucking pest
+2016-01-18	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-01-17	Brinjal	sucking pest;borer;jassid
+2016-01-18	ts_ran_sha_kot_0001_jan16_0_onio_a_2016-01-17	Onion	thrips;blotch
+2016-01-18	ts_ran_sha_rav_0007_sep15_0_jasm_a_2016-01-17	Jasmine	borer
+2016-01-18	ts_ran_sha_rav_0002_aug15_0_jasm_a_2016-01-17	Jasmine	borer
+2016-01-18	ts_ran_sha_rav_0001_aug15_0_jasm_a_2016-01-17	Jasmine	borer
+2016-01-18	ts_ran_sha_maa_0012_sep15_0_caul_a_2016-01-17	Cauliflower	aphid
+2016-01-18	ts_ran_sha_maa_0013_sep15_0_caul_a_2016-01-17	Cauliflower	aphid
+2016-01-18	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-01-17	Chilli	thrips
+2016-01-19	ts_med_jin_gum_0006_nov15_0_bitt_e_2016-01-18	Bittergourd	sucking pest;aphid
+2016-01-19	ts_med_jin_gum_0009_nov15_0_bitt_e_2016-01-18	Bittergourd	sucking pest;aphid
+2016-01-19	ts_med_jin_gum_0010_oct15_0_bitt_d_2016-01-18	Bittergourd	sucking pest;aphid
+2016-01-19	ts_med_jin_gum_0019_nov15_0_bitt_d_2016-01-18	Bittergourd	sucking pest;aphid
+2016-01-19	ts_med_pat_pat_0010_dec15_0_brin_a_2016-01-18	Brinjal	sucking pest;borer;jassid
+2016-01-19	ts_med_jin_nal_0015_jul15_0_brin_a_2016-01-18	Brinjal	jassid
+2016-01-19	ts_med_jin_gum_0008_dec15_0_brin_c_2016-01-18	Brinjal	jassid
+2016-01-19	ts_med_jin_gum_0020_jan16_0_caul_c_2016-01-18	Cauliflower	boll worm
+2016-01-19	ts_med_jin_gum_0026_jan16_0_caul_b_2016-01-18	Cauliflower	boll worm
+2016-01-19	ts_med_jin_gum_0027_jan16_0_caul_a_2016-01-18	Cauliflower	boll worm
+2016-01-19	ts_med_jin_gum_0028_jan16_0_caul_a_2016-01-18	Cauliflower	boll worm
+2016-01-19	ts_med_jin_nal_0017_jan16_0_caul_c_2016-01-18	Cauliflower	boll worm
+2016-01-19	ts_med_pat_pat_0002_dec15_0_chic_a_2016-01-18	Chickpea_Bengalgram	helicoverpa
+2016-01-19	ts_med_mul_mul_0019_aug15_16_bitt_b_2016-01-18	Bittergourd	sucking pest;aphid
+2016-01-19	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-01-19	Brinjal	jassid
+2016-01-19	ts_med_jin_nal_0019_dec15_0_brin_b_2016-01-18	Brinjal	white fly;jassid
+2016-01-19	ts_med_jin_gum_0020_dec15_0_brin_b_2016-01-18	Brinjal	white fly;jassid
+2016-01-19	ts_med_gaj_ahm_0029_sep15_21_brin_a_2016-01-19	Brinjal	sucking pest
+2016-01-19	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-01-19	Brinjal	sucking pest;jassid
+2016-01-19	ts_med_gaj_ahm_0011_dec15_30_wate_b_2016-01-19	Watermelon	Boron defi
+2016-01-19	ts_med_gaj_ahm_0005_dec15_22_sunf_b_2016-01-19	Sunflower	sucking pest
+2016-01-19	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-01-19	Tomato	borer
+2016-01-19	ts_med_jin_gum_0008_nov15_0_toma_b_2016-01-18	Tomato	jassid
+2016-01-19	ts_med_jin_gum_0009_sep15_0_toma_c_2016-01-18	Tomato	thrips;sucking pest
+2016-01-19	ts_med_jin_gum_0014_nov15_0_toma_a_2016-01-18	Tomato	thrips;sucking pest
+2016-01-19	ts_med_jin_gum_0021_dec15_0_toma_b_2016-01-18	Tomato	jassid
+2016-01-19	ts_med_jin_gum_0025_dec15_0_toma_a_2016-01-18	Tomato	jassid
+2016-01-19	ts_med_mul_mul_0012_jan16_6_toma_b_2016-01-18	Tomato	sucking pest
+2016-01-19	ts_med_mul_mul_0021_oct15_30_toma_d_2016-01-18	Tomato	jassid
+2016-01-19	ts_med_mul_mul_0012_dec15_28_clus_c_2016-01-18	ClusterBean	jassid
+2016-01-19	ts_med_pat_gha_0004_nov15_0_clus_a_2016-01-18	ClusterBean	aphid
+2016-01-19	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-01-19	ClusterBean	aphid
+2016-01-19	ts_med_mul_mul_0019_sep15_20_snak_e_2016-01-18	Snakegourd	aphid
+2016-01-19	ts_med_pat_gha_0002_dec15_0_ridg_a_2016-01-18	Ridgegourd	sucking pest;aphid
+2016-01-19	ts_ran_sha_mah_0002_dec15_0_onio_a_2016-01-19	Onion	thrips;blotch
+2016-01-19	ts_med_mul_mul_0012_jan16_18_maiz_c_2016-01-18	Maize	borer
+2016-01-19	ts_med_gaj_ahm_0007_dec15_23_cucu_d_2016-01-19	Cucumber	sucking pest;aphid
+2016-01-19	ts_med_gaj_ahm_0029_oct15_24_cucu_c_2016-01-19	Cucumber	jassid
+2016-01-19	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-01-19	Chilli	thrips;mildew
+2016-01-19	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-01-19	Chilli	thrips
+2016-01-19	ts_med_jin_gum_0011_sep15_0_chil_c_2016-01-18	Chilli	thrips;mildew
+2016-01-19	ts_med_jin_gum_0019_nov15_0_chil_b_2016-01-18	Chilli	thrips;mildew
+2016-01-19	ts_med_jin_nal_0011_nov15_0_chil_c_2016-01-18	Chilli	thrips;mildew
+2016-01-19	ts_med_jin_nal_0019_nov15_0_chil_c_2016-01-18	Chilli	thrips
+2016-01-19	ts_med_jin_nal_0022_oct15_0_chil_a_2016-01-18	Chilli	thrips;mildew
+2016-01-19	ts_med_mul_mul_0021_nov15_18_chil_e_2016-01-18	Chilli	thrips;mildew
+2016-01-19	ts_med_pat_pat_0003_dec15_0_chil_a_2016-01-18	Chilli	thrips;mildew
+2016-01-19	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-01-19	Chilli	thrips
+2016-01-19	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-01-19	Chilli	thrips
+2016-01-19	ts_med_pat_gha_0003_oct15_2_brin_a_2016-01-18	Brinjal	mites;borer
+2016-01-20	ts_ran_sha_pro_0007_oct15_0_bott_a_2016-01-19	Bottlegourd	jassid;mildew
+2016-01-20	ts_ran_sha_tan_0002_sep15_0_brin_a_2016-01-19	Brinjal	sucking pest;jassid;mildew
+2016-01-20	ts_ran_sha_mah_0010_sep15_0_chil_a_2016-01-19	Chilli	thrips
+2016-01-20	ts_ran_sha_yel_0002_nov15_0_chil_a_2016-01-19	Chilli	thrips;mildew
+2016-01-20	ts_med_nar_bra_0005_jan16_0_clus_c_2016-01-19	ClusterBean	sucking pest;mildew
+2016-01-20	ts_med_nar_lin_0015_jan16_0_clus_c_2016-01-19	ClusterBean	sucking pest;mildew
+2016-01-20	ts_med_nar_lin_0016_jan16_0_clus_b_2016-01-19	ClusterBean	sucking pest;mildew
+2016-01-20	ts_med_nar_nar_0001_oct15_0_clus_a_2016-01-19	ClusterBean	sucking pest;mildew
+2016-01-20	ts_ran_sha_yel_0009_aug15_0_clus_a_2016-01-19	ClusterBean	thrips;sucking pest
+2016-01-20	ts_med_nar_bra_0004_jan16_0_lady_a_2016-01-19	Ladyfinger	aphid
+2016-01-20	ts_med_nar_bra_0005_jan16_0_lady_a_2016-01-19	Ladyfinger	sucking pest;mildew
+2016-01-20	ts_ran_sha_yel_0009_aug15_0_lady_a_2016-01-19	Ladyfinger	aphid;spodoptera
+2016-01-20	ts_med_nar_bra_0005_jan16_0_toma_b_2016-01-19	Tomato	sucking pest
+2016-01-20	ts_med_nar_gol_0001_jul15_0_toma_a_2016-01-19	Tomato	jassid
+2016-01-20	ts_med_nar_lin_0014_jan16_0_toma_a_2016-01-19	Tomato	thrips;sucking pest
+2016-01-20	ts_med_nar_nar_0002_dec15_0_toma_c_2016-01-19	Tomato	thrips;sucking pest
+2016-01-20	ts_med_nar_nar_0008_nov15_0_toma_b_2016-01-19	Tomato	thrips;sucking pest
+2016-01-20	ts_ran_sha_tan_0006_sep15_0_toma_a_2016-01-19	Tomato	thrips;sucking pest
+2016-01-20	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-01-19	Tomato	thrips
+2016-01-20	ts_med_nar_lin_0010_dec15_0_onio_a_2016-01-19	Onion	thrips;blotch
+2016-01-20	ts_med_nar_lin_0011_dec15_0_onio_a_2016-01-19	Onion	thrips;blotch
+2016-01-20	ts_med_nar_lin_0013_dec15_0_onio_a_2016-01-19	Onion	thrips;blotch
+2016-01-20	ts_med_nar_lin_0015_jan16_0_onio_a_2016-01-19	Onion	thrips;blotch
+2016-01-22	ap_war_gha_pee_0005_jan16_0_rice_a_2016-01-20	Rice	borer
+2016-01-22	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-01-21	Tomato	thrips;sucking pest
+2016-01-22	ts_ran_sha_bul_0016_sep15_0_toma_a_2016-01-21	Tomato	thrips;sucking pest
+2016-01-22	ap_war_gha_lin_0001_nov15_0_maiz_a_2016-01-20	Maize	borer
+2016-01-22	ap_war_gha_mal_0008_nov15_0_maiz_a_2016-01-20	Maize	borer
+2016-01-22	ap_war_gha_ven_0002_nov15_0_maiz_a_2016-01-20	Maize	borer
+2016-01-22	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-01-21	Bottlegourd	jassid
+2016-01-22	ap_war_gha_pee_0006_jan16_0_brin_a_2016-01-20	Brinjal	sucking pest;jassid
+2016-01-22	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-01-21	Brinjal	sucking pest;jassid
+2016-01-22	ts_ran_sha_bul_0014_nov15_0_chic_a_2016-01-21	Chickpea_Bengalgram	helicoverpa
+2016-01-25	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-01-23	Chilli	thrips
+2016-01-25	ts_med_war_war_0030_jan16_22_cabb_a_2016-01-25	Cabbage	caterpillar
+2016-01-25	ts_med_war_war_0025_nov15_3_clus_e_2016-01-25	ClusterBean	sucking pest;mildew
+2016-01-25	ts_med_war_war_0028_jan16_2_clus_b_2016-01-25	ClusterBean	sucking pest;mildew
+2016-01-25	ts_med_war_war_0029_jan16_2_lady_a_2016-01-25	Ladyfinger	sucking pest;mildew
+2016-01-25	ts_med_war_war_0030_jan16_22_maiz_b_2016-01-25	Maize	borer
+2016-01-25	ts_med_war_war_0028_jan16_2_lady_a_2016-01-25	Ladyfinger	sucking pest;mildew
+2016-01-27	ts_med_war_war_0028_jan16_2_grou_c_2016-01-25	Groundnut	thrips;jassid
+2016-01-27	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-01-27	Brinjal	sucking pest;borer;jassid
+2016-01-27	ts_ran_sha_maa_0012_sep15_0_caul_a_2016-01-27	Cauliflower	aphid
+2016-01-27	ts_ran_sha_maa_0016_nov15_0_chic_a_2016-01-27	Chickpea_Bengalgram	helicoverpa
+2016-01-27	ts_med_mul_mul_0012_dec15_18_chil_b_2016-01-27	Chilli	thrips
+2016-01-27	ts_med_mul_mul_0021_nov15_18_chil_e_2016-01-27	Chilli	thrips
+2016-01-27	ts_med_mul_mul_0023_jan16_7_chil_b_2016-01-27	Chilli	thrips
+2016-01-27	ts_med_mul_mul_0012_dec15_28_clus_c_2016-01-27	ClusterBean	jassid
+2016-01-27	ts_ran_sha_rav_0002_aug15_0_jasm_a_2016-01-27	Jasmine	borer
+2016-01-27	ts_med_mul_mul_0012_jan16_18_maiz_c_2016-01-27	Maize	borer;spodoptera
+2016-01-27	ts_ran_sha_rav_0008_jan16_0_onio_a_2016-01-27	Onion	thrips;blotch
+2016-01-27	ts_med_mul_mul_0019_sep15_20_snak_e_2016-01-27	Snakegourd	jassid
+2016-01-27	ts_med_mul_mul_0012_jan16_6_toma_b_2016-01-27	Tomato	thrips;sucking pest
+2016-01-27	ts_med_mul_mul_0021_sep15_20_toma_a_2016-01-27	Tomato	jassid
+2016-01-27	ts_med_mul_mul_0023_jan16_7_toma_c_2016-01-27	Tomato	thrips;sucking pest
+2016-01-27	ts_ran_sha_maa_0012_sep15_0_toma_a_2016-01-27	Tomato	thrips;bacterial
+2016-01-27	ts_ran_sha_maa_0014_sep15_0_toma_a_2016-01-27	Tomato	thrips;sucking pest
+2016-01-28	ts_med_jin_gum_0009_nov15_0_bitt_e_2016-01-27	Bittergourd	sucking pest;aphid
+2016-01-28	ts_med_jin_gum_0010_oct15_0_bitt_d_2016-01-27	Bittergourd	sucking pest;aphid
+2016-01-28	ts_med_jin_gum_0020_nov15_0_bitt_a_2016-01-27	Bittergourd	sucking pest;aphid
+2016-01-28	ts_med_jin_gum_0006_nov15_0_bitt_e_2016-01-27	Bittergourd	sucking pest;aphid
+2016-01-28	ts_med_jin_nal_0015_jul15_0_brin_a_2016-01-27	Brinjal	jassid
+2016-01-28	ts_ran_sha_kot_0001_jan16_0_onio_a_2016-01-27	Onion	thrips;blotch
+2016-01-28	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-01-27	Chilli	thrips;mildew
+2016-01-28	ts_med_jin_nal_0015_jan16_0_cucu_f_2016-01-27	Cucumber	jassid
+2016-01-28	ts_med_jin_nal_0023_jan16_0_cucu_a_2016-01-27	Cucumber	jassid
+2016-01-28	ts_med_jin_gum_0027_jan16_0_caul_a_2016-01-27	Cauliflower	boll worm
+2016-01-28	ts_med_jin_gum_0028_jan16_0_caul_a_2016-01-27	Cauliflower	boll worm
+2016-01-28	ts_med_jin_nal_0017_jan16_0_caul_c_2016-01-27	Cauliflower	boll worm
+2016-01-28	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-01-27	Marigold	aphid
+2016-01-28	ts_med_jin_nal_0007_oct15_0_clus_d_2016-01-27	ClusterBean	jassid
+2016-01-28	ts_med_jin_nal_0011_oct15_0_clus_d_2016-01-27	ClusterBean	thrips;sucking pest
+2016-01-28	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-01-27	Brinjal	aphid
+2016-01-28	ts_med_jin_nal_0019_dec15_0_brin_b_2016-01-27	Brinjal	sucking pest;jassid
+2016-01-28	ts_med_jin_gum_0024_dec15_0_brin_a_2016-01-27	Brinjal	sucking pest;jassid
+2016-01-28	ts_med_jin_gum_0020_dec15_0_brin_b_2016-01-27	Brinjal	sucking pest;jassid
+2016-01-28	ts_med_jin_gum_0008_dec15_0_brin_c_2016-01-27	Brinjal	jassid
+2016-01-28	ts_med_jin_gum_0006_nov15_0_caps_e_2016-01-27	Capsicum	thrips
+2016-01-28	ts_ran_sha_mas_0014_sep15_0_lady_a_2016-01-27	Ladyfinger	sucking pest;mildew
+2016-01-28	ts_med_jin_gum_0009_sep15_0_toma_c_2016-01-27	Tomato	thrips;sucking pest
+2016-01-28	ts_med_jin_gum_0008_nov15_0_toma_b_2016-01-27	Tomato	jassid
+2016-01-28	ts_med_jin_gum_0008_nov15_0_toma_b_2016-01-27	Tomato	jassid
+2016-01-28	ts_med_jin_gum_0021_dec15_0_toma_b_2016-01-27	Tomato	jassid
+2016-01-28	ts_med_jin_gum_0025_dec15_0_toma_a_2016-01-27	Tomato	jassid
+2016-01-28	ts_med_jin_nal_0011_nov15_0_toma_c_2016-01-27	Tomato	jassid
+2016-01-29	ts_med_pat_gha_0004_jan16_0_bott_a_2016-01-28	Bottlegourd	aphid
+2016-01-29	ts_med_pat_nan_0001_jan16_0_clus_a_2016-01-28	ClusterBean	borer
+2016-01-29	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-01-28	ClusterBean	thrips;sucking pest
+2016-01-29	ts_med_gaj_ahm_0029_oct15_24_cucu_c_2016-01-28	Cucumber	sucking pest;jassid
+2016-01-29	ts_med_war_war_0027_dec15_23_lady_a_2016-01-25	Ladyfinger	aphid
+2016-01-29	ts_med_pat_gha_0005_dec15_0_onio_a_2016-01-28	Onion	thrips;blotch
+2016-01-29	ts_ran_sha_mah_0002_dec15_0_onio_a_2016-01-28	Onion	thrips;blotch
+2016-01-29	ts_med_gaj_ahm_0005_dec15_22_sunf_b_2016-01-28	Sunflower	sucking pest
+2016-01-29	ts_med_gaj_ahm_0007_dec15_23_sunf_b_2016-01-28	Sunflower	sucking pest
+2016-01-29	ts_med_pat_gha_0002_dec15_0_ridg_a_2016-01-28	Ridgegourd	sucking pest;mildew
+2016-01-29	ts_med_pat_gha_0003_oct15_2_brin_a_2016-01-28	Brinjal	sucking pest
+2016-01-29	ts_med_pat_pat_0010_dec15_0_brin_a_2016-01-28	Brinjal	sucking pest;jassid
+2016-01-29	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-01-28	Brinjal	sucking pest;jassid
+2016-01-30	ts_med_pat_pat_0010_jan16_0_bott_a_2016-01-28	Bottlegourd	aphid
+2016-01-30	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-01-28	Chilli	thrips
+2016-01-30	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-01-28	Chilli	thrips
+2016-01-30	ts_med_pat_pat_0003_dec15_0_chil_a_2016-01-28	Chilli	thrips;mildew
+2016-01-30	ts_ran_sha_mah_0010_sep15_0_chil_a_2016-01-28	Chilli	thrips
+2016-01-30	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-01-28	Chilli	thrips
+2016-01-30	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-01-28	Chilli	thrips
+2016-01-30	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-01-28	Tomato	sucking pest
+2016-01-30	ts_med_pat_gha_0001_oct15_11_toma_a_2016-01-28	Tomato	Boron defi
+2016-01-30	ts_ran_sha_mah_0004_aug15_0_toma_a_2016-01-28	Tomato	sucking pest
+2016-01-30	ts_ran_sha_mah_0009_sep15_0_toma_a_2016-01-28	Tomato	Boron defi
+2016-01-30	ts_med_gaj_ahm_0011_dec15_30_wate_b_2016-01-30	Watermelon	Boron defi
+2016-01-30	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-01-30	Tomato	sucking pest
+2016-01-30	ts_med_gaj_ahm_0005_dec15_22_sunf_b_2016-01-30	Sunflower	sucking pest
+2016-01-30	ts_med_gaj_ahm_0007_dec15_23_sunf_b_2016-01-30	Sunflower	sucking pest
+2016-01-30	ts_ran_sha_pro_0009_sep15_0_rose_a_2016-01-30	Rose	aphid
+2016-01-30	ts_med_gaj_ahm_0029_oct15_24_cucu_c_2016-01-30	Cucumber	thrips;sucking pest
+2016-01-30	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-01-30	ClusterBean	sucking pest;mildew
+2016-01-30	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-01-30	Chilli	thrips
+2016-01-30	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-01-30	Chilli	thrips
+2016-01-30	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-01-30	Chilli	thrips
+2016-01-30	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-01-30	Bottlegourd	leafminer;mildew
+2016-01-30	ts_ran_sha_tan_0002_sep15_0_brin_a_2016-01-30	Brinjal	sucking pest;jassid
+2016-01-30	ts_ran_sha_yel_0009_aug15_0_clus_a_2016-01-30	ClusterBean	thrips;sucking pest
+2016-01-30	ts_ran_sha_tan_0008_jan16_0_toma_a_2016-01-30	Tomato	sucking pest
+2016-01-30	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-01-30	Tomato	sucking pest
+2016-01-30	ts_ran_sha_yel_0009_aug15_0_lady_a_2016-01-30	Ladyfinger	aphid
+2016-01-30	ts_ran_sha_yel_0001_nov15_0_chil_a_2016-01-30	Chilli	thrips
+2016-02-01	ts_med_war_war_0029_jan16_2_bott_c_2016-01-31	Bottlegourd	thrips;aphid
+2016-02-01	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-01-31	Bottlegourd	thrips;aphid
+2016-02-01	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-01-31	Brinjal	sucking pest;borer;jassid
+2016-02-01	ts_ran_sha_bul_0014_nov15_0_chic_a_2016-01-31	Chickpea_Bengalgram	helicoverpa
+2016-02-01	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-01-31	Chilli	thrips
+2016-02-01	ts_med_war_war_0025_nov15_3_clus_e_2016-01-31	ClusterBean	thrips;sucking pest
+2016-02-01	ts_med_war_war_0028_jan16_2_lady_a_2016-01-31	Ladyfinger	sucking pest;mildew
+2016-02-01	ts_med_war_war_0029_jan16_2_lady_a_2016-01-31	Ladyfinger	sucking pest;mildew
+2016-02-01	ts_med_nar_bra_0006_jan16_0_maiz_a_2016-01-31	Maize	borer
+2016-02-01	ts_med_war_war_0027_dec15_3_maiz_b_2016-01-31	Maize	borer
+2016-02-01	ts_med_war_war_0030_jan16_22_maiz_b_2016-01-31	Maize	borer
+2016-02-01	ts_med_nar_lin_0011_dec15_0_onio_a_2016-01-31	Onion	thrips;blotch
+2016-02-01	ts_med_nar_bra_0004_jan16_0_toma_b_2016-01-31	Tomato	sucking pest
+2016-02-01	ts_med_nar_gol_0001_jul15_0_toma_a_2016-01-31	Tomato	sucking pest
+2016-02-01	ts_med_nar_lin_0011_dec15_0_toma_b_2016-01-31	Tomato	thrips;jassid
+2016-02-01	ts_med_nar_lin_0014_jan16_0_toma_a_2016-01-31	Tomato	thrips;sucking pest
+2016-02-01	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-01-31	Tomato	sucking pest
+2016-02-01	ts_med_war_war_0030_jan16_22_cabb_a_2016-01-31	Cabbage	caterpillar
+2016-02-01	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-01-28	Brinjal	borer
+2016-02-01	ts_med_war_war_0028_jan16_2_clus_b_2016-01-31	ClusterBean	jassid
+2016-02-01	ts_med_war_war_0028_jan16_2_grou_c_2016-01-31	Groundnut	thrips
+2016-02-01	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-01-31	Tomato	sucking pest
+2016-02-01	ts_med_war_war_0028_jan16_31_cabb_d_2016-01-31	Cabbage	sucking pest;aphid
+2016-02-08	ts_med_gaj_ahm_0029_sep15_21_brin_a_2016-01-30	Brinjal	borer
+2016-02-08	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-02-06	Brinjal	sucking pest;borer;jassid
+2016-02-08	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-02-06	Brinjal	aphid
+2016-02-08	ts_med_jin_nal_0026_feb16_0_brin_c_2016-02-07	Brinjal	sucking pest
+2016-02-08	ts_med_jin_nal_0019_dec15_0_brin_b_2016-02-07	Brinjal	sucking pest;jassid
+2016-02-08	ts_med_jin_nal_0015_jul15_0_brin_a_2016-02-07	Brinjal	borer
+2016-02-08	ts_med_jin_gum_0020_jan16_0_caul_c_2016-02-07	Cauliflower	boll worm
+2016-02-08	ts_med_jin_nal_0017_jan16_0_caul_c_2016-02-07	Cauliflower	boll worm
+2016-02-08	ts_ran_sha_maa_0013_sep15_0_caul_a_2016-02-06	Cauliflower	boll worm
+2016-02-08	ts_med_mul_mul_0019_nov15_8_chil_h_2016-02-06	Chilli	thrips
+2016-02-08	ts_med_mul_mul_0021_nov15_18_chil_e_2016-02-06	Chilli	thrips
+2016-02-08	ts_med_mul_mul_0023_jan16_7_chil_b_2016-02-06	Chilli	thrips
+2016-02-08	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-02-06	Chilli	thrips;mildew
+2016-02-08	ts_ran_sha_mah_0010_sep15_0_chil_a_2016-02-07	Chilli	thrips
+2016-02-08	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-02-07	Chilli	thrips
+2016-02-08	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-02-07	Chilli	thrips
+2016-02-08	ts_med_mul_mul_0012_dec15_28_clus_c_2016-02-06	ClusterBean	jassid
+2016-02-08	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-02-07	ClusterBean	aphid
+2016-02-08	ts_med_jin_nal_0015_jan16_0_cucu_f_2016-02-07	Cucumber	jassid
+2016-02-08	ts_ran_sha_rav_0007_sep15_0_jasm_a_2016-02-06	Jasmine	borer
+2016-02-08	ts_ran_sha_rav_0002_aug15_0_jasm_a_2016-02-06	Jasmine	borer
+2016-02-08	ts_med_jin_nal_0007_feb16_0_lady_f_2016-02-07	Ladyfinger	sucking pest;mildew
+2016-02-08	ts_med_jin_nal_0019_feb16_0_lady_d_2016-02-07	Ladyfinger	aphid
+2016-02-08	ts_med_jin_nal_0022_feb16_0_lady_d_2016-02-07	Ladyfinger	sucking pest;jassid;mildew
+2016-02-08	ts_med_jin_nal_0024_feb16_0_lady_b_2016-02-07	Ladyfinger	aphid;spodoptera
+2016-02-08	ts_med_mul_mul_0008_feb16_6_lady_c_2016-02-06	Ladyfinger	aphid
+2016-02-08	ts_ran_sha_mas_0014_sep15_0_lady_a_2016-02-06	Ladyfinger	sucking pest;mildew
+2016-02-08	ts_med_mul_mul_0012_jan16_18_maiz_c_2016-02-06	Maize	borer
+2016-02-08	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-02-06	Marigold	aphid
+2016-02-08	ts_ran_sha_kot_0001_jan16_0_onio_a_2016-02-06	Onion	thrips;blotch
+2016-02-08	ts_ran_sha_rav_0008_jan16_0_onio_a_2016-02-06	Onion	thrips;blotch
+2016-02-08	ts_ran_sha_mah_0002_dec15_0_onio_a_2016-02-07	Onion	thrips;blotch
+2016-02-08	ts_ran_sha_kot_0011_feb16_0_sorg_a_2016-02-06	Sorghum	borer
+2016-02-08	ts_med_jin_gum_0024_dec15_0_toma_b_2016-02-07	Tomato	jassid
+2016-02-08	ts_med_jin_gum_0025_dec15_0_toma_a_2016-02-07	Tomato	sucking pest
+2016-02-08	ts_med_jin_nal_0011_nov15_0_toma_c_2016-02-07	Tomato	thrips;sucking pest
+2016-02-08	ts_med_jin_nal_0022_feb16_0_toma_c_2016-02-07	Tomato	jassid
+2016-02-08	ts_ran_sha_maa_0012_sep15_0_toma_a_2016-02-06	Tomato	Boron defi
+2016-02-08	ts_ran_sha_maa_0014_sep15_0_toma_a_2016-02-06	Tomato	aphid
+2016-02-08	ts_med_mul_mul_0023_jan16_7_toma_c_2016-02-06	Tomato	jassid
+2016-02-08	ts_ran_sha_kot_0001_feb16_0_bott_a_2016-02-06	Bottlegourd	jassid
+2016-02-08	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-02-06	Marigold	thrips
+2016-02-09	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-02-08	Brinjal	borer
+2016-02-09	ts_med_gaj_ahm_0029_sep15_21_brin_a_2016-02-08	Brinjal	sucking pest;jassid;mildew
+2016-02-09	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-02-08	Brinjal	sucking pest;jassid
+2016-02-09	ts_med_gaj_ahm_0005_dec15_22_sunf_b_2016-02-08	Sunflower	sucking pest
+2016-02-09	ts_med_nar_bra_0003_feb16_0_sorg_b_2016-02-09	Sorghum	borer
+2016-02-09	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-02-08	ClusterBean	sucking pest;mildew
+2016-02-09	ts_med_nar_thi_0007_feb16_0_rice_a_2016-02-09	Rice	borer
+2016-02-09	ts_med_nar_bra_0003_dec15_0_onio_a_2016-02-09	Onion	thrips;blotch
+2016-02-09	ts_med_nar_bra_0006_feb16_0_onio_b_2016-02-09	Onion	thrips;blotch
+2016-02-09	ts_med_nar_lin_0009_feb16_0_onio_b_2016-02-09	Onion	thrips;blotch
+2016-02-09	ts_med_nar_bra_0004_jan16_0_lady_a_2016-02-09	Ladyfinger	sucking pest;mildew
+2016-02-09	ts_med_nar_bra_0009_feb16_0_lady_a_2016-02-09	Ladyfinger	sucking pest;mildew
+2016-02-09	ts_med_nar_gol_0001_feb16_0_lady_c_2016-02-09	Ladyfinger	sucking pest;mildew
+2016-02-09	ts_ran_sha_yel_0009_aug15_0_lady_a_2016-02-08	Ladyfinger	aphid
+2016-02-09	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-02-08	Chilli	thrips
+2016-02-09	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-02-08	Chilli	thrips;mildew
+2016-02-09	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-02-08	Chilli	thrips
+2016-02-09	ts_med_gaj_ahm_0031_feb16_7_chil_a_2016-02-08	Chilli	thrips
+2016-02-09	ts_ran_sha_yel_0002_nov15_0_chil_a_2016-02-08	Chilli	thrips
+2016-02-09	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-02-08	Bottlegourd	leafminer
+2016-02-09	ts_med_jin_gum_0028_jan16_0_caul_a_2016-02-07	Cauliflower	boll worm
+2016-02-09	ts_med_jin_nal_0023_jan16_0_cucu_a_2016-02-07	Cucumber	jassid
+2016-02-09	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-01-21	Chilli	thrips;mildew
+2016-02-09	ts_med_jin_nal_0025_feb16_0_cucu_a_2016-02-07	Cucumber	thrips
+2016-02-09	ts_med_gaj_ahm_0007_dec15_23_cucu_d_2016-02-08	Cucumber	aphid
+2016-02-09	ts_med_nar_bra_0006_jan16_0_maiz_a_2016-02-09	Maize	borer
+2016-02-09	ts_med_nar_gol_0003_feb16_0_maiz_d_2016-02-09	Maize	borer
+2016-02-09	ts_med_mul_mul_0012_jan16_6_toma_b_2016-02-06	Tomato	sucking pest
+2016-02-09	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-02-08	Tomato	thrips;sucking pest
+2016-02-09	ts_med_nar_bra_0004_jan16_0_toma_b_2016-02-09	Tomato	jassid
+2016-02-09	ts_med_nar_gol_0001_jul15_0_toma_a_2016-02-09	Tomato	jassid
+2016-02-09	ts_med_nar_lin_0009_dec15_0_toma_a_2016-02-09	Tomato	aphid
+2016-02-09	ts_ran_sha_pro_0007_jan16_0_toma_a_2016-02-08	Tomato	thrips;sucking pest
+2016-02-09	ts_ran_sha_tan_0006_sep15_0_toma_a_2016-02-08	Tomato	thrips;sucking pest
+2016-02-09	ts_ran_sha_yel_0002_oct15_0_toma_a_2016-02-08	Tomato	aphid
+2016-02-09	ts_med_nar_lin_0014_jan16_0_toma_a_2016-02-09	Tomato	sucking pest
+2016-02-09	ts_med_nar_nar_0008_nov15_0_toma_b_2016-02-09	Tomato	jassid
+2016-02-09	ts_med_nar_nar_0008_nov15_0_toma_b_2016-02-09	Tomato	jassid
+2016-02-09	ts_med_war_war_0029_jan16_2_bott_c_2016-02-09	Bottlegourd	aphid
+2016-02-09	ts_med_war_war_0030_jan16_22_cabb_a_2016-02-09	Cabbage	caterpillar
+2016-02-09	ts_med_war_war_0028_jan16_2_clus_b_2016-02-09	ClusterBean	borer;aphid
+2016-02-09	ts_med_war_war_0031_feb16_9_cucu_c_2016-02-09	Cucumber	sucking pest;aphid
+2016-02-09	ts_med_war_war_0029_jan16_2_lady_a_2016-02-09	Ladyfinger	sucking pest;mildew
+2016-02-09	ts_med_war_war_0029_jan16_2_maiz_b_2016-02-09	Maize	borer
+2016-02-09	ts_med_war_war_0030_jan16_22_maiz_b_2016-02-09	Maize	borer
+2016-02-09	ts_med_war_war_0023_jan16_2_rice_d_2016-02-09	Rice	borer
+2016-02-10	ts_med_war_war_0031_feb16_9_lady_a_2016-02-09	Ladyfinger	mildew
+2016-02-10	ap_war_gha_mal_0005_jan16_0_brin_a_2016-02-10	Brinjal	borer
+2016-02-10	ap_war_gha_pee_0006_jan16_0_brin_a_2016-02-10	Brinjal	borer
+2016-02-10	ap_war_gha_pee_0004_feb16_0_rice_a_2016-02-10	Rice	borer
+2016-02-11	ts_med_war_war_0028_jan16_2_grou_c_2016-02-09	Groundnut	thrips
+2016-02-12	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-02-11	Bottlegourd	jassid
+2016-02-12	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-02-11	Brinjal	sucking pest;borer;jassid
+2016-02-12	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-02-11	Chilli	thrips
+2016-02-12	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-02-11	Tomato	jassid
+2016-02-12	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-02-11	Tomato	sucking pest
+2016-02-13	ts_med_pat_gha_0004_jan16_0_bott_a_2016-02-12	Bottlegourd	leafminer
+2016-02-13	ts_med_pat_pat_0010_jan16_0_bott_a_2016-02-12	Bottlegourd	jassid
+2016-02-13	ts_med_pat_pat_0010_dec15_0_brin_a_2016-02-12	Brinjal	sucking pest;jassid
+2016-02-13	ts_med_pat_nan_0001_jan16_0_clus_a_2016-02-12	ClusterBean	borer;aphid
+2016-02-13	ts_med_pat_gha_0002_dec15_0_ridg_a_2016-02-12	Ridgegourd	sucking pest;mildew
+2016-02-13	ts_med_pat_gha_0001_oct15_11_toma_a_2016-02-12	Tomato	thrips;sucking pest
+2016-02-13	ts_med_pat_pat_0003_dec15_0_chil_a_2016-02-12	Chilli	thrips
+2016-02-13	ts_med_pat_gha_0005_dec15_0_onio_a_2016-02-12	Onion	thrips;blotch
+2016-02-17	ts_med_mul_mul_0009_jan16_27_maiz_b_2016-02-16	Maize	borer
+2016-02-17	ts_med_mul_mul_0012_jan16_18_maiz_c_2016-02-16	Maize	borer
+2016-02-17	ts_ran_sha_kot_0001_feb16_0_bott_a_2016-02-16	Bottlegourd	jassid
+2016-02-17	ts_ran_sha_maa_0012_sep15_0_caul_a_2016-02-16	Cauliflower	boll worm
+2016-02-17	ts_med_jin_nal_0015_jul15_0_brin_a_2016-02-16	Brinjal	sucking pest
+2016-02-17	ts_med_jin_nal_0019_dec15_0_brin_b_2016-02-16	Brinjal	sucking pest
+2016-02-17	ts_med_jin_nal_0024_feb16_0_brin_c_2016-02-16	Brinjal	sucking pest;jassid
+2016-02-17	ts_med_jin_nal_0026_feb16_0_brin_c_2016-02-16	Brinjal	mites;borer
+2016-02-17	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-02-16	Brinjal	borer
+2016-02-17	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-02-16	Brinjal	sucking pest;borer;jassid
+2016-02-17	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-02-17	Chilli	thrips
+2016-02-17	ts_med_mul_mul_0019_nov15_8_chil_h_2016-02-16	Chilli	thrips
+2016-02-17	ts_med_mul_mul_0021_nov15_18_chil_e_2016-02-16	Chilli	thrips
+2016-02-17	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-02-16	Chilli	thrips;mildew
+2016-02-17	ts_med_mul_mul_0012_dec15_28_clus_c_2016-02-16	ClusterBean	jassid
+2016-02-17	ts_med_jin_nal_0015_jan16_0_cucu_f_2016-02-16	Cucumber	thrips
+2016-02-17	ts_med_jin_nal_0019_feb16_0_lady_d_2016-02-16	Ladyfinger	aphid;jassid
+2016-02-17	ts_med_jin_nal_0024_feb16_0_lady_b_2016-02-16	Ladyfinger	jassid
+2016-02-17	ts_med_mul_mul_0008_feb16_6_lady_c_2016-02-16	Ladyfinger	sucking pest;mildew
+2016-02-17	ts_ran_sha_mas_0014_sep15_0_lady_a_2016-02-16	Ladyfinger	sucking pest;mildew
+2016-02-17	ts_ran_sha_kot_0001_jan16_0_onio_a_2016-02-16	Onion	thrips;blotch
+2016-02-17	ts_ran_sha_rav_0008_jan16_0_onio_a_2016-02-16	Onion	thrips;blotch
+2016-02-17	ts_ran_sha_kot_0011_feb16_0_sorg_a_2016-02-16	Sorghum	aphid
+2016-02-17	ts_med_jin_gum_0006_nov15_0_caps_e_2016-02-16	Capsicum	thrips
+2016-02-17	ts_med_jin_nal_0023_jan16_0_cucu_a_2016-02-16	Cucumber	thrips
+2016-02-17	ts_med_jin_nal_0025_feb16_0_cucu_a_2016-02-16	Cucumber	thrips
+2016-02-17	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-02-16	Marigold	aphid
+2016-02-17	ts_med_mul_mul_0008_feb16_6_rice_c_2016-02-16	Rice	borer
+2016-02-17	ts_med_mul_mul_0012_jan16_6_toma_b_2016-02-16	Tomato	sucking pest
+2016-02-17	ts_med_mul_mul_0013_feb16_16_toma_b_2016-02-16	Tomato	jassid
+2016-02-18	ts_med_gaj_ahm_0029_sep15_21_brin_a_2016-02-17	Brinjal	aphid;mildew
+2016-02-18	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-02-17	Brinjal	aphid;mildew
+2016-02-18	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-02-17	Brinjal	mites;borer
+2016-02-18	ts_med_gaj_ahm_0032_feb16_17_rice_a_2016-02-17	Rice	borer
+2016-02-18	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-02-17	ClusterBean	aphid
+2016-02-18	ts_med_gaj_ahm_0029_sep15_21_cucu_b_2016-02-17	Cucumber	thrips
+2016-02-18	ts_ran_sha_mah_0002_dec15_0_onio_a_2016-02-17	Onion	thrips;blotch
+2016-02-18	ts_med_gaj_ahm_0028_sep15_11_chil_c_2016-02-17	Chilli	thrips
+2016-02-18	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-02-17	Chilli	thrips
+2016-02-18	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-02-17	Chilli	thrips;mildew
+2016-02-18	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-02-17	Chilli	thrips;mildew
+2016-02-19	ts_med_nar_bra_0004_jan16_0_toma_b_2016-02-19	Tomato	jassid
+2016-02-19	ts_med_nar_gol_0001_jul15_0_toma_a_2016-02-19	Tomato	thrips;sucking pest
+2016-02-19	ts_med_nar_lin_0014_jan16_0_toma_a_2016-02-19	Tomato	jassid
+2016-02-19	ts_med_nar_nar_0008_nov15_0_toma_b_2016-02-19	Tomato	thrips;sucking pest
+2016-02-19	ts_ran_sha_tan_0006_sep15_0_toma_a_2016-02-18	Tomato	Boron defi
+2016-02-19	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-02-17	Chilli	thrips
+2016-02-19	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-02-18	Bottlegourd	aphid;mildew
+2016-02-19	ts_ran_sha_yel_0002_nov15_0_chil_a_2016-02-18	Chilli	thrips
+2016-02-19	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-02-18	ClusterBean	sucking pest;mildew
+2016-02-19	ts_med_nar_bra_0009_feb16_0_lady_a_2016-02-19	Ladyfinger	mildew
+2016-02-19	ts_med_nar_gol_0001_feb16_0_lady_c_2016-02-19	Ladyfinger	aphid;jassid
+2016-02-19	ts_ran_sha_yel_0009_aug15_0_lady_a_2016-02-18	Ladyfinger	aphid;jassid
+2016-02-19	ts_med_nar_bra_0006_jan16_0_maiz_a_2016-02-19	Maize	borer
+2016-02-19	ts_med_nar_bra_0003_dec15_0_onio_a_2016-02-19	Onion	thrips;blotch
+2016-02-19	ts_med_nar_lin_0011_dec15_0_onio_a_2016-02-19	Onion	thrips;blotch
+2016-02-19	ts_med_nar_bra_0007_feb16_0_rice_a_2016-02-19	Rice	borer
+2016-02-19	ts_med_nar_bra_0008_feb16_0_rice_a_2016-02-19	Rice	borer
+2016-02-19	ts_med_nar_gol_0006_feb16_0_rice_a_2016-02-19	Rice	borer;hispa
+2016-02-19	ts_med_nar_thi_0007_feb16_0_rice_a_2016-02-19	Rice	borer;hispa
+2016-02-19	ts_med_nar_bra_0003_feb16_0_sorg_b_2016-02-19	Sorghum	borer
+2016-02-22	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-02-21	Bottlegourd	jassid
+2016-02-22	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-02-21	Brinjal	sucking pest;borer;jassid
+2016-02-22	ts_med_war_war_0030_jan16_22_cabb_a_2016-02-19	Cabbage	caterpillar
+2016-02-22	ts_med_war_war_0028_feb16_19_caul_c_2016-02-19	Cauliflower	boll worm
+2016-02-22	ts_med_war_war_0031_feb16_19_chil_a_2016-02-19	Chilli	thrips
+2016-02-22	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-02-21	Chilli	thrips
+2016-02-22	ts_med_war_war_0031_feb16_9_cucu_c_2016-02-19	Cucumber	thrips
+2016-02-22	ts_med_war_war_0028_jan16_2_lady_a_2016-02-19	Ladyfinger	sucking pest;mildew
+2016-02-22	ts_med_war_war_0029_jan16_2_lady_a_2016-02-19	Ladyfinger	sucking pest;mildew
+2016-02-22	ts_med_war_war_0031_feb16_9_lady_a_2016-02-19	Ladyfinger	sucking pest;mildew
+2016-02-22	ts_med_war_war_0029_jan16_2_maiz_b_2016-02-19	Maize	borer
+2016-02-22	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-02-21	Maize	borer
+2016-02-22	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-02-21	Maize	borer
+2016-02-22	ts_med_war_war_0023_jan16_2_rice_d_2016-02-19	Rice	borer
+2016-02-22	ts_med_war_war_0031_feb16_9_rice_b_2016-02-19	Rice	borer
+2016-02-22	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-02-21	Tomato	thrips
+2016-02-22	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-02-16	Tomato	aphid
+2016-02-22	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-02-21	Tomato	thrips;sucking pest
+2016-02-22	ts_ran_sha_mah_0004_aug15_0_toma_a_2016-02-17	Tomato	thrips;sucking pest
+2016-02-22	ts_ran_sha_mah_0009_sep15_0_toma_a_2016-02-17	Tomato	jassid
+2016-02-23	ts_med_pat_gha_0004_jan16_0_bott_a_2016-02-22	Bottlegourd	jassid
+2016-02-23	ts_med_pat_pat_0010_jan16_0_bott_a_2016-02-22	Bottlegourd	aphid
+2016-02-23	ts_med_pat_gha_0003_oct15_2_brin_a_2016-02-22	Brinjal	borer
+2016-02-23	ts_med_pat_pat_0010_dec15_0_brin_a_2016-02-22	Brinjal	sucking pest;jassid
+2016-02-23	ts_med_pat_nan_0001_jan16_0_clus_a_2016-02-22	ClusterBean	aphid
+2016-02-24	ts_med_pat_gha_0005_dec15_0_onio_a_2016-02-22	Onion	thrips;blotch
+2016-02-24	ts_med_pat_gha_0002_dec15_0_ridg_a_2016-02-22	Ridgegourd	aphid
+2016-02-24	ts_med_pat_pat_0001_dec15_0_toma_a_2016-02-22	Tomato	jassid
+2016-02-27	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-02-27	Brinjal	borer
+2016-02-29	ts_ran_sha_kot_0001_feb16_0_bott_a_2016-02-27	Bottlegourd	aphid
+2016-02-29	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-02-28	Bottlegourd	aphid
+2016-02-29	ts_med_jin_gum_0008_feb16_0_brin_e_2016-02-26	Brinjal	sucking pest;jassid
+2016-02-29	ts_med_jin_nal_0015_jul15_0_brin_a_2016-02-26	Brinjal	borer
+2016-02-29	ts_med_jin_nal_0024_feb16_0_brin_c_2016-02-26	Brinjal	sucking pest
+2016-02-29	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-02-26	Brinjal	sucking pest;borer;jassid
+2016-02-29	ts_ran_sha_maa_0013_sep15_0_caul_a_2016-02-26	Cauliflower	boll worm
+2016-02-29	ts_med_mul_mul_0019_nov15_8_chil_h_2016-02-27	Chilli	thrips;mites;jassid
+2016-02-29	ts_med_mul_mul_0021_nov15_18_chil_e_2016-02-27	Chilli	thrips
+2016-02-29	ts_med_mul_mul_0023_jan16_7_chil_b_2016-02-27	Chilli	thrips
+2016-02-29	ts_med_jin_nal_0015_oct15_0_chil_d_2016-02-26	Chilli	thrips;mildew
+2016-02-29	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-02-27	Chilli	thrips
+2016-02-29	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-02-27	ClusterBean	sucking pest
+2016-02-29	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-02-28	ClusterBean	sucking pest;mildew
+2016-02-29	ts_med_jin_nal_0026_feb16_0_toma_a_2016-02-26	Tomato	jassid
+2016-02-29	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-02-27	Brinjal	aphid
+2016-02-29	ts_ran_sha_kot_0011_feb16_0_sorg_a_2016-02-27	Sorghum	borer
+2016-02-29	ts_ran_sha_rav_0008_jan16_0_onio_a_2016-02-26	Onion	thrips;blotch
+2016-02-29	ts_ran_sha_mah_0002_dec15_0_onio_a_2016-02-27	Onion	thrips;blotch
+2016-02-29	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-02-28	Brinjal	borer
+2016-02-29	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-02-27	Marigold	aphid
+2016-02-29	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-02-27	Marigold	aphid
+2016-02-29	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-02-27	Chilli	thrips;mildew
+2016-02-29	ap_war_gha_mal_0005_jan16_0_brin_a_2016-02-27	Brinjal	borer
+2016-02-29	ap_war_gha_pee_0006_jan16_0_brin_a_2016-02-27	Brinjal	borer
+2016-02-29	ts_ran_sha_tan_0002_sep15_0_brin_a_2016-02-28	Brinjal	borer
+2016-02-29	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-02-28	Chilli	thrips
+2016-02-29	ts_med_gaj_ahm_0028_sep15_11_chil_c_2016-02-28	Chilli	thrips;mildew
+2016-02-29	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-02-28	Chilli	thrips;mites;jassid
+2016-02-29	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-02-28	Chilli	thrips
+2016-02-29	ts_ran_sha_yel_0002_nov15_0_chil_a_2016-02-28	Chilli	thrips
+2016-02-29	ts_ran_sha_kot_0003_aug15_0_rose_a_2016-02-27	Rose	thrips
+2016-02-29	ts_ran_sha_pro_0009_sep15_0_rose_a_2016-02-28	Rose	thrips
+2016-02-29	ts_med_jin_nal_0015_jan16_0_cucu_f_2016-02-26	Cucumber	thrips
+2016-02-29	ts_med_jin_nal_0025_feb16_0_cucu_a_2016-02-26	Cucumber	sucking pest;jassid
+2016-02-29	ts_med_mul_mul_0014_feb16_27_cucu_b_2016-02-27	Cucumber	thrips
+2016-02-29	ap_war_gha_ven_0004_feb16_0_rice_a_2016-02-27	Rice	borer
+2016-02-29	ap_war_gha_mal_0012_jan16_0_rice_a_2016-02-27	Rice	borer
+2016-02-29	ap_war_gha_pee_0004_feb16_0_rice_a_2016-02-27	Rice	borer
+2016-02-29	ts_med_mul_mul_0008_feb16_6_lady_c_2016-02-27	Ladyfinger	sucking pest;mildew
+2016-02-29	ts_med_jin_nal_0015_feb16_0_lady_f_2016-02-26	Ladyfinger	aphid
+2016-02-29	ts_med_jin_nal_0019_feb16_0_lady_d_2016-02-26	Ladyfinger	sucking pest;mildew
+2016-02-29	ts_med_jin_nal_0022_feb16_0_lady_d_2016-02-26	Ladyfinger	aphid
+2016-02-29	ts_med_jin_nal_0024_feb16_0_lady_b_2016-02-26	Ladyfinger	jassid
+2016-02-29	ts_med_jin_nal_0026_feb16_0_lady_b_2016-02-26	Ladyfinger	aphid;jassid
+2016-02-29	ts_med_gaj_ahm_0032_feb16_28_lady_b_2016-02-28	Ladyfinger	aphid
+2016-02-29	ts_ran_sha_yel_0009_aug15_0_lady_a_2016-02-28	Ladyfinger	sucking pest;spodoptera;mildew
+2016-02-29	ts_med_gaj_ahm_0022_aug15_20_cucu_a_2016-02-28	Cucumber	thrips
+2016-02-29	ts_med_gaj_ahm_0029_oct15_24_cucu_c_2016-02-28	Cucumber	thrips
+2016-02-29	ts_med_gaj_ahm_0032_feb16_28_cucu_c_2016-02-28	Cucumber	thrips
+2016-02-29	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-02-28	Tomato	borer
+2016-02-29	ts_med_jin_gum_0008_nov15_0_toma_b_2016-02-26	Tomato	borer
+2016-02-29	ts_med_jin_nal_0015_oct15_0_toma_c_2016-02-26	Tomato	mildew
+2016-02-29	ts_med_jin_nal_0024_feb16_0_toma_a_2016-02-26	Tomato	borer
+2016-02-29	ts_med_mul_mul_0012_jan16_6_toma_b_2016-02-27	Tomato	borer
+2016-02-29	ts_med_mul_mul_0013_feb16_16_toma_b_2016-02-27	Tomato	jassid
+2016-02-29	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-02-27	Tomato	borer
+2016-02-29	ts_ran_sha_mah_0004_aug15_0_toma_a_2016-02-27	Tomato	sucking pest
+2016-02-29	ts_ran_sha_mah_0009_sep15_0_toma_a_2016-02-27	Tomato	aphid
+2016-02-29	ts_ran_sha_pro_0007_jan16_0_toma_a_2016-02-28	Tomato	sucking pest
+2016-03-02	ts_med_war_war_0029_jan16_2_bott_c_2016-03-01	Bottlegourd	aphid;mildew
+2016-03-02	ts_med_war_war_0028_feb16_19_caul_c_2016-03-01	Cauliflower	boll worm
+2016-03-02	ts_med_war_war_0032_mar16_29_chil_a_2016-03-01	Chilli	thrips
+2016-03-02	ts_med_war_war_0031_feb16_9_cucu_c_2016-03-01	Cucumber	thrips
+2016-03-02	ts_med_nar_bra_0009_feb16_0_lady_a_2016-02-29	Ladyfinger	sucking pest;mildew
+2016-03-02	ts_med_nar_gol_0001_feb16_0_lady_c_2016-02-29	Ladyfinger	aphid;jassid
+2016-03-02	ts_med_war_war_0028_jan16_2_lady_a_2016-03-01	Ladyfinger	sucking pest;mildew
+2016-03-02	ts_med_war_war_0029_jan16_2_lady_a_2016-03-01	Ladyfinger	sucking pest;mildew
+2016-03-02	ts_med_nar_bra_0008_feb16_0_rice_a_2016-03-01	Rice	borer
+2016-03-02	ts_med_nar_bra_0009_mar16_0_rice_b_2016-03-01	Rice	borer
+2016-03-02	ts_med_nar_thi_0007_feb16_0_rice_a_2016-02-29	Rice	borer
+2016-03-02	ts_med_nar_gol_0005_feb16_0_maiz_a_2016-02-29	Maize	borer
+2016-03-02	ts_med_war_war_0026_dec15_23_maiz_d_2016-03-01	Maize	borer
+2016-03-02	ts_med_nar_gol_0001_jul15_0_toma_a_2016-03-01	Tomato	jassid
+2016-03-02	ts_med_nar_lin_0001_mar16_0_toma_b_2016-03-01	Tomato	sucking pest
+2016-03-02	ts_med_nar_lin_0011_dec15_0_toma_b_2016-03-01	Tomato	Boron defi
+2016-03-02	ts_med_nar_lin_0014_jan16_0_toma_a_2016-03-01	Tomato	sucking pest
+2016-03-02	ts_med_nar_nar_0008_nov15_0_toma_b_2016-03-01	Tomato	sucking pest
+2016-03-03	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-03-02	Bottlegourd	aphid
+2016-03-03	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-03-02	Brinjal	mites;borer
+2016-03-03	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-03-02	Chilli	thrips
+2016-03-03	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-03-02	Maize	borer
+2016-03-03	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-03-02	Maize	borer
+2016-03-03	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-03-02	Tomato	sucking pest
+2016-03-04	ts_ran_sha_maa_0015_sep15_0_toma_a_2016-03-04	Tomato	sucking pest
+2016-03-05	ts_med_pat_pat_0010_jan16_0_bott_a_2016-03-04	Bottlegourd	aphid
+2016-03-05	ts_med_pat_pat_0010_dec15_0_brin_a_2016-03-04	Brinjal	borer
+2016-03-05	ts_med_pat_gha_0003_oct15_2_brin_a_2016-03-04	Brinjal	mites;borer
+2016-03-05	ts_med_pat_gha_0005_mar16_0_cucu_a_2016-03-04	Cucumber	thrips
+2016-03-05	ts_med_pat_pat_0010_mar16_0_cucu_a_2016-03-04	Cucumber	thrips
+2016-03-05	ts_med_pat_gha_0002_dec15_0_ridg_a_2016-03-04	Ridgegourd	aphid
+2016-03-05	ts_med_pat_gha_0001_oct15_11_toma_a_2016-03-04	Tomato	thrips
+2016-03-08	ts_ran_sha_kot_0001_feb16_0_bott_a_2016-03-08	Bottlegourd	aphid
+2016-03-08	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-03-08	Brinjal	mites;borer
+2016-03-08	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-03-08	Brinjal	sucking pest;jassid
+2016-03-08	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-03-08	Cauliflower	boll worm
+2016-03-08	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-03-08	Cauliflower	aphid
+2016-03-08	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-03-08	Chilli	thrips;mildew
+2016-03-08	ts_ran_sha_maa_0012_sep15_0_toma_a_2016-03-08	Tomato	borer
+2016-03-08	ts_ran_sha_maa_0014_sep15_0_toma_a_2016-03-08	Tomato	sucking pest
+2016-03-08	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-03-08	Tomato	sucking pest
+2016-03-09	ts_med_jin_nal_0015_jul15_0_brin_a_2016-03-08	Brinjal	borer
+2016-03-09	ts_med_jin_nal_0024_feb16_0_brin_c_2016-03-08	Brinjal	sucking pest
+2016-03-09	ts_med_jin_nal_0026_feb16_0_brin_c_2016-03-08	Brinjal	borer
+2016-03-09	ts_med_mul_mul_0021_nov15_18_chil_e_2016-03-08	Chilli	thrips;mildew
+2016-03-09	ts_med_mul_mul_0024_mar16_8_clus_a_2016-03-08	ClusterBean	jassid
+2016-03-09	ts_med_jin_nal_0015_jan16_0_cucu_f_2016-03-08	Cucumber	thrips
+2016-03-09	ts_med_jin_nal_0023_jan16_0_cucu_a_2016-03-08	Cucumber	thrips
+2016-03-09	ts_med_mul_mul_0008_feb16_6_lady_c_2016-03-08	Ladyfinger	aphid;jassid
+2016-03-09	ts_med_jin_nal_0026_feb16_0_lady_b_2016-03-08	Ladyfinger	borer
+2016-03-09	ts_med_jin_nal_0024_feb16_0_lady_b_2016-03-08	Ladyfinger	borer
+2016-03-09	ts_med_jin_nal_0019_feb16_0_lady_d_2016-03-08	Ladyfinger	sucking pest;spodoptera;mildew
+2016-03-09	ts_med_jin_nal_0015_oct15_0_toma_c_2016-03-08	Tomato	borer
+2016-03-09	ts_med_jin_nal_0022_feb16_0_toma_c_2016-03-08	Tomato	sucking pest
+2016-03-09	ts_med_jin_nal_0024_feb16_0_toma_a_2016-03-08	Tomato	borer
+2016-03-09	ts_med_jin_nal_0026_feb16_0_toma_a_2016-03-08	Tomato	sucking pest
+2016-03-09	ts_med_mul_mul_0012_jan16_6_toma_b_2016-03-08	Tomato	sucking pest
+2016-03-09	ts_med_mul_mul_0013_feb16_16_toma_b_2016-03-08	Tomato	sucking pest
+2016-03-09	ts_med_jin_nal_0015_oct15_0_chil_d_2016-03-08	Chilli	aphid;die back
+2016-03-09	ts_med_mul_mul_0023_jan16_7_chil_b_2016-03-08	Chilli	mildew
+2016-03-09	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-03-08	Marigold	aphid
+2016-03-09	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-03-08	Marigold	aphid
+2016-03-09	ts_ran_sha_kot_0001_jan16_0_onio_a_2016-03-08	Onion	aphid
+2016-03-09	ts_ran_sha_rav_0008_jan16_0_onio_a_2016-03-08	Onion	aphid
+2016-03-09	ts_med_mul_mul_0008_feb16_6_rice_c_2016-03-08	Rice	leaf folder
+2016-03-09	ts_med_mul_mul_0022_mar16_8_cucu_b_2016-03-08	Cucumber	thrips
+2016-03-09	ts_ran_sha_kot_0002_mar16_0_sorg_a_2016-03-08	Sorghum	aphid
+2016-03-09	ts_med_jin_gum_0010_mar16_0_toma_h_2016-03-08	Tomato	thrips
+2016-03-10	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-03-09	Bottlegourd	sucking pest
+2016-03-10	ts_ran_sha_don_0001_mar16_0_brin_a_2016-03-09	Brinjal	aphid
+2016-03-10	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-03-09	Brinjal	borer
+2016-03-10	ts_ran_sha_tan_0002_sep15_0_brin_a_2016-03-09	Brinjal	sucking pest
+2016-03-10	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-03-09	Chilli	thrips;mildew
+2016-03-10	ts_med_gaj_ahm_0028_sep15_11_chil_c_2016-03-09	Chilli	thrips;mites;jassid;die back
+2016-03-10	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-03-09	Chilli	thrips
+2016-03-10	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-03-09	Chilli	thrips
+2016-03-10	ts_ran_sha_don_0001_mar16_0_chil_a_2016-03-09	Chilli	thrips;mites;jassid
+2016-03-10	ts_med_gaj_ahm_0033_feb16_17_rice_a_2016-03-09	Rice	borer
+2016-03-10	ts_ran_sha_mah_0012_jan16_0_chil_a_2016-03-09	Chilli	thrips
+2016-03-10	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-03-09	ClusterBean	sucking pest;mildew
+2016-03-10	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-03-09	ClusterBean	sucking pest
+2016-03-10	ts_med_gaj_ahm_0022_aug15_20_cucu_a_2016-03-09	Cucumber	sucking pest;jassid
+2016-03-10	ts_med_gaj_ahm_0032_feb16_28_cucu_c_2016-03-09	Cucumber	thrips
+2016-03-10	ts_med_gaj_ahm_0032_feb16_28_lady_b_2016-03-09	Ladyfinger	aphid
+2016-03-10	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-03-09	Ladyfinger	sucking pest;mildew
+2016-03-10	ts_ran_sha_mah_0002_dec15_0_onio_a_2016-03-09	Onion	thrips;blotch
+2016-03-10	ts_ran_sha_mah_0004_aug15_0_toma_a_2016-03-09	Tomato	jassid
+2016-03-10	ts_ran_sha_yel_0002_oct15_0_toma_a_2016-03-09	Tomato	jassid
+2016-03-10	ts_ran_sha_mah_0009_sep15_0_toma_a_2016-03-09	Tomato	sucking pest
+2016-03-11	ts_med_nar_bra_0006_feb16_0_onio_b_2016-03-10	Onion	thrips;blotch
+2016-03-11	ts_med_nar_bra_0009_feb16_0_lady_a_2016-03-10	Ladyfinger	sucking pest;mildew
+2016-03-12	ts_med_nar_thi_0007_feb16_0_rice_a_2016-03-10	Rice	borer;hispa
+2016-03-12	ts_med_nar_lin_0001_mar16_0_toma_b_2016-03-10	Tomato	jassid
+2016-03-12	ts_med_nar_lin_0011_dec15_0_toma_b_2016-03-10	Tomato	sucking pest
+2016-03-12	ts_med_nar_lin_0014_jan16_0_toma_a_2016-03-10	Tomato	sucking pest
+2016-03-12	ts_med_nar_bra_0005_jan16_0_toma_b_2016-03-10	Tomato	jassid
+2016-03-14	ts_med_nar_bra_0008_feb16_0_rice_a_2016-03-10	Rice	borer;hispa
+2016-03-14	ts_med_pat_gha_0005_mar16_0_cucu_a_2016-03-14	Cucumber	thrips
+2016-03-14	ts_med_pat_pat_0010_mar16_0_cucu_a_2016-03-14	Cucumber	thrips
+2016-03-14	ts_med_war_war_0031_feb16_9_cucu_c_2016-03-14	Cucumber	thrips;sucking pest
+2016-03-14	ts_med_pat_gha_0004_jan16_0_bott_a_2016-03-14	Bottlegourd	aphid
+2016-03-14	ts_med_pat_pat_0010_jan16_0_bott_a_2016-03-14	Bottlegourd	aphid
+2016-03-14	ts_med_war_war_0029_jan16_2_bott_c_2016-03-14	Bottlegourd	aphid
+2016-03-14	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-03-12	Bottlegourd	sucking pest
+2016-03-14	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-03-12	Brinjal	jassid
+2016-03-14	ts_med_pat_pat_0010_dec15_0_brin_a_2016-03-14	Brinjal	mites;borer
+2016-03-14	ts_med_pat_gha_0005_mar16_0_brin_a_2016-03-14	Brinjal	sucking pest;jassid
+2016-03-14	ts_med_pat_gha_0003_oct15_2_brin_a_2016-03-14	Brinjal	borer
+2016-03-14	ts_med_war_war_0028_feb16_19_caul_c_2016-03-14	Cauliflower	boll worm
+2016-03-14	ts_med_pat_gha_0005_mar16_0_toma_a_2016-03-14	Tomato	aphid
+2016-03-14	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-03-12	Tomato	sucking pest
+2016-03-14	ts_med_war_war_0029_mar16_10_chil_d_2016-03-14	Chilli	thrips;mildew
+2016-03-14	ts_med_war_war_0032_mar16_29_chil_a_2016-03-14	Chilli	thrips;mildew
+2016-03-14	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-03-12	Chilli	thrips
+2016-03-14	ts_med_war_war_0029_jan16_2_lady_a_2016-03-14	Ladyfinger	borer;white fly
+2016-03-14	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-03-12	Maize	borer
+2016-03-14	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-03-12	Maize	borer
+2016-03-14	ts_med_pat_gha_0005_mar16_0_ridg_a_2016-03-14	Ridgegourd	aphid
+2016-03-14	ts_med_nar_bra_0005_mar16_0_ridg_f_2016-03-10	Ridgegourd	aphid
+2016-03-14	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-03-09	Brinjal	sucking pest
+2016-03-14	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-03-12	Tomato	sucking pest
+2016-03-18	ts_med_jin_nal_0015_jul15_0_brin_a_2016-03-17	Brinjal	sucking pest
+2016-03-18	ts_med_jin_nal_0026_feb16_0_brin_c_2016-03-17	Brinjal	mites;borer
+2016-03-18	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-03-17	Brinjal	sucking pest
+2016-03-18	ts_med_jin_nal_0015_oct15_0_chil_d_2016-03-17	Chilli	thrips;mildew
+2016-03-18	ts_med_jin_nal_0019_nov15_0_chil_c_2016-03-17	Chilli	thrips
+2016-03-18	ts_med_jin_nal_0026_mar16_0_chil_d_2016-03-17	Chilli	thrips
+2016-03-18	ts_med_mul_mul_0019_nov15_8_chil_h_2016-03-18	Chilli	thrips
+2016-03-18	ts_med_mul_mul_0021_nov15_18_chil_e_2016-03-18	Chilli	thrips;mildew
+2016-03-18	ts_med_mul_mul_0023_jan16_7_chil_b_2016-03-18	Chilli	thrips;mites;jassid;die back
+2016-03-18	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-03-17	Chilli	thrips;mildew
+2016-03-18	ts_med_mul_mul_0025_mar16_17_clus_a_2016-03-18	ClusterBean	borer;aphid
+2016-03-18	ts_med_jin_nal_0015_feb16_0_lady_f_2016-03-17	Ladyfinger	aphid;jassid
+2016-03-18	ts_med_jin_nal_0019_feb16_0_lady_d_2016-03-17	Ladyfinger	sucking pest;mildew
+2016-03-18	ts_med_jin_nal_0022_feb16_0_lady_d_2016-03-17	Ladyfinger	aphid;jassid
+2016-03-18	ts_med_jin_nal_0024_feb16_0_lady_b_2016-03-17	Ladyfinger	aphid;jassid
+2016-03-18	ts_med_jin_nal_0026_feb16_0_lady_b_2016-03-17	Ladyfinger	sucking pest;jassid;mildew
+2016-03-18	ts_med_jin_nal_0019_mar16_0_ridg_e_2016-03-17	Ridgegourd	aphid
+2016-03-18	ts_ran_sha_kot_0011_feb16_0_sorg_a_2016-03-17	Sorghum	borer
+2016-03-18	ts_med_jin_nal_0022_feb16_0_toma_c_2016-03-17	Tomato	thrips
+2016-03-18	ts_med_jin_nal_0026_feb16_0_toma_a_2016-03-17	Tomato	sucking pest
+2016-03-18	ts_med_mul_mul_0023_jan16_7_toma_a_2016-03-18	Tomato	jassid
+2016-03-18	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-03-17	Tomato	sucking pest
+2016-03-18	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-03-18	Cauliflower	aphid
+2016-03-18	ts_ran_sha_rav_0002_aug15_0_jasm_a_2016-03-18	Jasmine	borer
+2016-03-18	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-03-18	Cauliflower	boll worm
+2016-03-18	ts_med_mul_mul_0008_feb16_6_lady_c_2016-03-18	Ladyfinger	sucking pest;mildew
+2016-03-18	ts_ran_sha_maa_0012_sep15_0_toma_a_2016-03-18	Tomato	sucking pest
+2016-03-18	ts_ran_sha_kot_0001_feb16_0_bott_a_2016-03-17	Bottlegourd	aphid
+2016-03-18	ts_med_jin_nal_0024_feb16_0_brin_c_2016-03-17	Brinjal	sucking pest
+2016-03-18	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-03-17	Marigold	aphid
+2016-03-18	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-03-17	Marigold	aphid
+2016-03-18	ts_med_mul_mul_0021_sep15_20_toma_a_2016-03-18	Tomato	aphid
+2016-03-19	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-03-18	Bottlegourd	aphid
+2016-03-19	ts_ran_sha_don_0001_mar16_0_brin_a_2016-03-18	Brinjal	sucking pest
+2016-03-19	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-03-18	Brinjal	sucking pest
+2016-03-19	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-03-18	Cabbage	sucking pest;aphid
+2016-03-19	ts_med_gaj_ahm_0028_sep15_11_chil_c_2016-03-19	Chilli	thrips
+2016-03-19	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-03-19	Chilli	thrips;mildew
+2016-03-19	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-03-19	Chilli	thrips;mildew
+2016-03-19	ts_ran_sha_don_0001_mar16_0_chil_a_2016-03-18	Chilli	thrips
+2016-03-19	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-03-18	ClusterBean	sucking pest
+2016-03-19	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-03-18	ClusterBean	sucking pest;mildew
+2016-03-19	ts_med_gaj_ahm_0022_aug15_20_cucu_a_2016-03-19	Cucumber	sucking pest;aphid
+2016-03-19	ts_med_gaj_ahm_0032_feb16_28_lady_b_2016-03-19	Ladyfinger	aphid
+2016-03-21	ts_med_pat_gha_0004_jan16_0_bott_a_2016-03-20	Bottlegourd	aphid
+2016-03-21	ts_med_pat_pat_0010_jan16_0_bott_a_2016-03-20	Bottlegourd	jassid
+2016-03-21	ts_med_pat_gha_0003_oct15_2_brin_a_2016-03-20	Brinjal	sucking pest;jassid
+2016-03-21	ts_med_pat_gha_0005_mar16_0_brin_a_2016-03-20	Brinjal	sucking pest;jassid
+2016-03-21	ts_med_pat_pat_0010_dec15_0_brin_a_2016-03-20	Brinjal	borer
+2016-03-21	ts_ran_sha_bul_0014_sep15_0_brin_a_2016-03-20	Brinjal	borer
+2016-03-21	ts_med_nar_lin_0014_mar16_0_chil_b_2016-03-19	Chilli	thrips
+2016-03-21	ts_med_nar_lin_0017_mar16_0_chil_a_2016-03-19	Chilli	thrips
+2016-03-21	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-03-20	Chilli	thrips
+2016-03-21	ts_med_pat_gha_0005_mar16_0_cucu_a_2016-03-20	Cucumber	thrips
+2016-03-21	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-03-20	Maize	borer
+2016-03-21	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-03-20	Maize	borer
+2016-03-21	ts_med_nar_nar_0008_jan16_0_onio_b_2016-03-19	Onion	thrips;blotch
+2016-03-21	ts_med_nar_bra_0006_feb16_0_onio_b_2016-03-19	Onion	thrips;blotch
+2016-03-21	ts_med_pat_gha_0005_mar16_0_ridg_a_2016-03-20	Ridgegourd	aphid
+2016-03-21	ts_med_nar_bra_0005_mar16_0_ridg_f_2016-03-19	Ridgegourd	aphid
+2016-03-21	ts_med_nar_bra_0005_jan16_0_toma_b_2016-03-19	Tomato	jassid
+2016-03-21	ts_med_nar_lin_0001_mar16_0_toma_b_2016-03-19	Tomato	sucking pest
+2016-03-21	ts_med_nar_lin_0011_dec15_0_toma_b_2016-03-19	Tomato	jassid
+2016-03-21	ts_med_nar_lin_0014_jan16_0_toma_a_2016-03-19	Tomato	sucking pest
+2016-03-21	ts_med_nar_lin_0017_mar16_0_toma_b_2016-03-19	Tomato	sucking pest
+2016-03-21	ts_med_pat_gha_0001_oct15_11_toma_a_2016-03-20	Tomato	sucking pest
+2016-03-21	ts_med_pat_gha_0005_mar16_0_toma_a_2016-03-20	Tomato	sucking pest
+2016-03-21	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-03-20	Tomato	sucking pest
+2016-03-21	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-03-20	Tomato	sucking pest
+2016-03-21	ts_ran_sha_pro_0007_jan16_0_toma_a_2016-03-18	Tomato	sucking pest
+2016-03-21	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-03-18	Tomato	sucking pest
+2016-03-21	ts_ran_sha_yel_0001_mar16_0_brin_a_2016-03-18	Brinjal	sucking pest
+2016-03-22	ts_med_war_war_0033_mar16_20_toma_c_2016-03-21	Tomato	sucking pest
+2016-03-22	ts_med_war_war_0031_feb16_9_lady_a_2016-03-21	Ladyfinger	borer;white fly
+2016-03-22	ts_med_war_war_0033_mar16_20_lady_a_2016-03-21	Ladyfinger	borer;white fly
+2016-03-22	ts_med_war_war_0032_mar16_10_clus_c_2016-03-21	ClusterBean	borer
+2016-03-22	ts_ran_sha_bul_0013_jan16_0_bott_a_2016-03-20	Bottlegourd	aphid
+2016-03-22	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-03-19	Brinjal	borer
+2016-03-22	ts_med_war_war_0028_feb16_19_caul_c_2016-03-21	Cauliflower	boll worm
+2016-03-22	ap_war_gha_pee_0004_feb16_0_rice_a_2016-03-19	Rice	borer
+2016-03-22	ts_med_gaj_ahm_0032_feb16_28_cucu_c_2016-03-19	Cucumber	aphid
+2016-03-22	ts_med_war_war_0031_feb16_9_cucu_c_2016-03-21	Cucumber	aphid
+2016-03-22	ts_med_war_war_0032_mar16_29_chil_a_2016-03-21	Chilli	thrips
+2016-03-22	ts_med_war_war_0033_mar16_20_chil_b_2016-03-21	Chilli	aphid;die back
+2016-03-28	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-03-27	Brinjal	mites;borer
+2016-03-28	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-03-27	Cauliflower	boll worm
+2016-03-28	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-03-27	Brinjal	sucking pest;borer;jassid
+2016-03-28	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-03-27	Cauliflower	boll worm
+2016-03-28	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-03-27	Chilli	thrips
+2016-03-28	ts_ran_sha_rav_0002_aug15_0_jasm_a_2016-03-27	Jasmine	borer
+2016-03-28	ts_ran_sha_kot_0006_aug15_0_rose_a_2016-03-27	Rose	thrips
+2016-03-28	ts_ran_sha_kot_0011_feb16_0_sorg_a_2016-03-27	Sorghum	borer
+2016-03-28	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-03-27	Tomato	sucking pest
+2016-03-28	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-03-28	Brinjal	sucking pest
+2016-03-28	ts_ran_sha_yel_0001_mar16_0_brin_a_2016-03-28	Brinjal	sucking pest;borer;jassid
+2016-03-28	ts_ran_sha_pro_0007_aug15_0_chil_a_2016-03-28	Chilli	thrips
+2016-03-28	ts_med_mul_mul_0023_jan16_7_chil_b_2016-03-28	Chilli	thrips;mites;jassid;die back
+2016-03-28	ts_med_mul_mul_0021_nov15_18_chil_e_2016-03-28	Chilli	aphid;die back
+2016-03-28	ts_med_mul_mul_0019_nov15_8_chil_h_2016-03-28	Chilli	thrips
+2016-03-28	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-03-28	Chilli	aphid;die back
+2016-03-28	ts_med_gaj_ahm_0029_jan16_28_chil_c_2016-03-28	Chilli	thrips
+2016-03-28	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-03-28	Chilli	thrips
+2016-03-28	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-03-28	ClusterBean	sucking pest;mildew
+2016-03-28	ts_med_gaj_ahm_0032_feb16_28_cucu_c_2016-03-28	Cucumber	sucking pest;aphid
+2016-03-28	ts_med_mul_mul_0012_mar16_27_cucu_c_2016-03-28	Cucumber	thrips
+2016-03-28	ts_med_gaj_ahm_0032_feb16_28_lady_b_2016-03-28	Ladyfinger	aphid;jassid
+2016-03-28	ts_med_mul_mul_0008_feb16_6_lady_c_2016-03-28	Ladyfinger	sucking pest;spodoptera;mildew
+2016-03-28	ts_med_mul_mul_0008_feb16_6_rice_c_2016-03-28	Rice	borer
+2016-03-28	ts_med_mul_mul_0023_jan16_7_toma_a_2016-03-28	Tomato	jassid
+2016-03-29	ts_med_jin_nal_0019_mar16_0_ridg_e_2016-03-28	Ridgegourd	sucking pest;aphid
+2016-03-29	ts_ran_sha_mah_0004_aug15_0_toma_a_2016-03-28	Tomato	jassid
+2016-03-29	ts_ran_sha_mah_0009_sep15_0_toma_a_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_nar_bra_0005_jan16_0_toma_b_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_nar_lin_0001_mar16_0_toma_b_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_nar_lin_0014_jan16_0_toma_a_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_jin_nal_0022_feb16_0_toma_c_2016-03-28	Tomato	jassid
+2016-03-29	ts_med_jin_nal_0026_feb16_0_toma_a_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_jin_nal_0024_feb16_0_toma_a_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_nar_bra_0006_feb16_0_onio_b_2016-03-28	Onion	thrips;blotch
+2016-03-29	ts_med_nar_nar_0008_jan16_0_onio_b_2016-03-28	Onion	thrips;blotch
+2016-03-29	ts_med_nar_thi_0007_feb16_0_rice_a_2016-03-28	Rice	borer
+2016-03-29	ts_med_jin_nal_0024_feb16_0_brin_c_2016-03-28	Brinjal	sucking pest
+2016-03-29	ts_med_jin_nal_0026_feb16_0_brin_c_2016-03-28	Brinjal	mites;borer
+2016-03-29	ts_ran_sha_don_0001_mar16_0_brin_a_2016-03-28	Brinjal	aphid
+2016-03-29	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-03-28	Brinjal	mites;borer
+2016-03-29	ts_med_jin_nal_0015_feb16_0_lady_f_2016-03-28	Ladyfinger	borer;white fly
+2016-03-29	ts_med_jin_nal_0019_feb16_0_lady_d_2016-03-28	Ladyfinger	sucking pest;mildew
+2016-03-29	ts_med_jin_nal_0022_feb16_0_lady_d_2016-03-28	Ladyfinger	sucking pest;mildew
+2016-03-29	ts_med_jin_nal_0024_feb16_0_lady_b_2016-03-28	Ladyfinger	sucking pest;spodoptera;mildew
+2016-03-29	ts_med_jin_nal_0026_feb16_0_lady_b_2016-03-28	Ladyfinger	sucking pest;spodoptera;mildew
+2016-03-29	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-03-28	Cabbage	sucking pest;aphid
+2016-03-29	ts_ran_sha_mah_0001_oct15_0_clus_a_2016-03-28	ClusterBean	jassid
+2016-03-29	ts_med_gaj_ahm_0022_aug15_20_cucu_a_2016-03-28	Cucumber	aphid
+2016-03-29	ts_med_gaj_ahm_0029_oct15_24_cucu_c_2016-03-28	Cucumber	sucking pest;jassid
+2016-03-29	ts_med_mul_mul_0022_mar16_8_cucu_b_2016-03-28	Cucumber	thrips
+2016-03-29	ts_ran_sha_kot_0011_oct15_0_bott_a_2016-03-27	Bottlegourd	sucking pest
+2016-03-29	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-03-28	Bottlegourd	aphid
+2016-03-29	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-03-27	Marigold	mealy bug
+2016-03-29	ts_med_nar_gol_0006_feb16_0_rice_a_2016-03-28	Rice	borer
+2016-03-29	ts_med_mul_mul_0025_mar16_17_rice_c_2016-03-28	Rice	borer;hispa
+2016-03-29	ts_med_mul_mul_0012_jan16_6_toma_b_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_med_nar_lin_0011_dec15_0_toma_b_2016-03-28	Tomato	sucking pest
+2016-03-29	ts_ran_sha_kot_0003_aug15_0_rose_a_2016-03-27	Rose	borer
+2016-03-29	ts_ran_sha_maa_0012_sep15_0_toma_a_2016-03-27	Tomato	jassid
+2016-03-29	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-03-27	Tomato	sucking pest
+2016-03-29	ts_med_nar_bra_0005_mar16_0_ridg_f_2016-03-28	Ridgegourd	aphid
+2016-03-29	ts_ran_sha_don_0001_mar16_0_chil_a_2016-03-28	Chilli	thrips;mites;jassid
+2016-03-29	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-03-28	Chilli	thrips
+2016-03-30	ts_med_jin_nal_0015_oct15_0_chil_d_2016-03-28	Chilli	thrips
+2016-03-30	ts_med_jin_nal_0019_nov15_0_chil_c_2016-03-28	Chilli	thrips;mildew
+2016-03-30	ts_med_jin_nal_0026_mar16_0_chil_d_2016-03-28	Chilli	aphid
+2016-03-30	ts_med_nar_lin_0014_mar16_0_chil_b_2016-03-28	Chilli	thrips;mildew
+2016-03-31	ts_med_pat_pat_0010_jan16_0_bott_a_2016-03-30	Bottlegourd	aphid
+2016-03-31	ts_med_pat_gha_0003_oct15_2_brin_a_2016-03-30	Brinjal	sucking pest;borer;jassid
+2016-03-31	ts_med_pat_gha_0005_mar16_0_brin_a_2016-03-30	Brinjal	sucking pest;jassid
+2016-03-31	ts_med_pat_pat_0010_dec15_0_brin_a_2016-03-30	Brinjal	sucking pest
+2016-03-31	ts_med_pat_gha_0001_sep15_0_chil_a_2016-03-30	Chilli	thrips
+2016-03-31	ts_med_pat_gha_0005_mar16_0_cucu_a_2016-03-30	Cucumber	sucking pest;aphid
+2016-03-31	ts_med_pat_gha_0005_mar16_0_ridg_a_2016-03-30	Ridgegourd	aphid
+2016-03-31	ts_med_pat_gha_0001_oct15_11_toma_a_2016-03-30	Tomato	sucking pest
+2016-03-31	ts_med_pat_gha_0005_mar16_0_toma_a_2016-03-30	Tomato	jassid
+2016-03-31	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-03-31	Tomato	sucking pest
+2016-04-01	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-03-31	Brinjal	aphid
+2016-04-01	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-03-31	Chilli	thrips
+2016-04-01	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-03-31	Maize	borer;spodoptera
+2016-04-01	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-03-31	Maize	borer
+2016-04-01	ts_med_war_war_0032_mar16_29_chil_a_2016-04-01	Chilli	thrips;mites;jassid;die back
+2016-04-01	ts_med_war_war_0033_mar16_20_chil_b_2016-04-01	Chilli	aphid;die back
+2016-04-01	ts_med_war_war_0031_feb16_9_lady_a_2016-04-01	Ladyfinger	aphid;jassid
+2016-04-01	ts_med_war_war_0033_mar16_20_lady_a_2016-04-01	Ladyfinger	borer;white fly
+2016-04-01	ts_med_war_war_0032_mar16_10_clus_c_2016-04-01	ClusterBean	thrips;sucking pest
+2016-04-01	ts_med_war_war_0033_mar16_20_toma_c_2016-04-01	Tomato	sucking pest
+2016-04-01	ts_med_war_war_0023_jan16_2_rice_d_2016-04-01	Rice	borer
+2016-04-01	ts_med_war_war_0027_apr16_31_rice_b_2016-04-01	Rice	leaf folder
+2016-04-01	ts_med_war_war_0031_feb16_9_rice_b_2016-04-01	Rice	caterpillar
+2016-04-06	ts_med_jin_gum_0006_aug15_0_brin_c_2016-04-06	Brinjal	sucking pest;jassid
+2016-04-06	ts_med_jin_gum_0008_dec15_0_brin_c_2016-04-06	Brinjal	sucking pest
+2016-04-06	ts_med_jin_nal_0015_jul15_0_brin_a_2016-04-06	Brinjal	borer
+2016-04-06	ts_med_jin_nal_0024_feb16_0_brin_c_2016-04-06	Brinjal	borer
+2016-04-06	ts_med_jin_nal_0015_oct15_0_chil_d_2016-04-06	Chilli	thrips;mites;jassid;die back
+2016-04-06	ts_med_jin_nal_0019_nov15_0_chil_c_2016-04-06	Chilli	thrips
+2016-04-06	ts_med_jin_nal_0026_mar16_0_chil_d_2016-04-06	Chilli	aphid
+2016-04-06	ts_med_jin_nal_0019_mar16_0_ridg_e_2016-04-06	Ridgegourd	sucking pest;aphid
+2016-04-06	ts_med_jin_nal_0026_feb16_0_lady_b_2016-04-06	Ladyfinger	sucking pest;mildew
+2016-04-06	ts_med_jin_nal_0024_feb16_0_lady_b_2016-04-06	Ladyfinger	sucking pest;spodoptera;mildew
+2016-04-07	ts_ran_sha_kot_0001_apr16_0_brin_a_2016-04-06	Brinjal	sucking pest;jassid
+2016-04-07	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-04-06	Brinjal	borer
+2016-04-07	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-04-06	Brinjal	borer
+2016-04-07	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-04-06	Cauliflower	boll worm
+2016-04-07	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-04-06	Cauliflower	boll worm
+2016-04-07	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-04-06	Chilli	thrips
+2016-04-07	ts_med_jin_nal_0015_feb16_0_lady_f_2016-04-06	Ladyfinger	sucking pest;mildew
+2016-04-07	ts_med_jin_nal_0019_feb16_0_lady_d_2016-04-06	Ladyfinger	jassid
+2016-04-07	ts_med_jin_nal_0022_feb16_0_lady_d_2016-04-06	Ladyfinger	sucking pest;spodoptera;mildew
+2016-04-07	ts_ran_sha_rav_0001_apr16_0_lady_a_2016-04-06	Ladyfinger	borer;white fly
+2016-04-07	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-04-06	Marigold	aphid
+2016-04-07	ts_med_jin_nal_0026_feb16_0_toma_a_2016-04-06	Tomato	borer
+2016-04-07	ts_med_jin_gum_0006_apr16_0_toma_f_2016-04-06	Tomato	thrips;sucking pest
+2016-04-07	ts_med_jin_gum_0010_mar16_0_toma_h_2016-04-06	Tomato	thrips;sucking pest
+2016-04-07	ts_med_jin_nal_0022_feb16_0_toma_c_2016-04-06	Tomato	sucking pest
+2016-04-07	ts_med_jin_nal_0024_feb16_0_toma_a_2016-04-06	Tomato	jassid
+2016-04-07	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-04-06	Tomato	thrips;sucking pest
+2016-04-07	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-04-06	Tomato	thrips
+2016-04-09	ts_med_mul_mul_0019_nov15_8_chil_h_2016-04-09	Chilli	aphid;die back
+2016-04-09	ts_med_mul_mul_0023_jan16_7_chil_b_2016-04-09	Chilli	thrips
+2016-04-09	ts_med_mul_mul_0012_mar16_27_cucu_c_2016-04-09	Cucumber	thrips
+2016-04-09	ts_med_mul_mul_0008_feb16_6_lady_c_2016-04-09	Ladyfinger	sucking pest;mildew
+2016-04-09	ts_med_mul_mul_0008_feb16_6_rice_c_2016-04-09	Rice	borer
+2016-04-09	ts_med_mul_mul_0009_apr16_6_rice_b_2016-04-09	Rice	borer
+2016-04-09	ts_med_mul_mul_0013_feb16_16_toma_b_2016-04-09	Tomato	thrips;sucking pest
+2016-04-09	ts_med_mul_mul_0023_jan16_7_toma_c_2016-04-09	Tomato	thrips;sucking pest
+2016-04-11	ts_med_pat_gha_0004_jan16_0_bott_a_2016-04-09	Bottlegourd	aphid
+2016-04-11	ts_ran_sha_bul_0015_mar16_0_bott_a_2016-03-31	Bottlegourd	aphid
+2016-04-11	ts_med_gaj_ahm_0005_dec15_23_brin_b_2016-04-09	Brinjal	white fly;jassid
+2016-04-11	ts_med_pat_gha_0003_oct15_2_brin_a_2016-04-09	Brinjal	sucking pest;jassid
+2016-04-11	ts_med_pat_pat_0010_dec15_0_brin_a_2016-04-09	Brinjal	white fly;jassid
+2016-04-11	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-04-10	Brinjal	sucking pest
+2016-04-11	ts_ran_sha_don_0001_mar16_0_brin_a_2016-04-07	Brinjal	sucking pest
+2016-04-11	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-04-07	Brinjal	mites;borer
+2016-04-11	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-04-08	Brinjal	sucking pest
+2016-04-11	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-04-09	Chilli	thrips;mildew
+2016-04-11	ts_med_gaj_ahm_0032_apr16_7_chil_c_2016-04-09	Chilli	aphid
+2016-04-11	ts_med_nar_lin_0014_mar16_0_chil_b_2016-04-08	Chilli	thrips
+2016-04-11	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-04-10	Chilli	thrips
+2016-04-11	ts_ran_sha_don_0001_mar16_0_chil_a_2016-04-07	Chilli	thrips
+2016-04-11	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-04-07	Chilli	thrips
+2016-04-11	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-04-08	ClusterBean	sucking pest;mildew
+2016-04-11	ts_med_gaj_ahm_0022_aug15_20_cucu_a_2016-04-09	Cucumber	sucking pest;jassid
+2016-04-11	ts_med_gaj_ahm_0029_sep15_21_cucu_b_2016-04-09	Cucumber	aphid
+2016-04-11	ts_med_pat_gha_0005_mar16_0_cucu_a_2016-04-09	Cucumber	thrips
+2016-04-11	ts_med_gaj_ahm_0032_feb16_28_lady_b_2016-04-09	Ladyfinger	sucking pest;mildew
+2016-04-11	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-04-08	Ladyfinger	borer;white fly
+2016-04-11	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-04-10	Maize	aphid
+2016-04-11	ts_med_nar_bra_0005_mar16_0_ridg_f_2016-04-08	Ridgegourd	thrips
+2016-04-11	ts_med_pat_gha_0005_mar16_0_ridg_a_2016-04-09	Ridgegourd	thrips
+2016-04-11	ts_med_nar_thi_0007_feb16_0_rice_a_2016-04-08	Rice	borer
+2016-04-11	ts_med_pat_gha_0001_oct15_11_toma_a_2016-04-09	Tomato	thrips
+2016-04-11	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-04-10	Tomato	thrips;sucking pest
+2016-04-11	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-04-10	Tomato	thrips;sucking pest
+2016-04-11	ts_ran_sha_pro_0007_jan16_0_toma_a_2016-04-08	Tomato	thrips;sucking pest
+2016-04-11	ts_ran_sha_mah_0009_apr16_0_toma_a_2016-04-07	Tomato	sucking pest
+2016-04-11	ts_ran_sha_mah_0004_apr16_0_toma_a_2016-04-07	Tomato	sucking pest
+2016-04-11	ts_med_nar_lin_0001_mar16_0_toma_b_2016-04-08	Tomato	jassid
+2016-04-11	ts_med_nar_lin_0011_dec15_0_toma_b_2016-04-08	Tomato	jassid
+2016-04-11	ts_med_nar_lin_0014_jan16_0_toma_a_2016-04-08	Tomato	sucking pest
+2016-04-11	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-04-07	Cabbage	sucking pest;aphid
+2016-04-11	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-04-10	Maize	white fly;aphid
+2016-04-11	ts_med_gaj_ahm_0034_apr16_7_snak_a_2016-04-09	Snakegourd	jassid
+2016-04-11	ts_med_pat_gha_0005_apr16_0_snak_a_2016-04-09	Snakegourd	aphid
+2016-04-11	ts_ran_sha_kot_0002_mar16_0_sorg_a_2016-04-06	Sorghum	borer
+2016-04-11	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-04-08	Bottlegourd	aphid
+2016-04-11	ts_med_gaj_ahm_0034_apr16_7_bitt_b_2016-04-09	Bittergourd	white fly
+2016-04-11	ts_med_pat_gha_0004_jan16_0_bott_a_2016-03-30	Bottlegourd	caterpillar
+2016-04-13	ts_med_war_war_0032_mar16_29_chil_a_2016-04-11	Chilli	thrips
+2016-04-13	ts_med_war_war_0033_mar16_20_chil_b_2016-04-11	Chilli	thrips
+2016-04-13	ts_med_war_war_0032_mar16_10_clus_c_2016-04-11	ClusterBean	aphid
+2016-04-13	ts_med_war_war_0031_feb16_9_cucu_c_2016-04-11	Cucumber	aphid
+2016-04-13	ts_med_war_war_0031_feb16_9_lady_a_2016-04-11	Ladyfinger	borer;white fly
+2016-04-13	ts_med_war_war_0031_feb16_9_rice_b_2016-04-11	Rice	borer
+2016-04-13	ts_med_war_war_0023_sep15_6_toma_b_2016-04-11	Tomato	thrips
+2016-04-13	ts_med_war_war_0033_mar16_20_toma_c_2016-04-11	Tomato	sucking pest
+2016-04-16	ts_med_jin_nal_0015_oct15_0_chil_d_2016-04-16	Chilli	thrips
+2016-04-16	ts_med_jin_nal_0019_nov15_0_chil_c_2016-04-16	Chilli	thrips
+2016-04-16	ts_med_jin_nal_0026_mar16_0_chil_d_2016-04-16	Chilli	aphid;die back
+2016-04-16	ts_med_jin_nal_0015_feb16_0_lady_f_2016-04-16	Ladyfinger	sucking pest;mildew
+2016-04-16	ts_med_jin_nal_0019_feb16_0_lady_d_2016-04-16	Ladyfinger	borer;white fly
+2016-04-16	ts_med_jin_nal_0022_feb16_0_lady_d_2016-04-16	Ladyfinger	aphid
+2016-04-16	ts_med_jin_nal_0024_feb16_0_lady_b_2016-04-16	Ladyfinger	sucking pest;mildew
+2016-04-16	ts_med_jin_nal_0026_feb16_0_lady_b_2016-04-16	Ladyfinger	sucking pest;mildew
+2016-04-16	ts_med_jin_nal_0019_mar16_0_ridg_e_2016-04-16	Ridgegourd	thrips
+2016-04-18	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-04-16	Brinjal	borer
+2016-04-18	ts_ran_sha_kot_0010_apr16_0_brin_a_2016-04-16	Brinjal	borer
+2016-04-18	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-04-17	Brinjal	sucking pest
+2016-04-18	ts_ran_sha_don_0001_mar16_0_brin_a_2016-04-17	Brinjal	aphid
+2016-04-18	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-04-16	Brinjal	mites;borer
+2016-04-18	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-04-17	Cabbage	sucking pest;aphid
+2016-04-18	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-04-16	Cauliflower	boll worm
+2016-04-18	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-04-16	Cauliflower	boll worm
+2016-04-18	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-04-17	ClusterBean	sucking pest;mildew
+2016-04-18	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-04-16	Chilli	thrips
+2016-04-18	ts_ran_sha_don_0001_mar16_0_chil_a_2016-04-17	Chilli	aphid;die back
+2016-04-18	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-04-17	Chilli	thrips
+2016-04-18	ts_ran_sha_pro_0007_aug15_0_chil_a_2016-04-17	Chilli	thrips
+2016-04-18	ts_ran_sha_rav_0002_aug15_0_jasm_a_2016-04-16	Jasmine	borer
+2016-04-18	ts_ran_sha_rav_0001_apr16_0_lady_a_2016-04-16	Ladyfinger	aphid
+2016-04-18	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-04-17	Ladyfinger	sucking pest;mildew
+2016-04-18	ts_ran_sha_kot_0002_mar16_0_sorg_a_2016-04-16	Sorghum	borer
+2016-04-18	ts_med_jin_nal_0015_jul15_0_brin_a_2016-04-16	Brinjal	sucking pest
+2016-04-18	ts_med_jin_gum_0006_aug15_0_brin_c_2016-04-16	Brinjal	sucking pest;jassid
+2016-04-18	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-04-16	Marigold	mealy bug
+2016-04-18	ts_ran_sha_kot_0010_dec15_0_mari_a_2016-04-16	Marigold	mealy bug
+2016-04-18	ts_ran_sha_tan_0005_jan16_0_bott_a_2016-04-17	Bottlegourd	aphid
+2016-04-18	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-04-16	Tomato	jassid
+2016-04-18	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-04-16	Tomato	sucking pest
+2016-04-18	ts_ran_sha_mah_0004_apr16_0_toma_a_2016-04-17	Tomato	sucking pest
+2016-04-18	ts_ran_sha_mah_0009_apr16_0_toma_a_2016-04-17	Tomato	sucking pest
+2016-04-18	ts_ran_sha_pro_0007_jan16_0_toma_a_2016-04-17	Tomato	thrips;jassid
+2016-04-18	ts_med_jin_gum_0006_apr16_0_toma_f_2016-04-16	Tomato	jassid
+2016-04-18	ts_med_jin_gum_0010_mar16_0_toma_h_2016-04-16	Tomato	sucking pest
+2016-04-18	ts_med_jin_nal_0026_feb16_0_toma_a_2016-04-16	Tomato	sucking pest
+2016-04-19	ts_med_mul_mul_0021_nov15_18_chil_e_2016-04-18	Chilli	aphid;die back
+2016-04-19	ts_med_mul_mul_0023_jan16_7_chil_b_2016-04-18	Chilli	aphid;die back
+2016-04-19	ts_med_mul_mul_0024_apr16_16_clus_d_2016-04-18	ClusterBean	thrips;sucking pest
+2016-04-19	ts_med_mul_mul_0026_apr16_17_clus_b_2016-04-18	ClusterBean	thrips;sucking pest
+2016-04-19	ts_med_mul_mul_0026_apr16_16_lady_a_2016-04-18	Ladyfinger	sucking pest;mildew
+2016-04-19	ts_med_mul_mul_0012_mar16_27_cucu_c_2016-04-18	Cucumber	thrips
+2016-04-19	ts_med_mul_mul_0013_feb16_16_toma_b_2016-04-18	Tomato	thrips;sucking pest
+2016-04-20	ts_med_gaj_ahm_0022_dec15_30_chil_b_2016-04-19	Chilli	thrips
+2016-04-20	ts_med_gaj_ahm_0032_apr16_7_chil_c_2016-04-19	Chilli	thrips
+2016-04-20	ts_med_nar_lin_0014_mar16_0_chil_b_2016-04-19	Chilli	aphid;die back
+2016-04-20	ts_med_gaj_ahm_0029_oct15_24_cucu_c_2016-04-19	Cucumber	aphid
+2016-04-20	ts_med_nar_bra_0005_jan16_0_lady_a_2016-04-19	Ladyfinger	aphid;jassid
+2016-04-20	ts_med_gaj_ahm_0032_feb16_28_lady_b_2016-04-19	Ladyfinger	aphid;jassid
+2016-04-20	ts_med_nar_nar_0008_jan16_0_onio_b_2016-04-19	Onion	thrips;blotch
+2016-04-20	ts_med_gaj_ahm_0034_apr16_7_snak_a_2016-04-19	Snakegourd	aphid
+2016-04-20	ts_med_gaj_ahm_0022_oct15_2_toma_c_2016-04-19	Tomato	jassid
+2016-04-20	ts_med_gaj_ahm_0034_apr16_7_toma_c_2016-04-19	Tomato	thrips;sucking pest
+2016-04-20	ts_med_nar_bra_0005_jan16_0_toma_b_2016-04-19	Tomato	thrips;sucking pest
+2016-04-20	ts_med_nar_lin_0001_mar16_0_toma_b_2016-04-19	Tomato	thrips;jassid
+2016-04-20	ts_med_nar_lin_0011_dec15_0_toma_b_2016-04-19	Tomato	sucking pest
+2016-04-21	ts_med_pat_gha_0004_jan16_0_bott_a_2016-04-20	Bottlegourd	aphid
+2016-04-21	ts_ran_sha_bul_0015_mar16_0_bott_a_2016-04-20	Bottlegourd	aphid
+2016-04-21	ts_med_pat_gha_0002_aug15_0_brin_a_2016-04-20	Brinjal	sucking pest;jassid
+2016-04-21	ts_med_pat_gha_0005_mar16_0_brin_a_2016-04-20	Brinjal	borer
+2016-04-21	ts_med_pat_pat_0010_dec15_0_brin_a_2016-04-20	Brinjal	sucking pest
+2016-04-21	ts_med_war_war_0033_apr16_18_brin_d_2016-04-20	Brinjal	borer
+2016-04-21	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-04-20	Brinjal	borer
+2016-04-21	ts_med_war_war_0032_mar16_29_chil_a_2016-04-20	Chilli	aphid;die back
+2016-04-21	ts_med_war_war_0033_mar16_20_chil_b_2016-04-20	Chilli	thrips
+2016-04-21	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-04-20	Chilli	thrips
+2016-04-21	ts_med_war_war_0029_jan16_2_lady_a_2016-04-20	Ladyfinger	sucking pest
+2016-04-21	ts_ran_sha_bul_0004_feb16_0_maiz_a_2016-04-20	Maize	white fly;aphid
+2016-04-21	ts_ran_sha_bul_0005_feb16_0_maiz_a_2016-04-20	Maize	borer
+2016-04-21	ts_med_war_war_0033_mar16_20_toma_c_2016-04-20	Tomato	sucking pest
+2016-04-22	ts_med_pat_gha_0001_oct15_11_toma_a_2016-04-20	Tomato	sucking pest
+2016-04-22	ts_med_pat_gha_0005_mar16_0_toma_a_2016-04-20	Tomato	sucking pest
+2016-04-22	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-04-20	Tomato	sucking pest
+2016-04-22	ts_med_war_war_0032_mar16_10_clus_c_2016-04-20	ClusterBean	aphid
+2016-04-22	ts_med_pat_gha_0005_mar16_0_cucu_a_2016-04-20	Cucumber	thrips
+2016-04-28	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-04-27	Brinjal	borer
+2016-04-28	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-04-27	Brinjal	borer
+2016-04-28	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-04-27	Cauliflower	boll worm
+2016-04-28	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-04-27	Chilli	thrips
+2016-04-28	ts_ran_sha_rav_0001_apr16_0_lady_a_2016-04-27	Ladyfinger	aphid;jassid
+2016-04-28	ts_ran_sha_kot_0002_mar16_0_sorg_a_2016-04-27	Sorghum	borer
+2016-04-28	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-04-27	Cauliflower	boll worm
+2016-04-28	ts_ran_sha_maa_0012_apr16_0_toma_a_2016-04-27	Tomato	sucking pest
+2016-04-28	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-04-27	Tomato	sucking pest
+2016-04-28	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-04-27	Tomato	sucking pest
+2016-04-28	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-04-27	Marigold	mealy bug
+2016-04-29	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-04-28	Cabbage	caterpillar
+2016-04-29	ts_ran_sha_don_0001_mar16_0_chil_a_2016-04-28	Chilli	thrips
+2016-04-29	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-04-28	Chilli	aphid;die back
+2016-04-29	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-04-28	ClusterBean	mildew
+2016-04-29	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-04-28	Ladyfinger	sucking pest;mildew
+2016-04-29	ts_ran_sha_mah_0004_apr16_0_toma_a_2016-04-28	Tomato	sucking pest
+2016-04-29	ts_ran_sha_mah_0009_apr16_0_toma_a_2016-04-28	Tomato	sucking pest
+2016-04-29	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-04-28	Tomato	sucking pest
+2016-04-29	ts_ran_sha_yel_0001_mar16_0_brin_a_2016-04-28	Brinjal	mites;borer
+2016-05-02	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-04-30	Brinjal	borer
+2016-05-02	ts_med_jin_gum_0006_apr16_0_bott_a_2016-04-30	Bottlegourd	aphid
+2016-05-02	ts_med_pat_gha_0004_jan16_0_bott_a_2016-04-29	Bottlegourd	aphid
+2016-05-02	ts_ran_sha_bul_0015_mar16_0_bott_a_2016-04-30	Bottlegourd	aphid
+2016-05-02	ts_med_mul_mul_0018_aug15_16_brin_a_2016-04-30	Brinjal	sucking pest;jassid
+2016-05-02	ts_med_nar_lin_0008_dec15_0_brin_b_2016-04-30	Brinjal	sucking pest
+2016-05-02	ts_med_pat_gha_0005_mar16_0_brin_a_2016-04-29	Brinjal	sucking pest;borer;jassid
+2016-05-02	ts_med_pat_pat_0010_dec15_0_brin_a_2016-04-29	Brinjal	borer
+2016-05-02	ts_med_nar_lin_0017_mar16_0_chil_a_2016-04-30	Chilli	thrips;mites;jassid
+2016-05-02	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-04-30	Chilli	thrips
+2016-05-02	ts_med_jin_nal_0015_jan16_0_cucu_f_2016-04-30	Cucumber	sucking pest
+2016-05-02	ts_med_mul_mul_0026_apr16_16_lady_a_2016-04-30	Ladyfinger	borer
+2016-05-02	ts_med_jin_nal_0026_feb16_0_lady_b_2016-04-30	Ladyfinger	borer
+2016-05-02	ts_med_jin_gum_0013_oct15_0_lady_b_2016-04-30	Ladyfinger	aphid
+2016-05-02	ts_med_mul_mul_0019_aug15_17_ridg_a_2016-04-30	Ridgegourd	sucking pest;aphid
+2016-05-02	ts_med_jin_gum_0008_nov15_0_toma_b_2016-04-30	Tomato	sucking pest
+2016-05-02	ts_med_jin_gum_0009_sep15_0_toma_c_2016-04-30	Tomato	sucking pest
+2016-05-02	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-04-30	Tomato	sucking pest
+2016-05-02	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-04-30	Tomato	jassid
+2016-05-09	ts_ran_sha_pro_0007_oct15_0_bott_a_2016-05-08	Bottlegourd	jassid
+2016-05-09	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-05-08	Brinjal	borer
+2016-05-09	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-05-08	Brinjal	mites;borer
+2016-05-09	ts_ran_sha_don_0001_mar16_0_brin_a_2016-05-08	Brinjal	sucking pest;jassid
+2016-05-09	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-05-08	Brinjal	borer
+2016-05-09	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-05-08	Brinjal	aphid;mildew
+2016-05-09	ts_ran_sha_yel_0001_mar16_0_brin_a_2016-05-08	Brinjal	borer
+2016-05-09	ts_ran_sha_maa_0013_mar16_0_caul_a_2016-05-08	Cauliflower	boll worm
+2016-05-09	ts_ran_sha_maa_0012_mar16_0_caul_a_2016-05-08	Cauliflower	boll worm
+2016-05-09	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-05-08	Chilli	thrips
+2016-05-09	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-05-08	Chilli	thrips
+2016-05-09	ts_ran_sha_don_0001_mar16_0_chil_a_2016-05-08	Chilli	thrips
+2016-05-09	ts_ran_sha_kot_0009_may16_0_clus_a_2016-05-08	ClusterBean	thrips;sucking pest
+2016-05-09	ts_ran_sha_rav_0001_apr16_0_lady_a_2016-05-08	Ladyfinger	aphid;jassid
+2016-05-09	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-05-08	Ladyfinger	sucking pest;mildew
+2016-05-09	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-05-08	Marigold	mealy bug
+2016-05-09	ts_ran_sha_kot_0002_mar16_0_sorg_a_2016-05-08	Sorghum	borer
+2016-05-09	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-05-08	Tomato	sucking pest
+2016-05-09	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-05-08	Tomato	sucking pest
+2016-05-12	ts_med_pat_gha_0004_jan16_0_bott_a_2016-05-10	Bottlegourd	aphid
+2016-05-12	ts_ran_sha_bul_0015_mar16_0_bott_a_2016-05-11	Bottlegourd	leafminer;mildew
+2016-05-12	ts_med_pat_gha_0005_mar16_0_brin_a_2016-05-10	Brinjal	borer
+2016-05-12	ts_med_pat_pat_0010_dec15_0_brin_a_2016-05-10	Brinjal	borer
+2016-05-12	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-05-11	Brinjal	sucking pest;jassid
+2016-05-12	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-05-11	Chilli	thrips
+2016-05-12	ts_med_pat_gha_0005_apr16_0_snak_a_2016-05-10	Snakegourd	jassid
+2016-05-12	ts_med_pat_gha_0001_oct15_11_toma_a_2016-05-10	Tomato	sucking pest
+2016-05-12	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-05-11	Tomato	sucking pest
+2016-05-12	ts_med_gaj_ahm_0015_aug15_17_chil_b_2016-05-12	Chilli	thrips
+2016-05-12	ts_med_war_war_0004_jul15_0_chil_a_2016-05-12	Chilli	thrips
+2016-05-12	ts_med_gaj_ahm_0001_aug15_20_brin_a_2016-05-12	Brinjal	borer
+2016-05-12	ts_med_jin_nal_0026_feb16_0_brin_c_2016-05-12	Brinjal	aphid
+2016-05-12	ts_med_mul_mul_0021_sep15_20_brin_c_2016-05-12	Brinjal	borer
+2016-05-12	ts_med_war_war_0031_feb16_9_cucu_c_2016-05-12	Cucumber	sucking pest;aphid
+2016-05-12	ts_med_jin_nal_0025_feb16_0_cucu_a_2016-05-12	Cucumber	thrips
+2016-05-12	ts_med_jin_nal_0010_jul15_0_lady_a_2016-05-12	Ladyfinger	aphid
+2016-05-12	ts_med_nar_thi_0007_may16_0_lady_a_2016-05-12	Ladyfinger	aphid;jassid
+2016-05-12	ts_med_war_war_0031_feb16_9_lady_a_2016-05-12	Ladyfinger	sucking pest
+2016-05-12	ts_med_war_war_0033_mar16_20_lady_a_2016-05-12	Ladyfinger	borer
+2016-05-12	ts_med_mul_mul_0025_may16_0_ridg_a_2016-05-12	Ridgegourd	sucking pest;aphid
+2016-05-12	ts_med_nar_bra_0001_may16_0_ridg_a_2016-05-12	Ridgegourd	thrips
+2016-05-12	ts_med_nar_thi_0001_may16_0_ridg_a_2016-05-12	Ridgegourd	thrips
+2016-05-12	ts_med_jin_gum_0006_apr16_0_bott_a_2016-05-12	Bottlegourd	aphid
+2016-05-12	ts_med_mul_mul_0026_apr16_17_clus_b_2016-05-12	ClusterBean	sucking pest
+2016-05-12	ts_med_nar_bra_0005_jan16_0_clus_c_2016-05-12	ClusterBean	thrips;sucking pest
+2016-05-12	ts_med_war_war_0028_jan16_2_clus_b_2016-05-12	ClusterBean	sucking pest
+2016-05-12	ts_med_war_war_0032_mar16_10_clus_c_2016-05-12	ClusterBean	sucking pest
+2016-05-12	ts_med_gaj_ahm_0001_aug15_17_toma_a_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_gaj_ahm_0034_apr16_7_toma_c_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_jin_gum_0024_dec15_0_toma_b_2016-05-12	Tomato	jassid
+2016-05-12	ts_med_jin_nal_0022_feb16_0_toma_c_2016-05-12	Tomato	jassid
+2016-05-12	ts_med_jin_nal_0024_feb16_0_toma_a_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_jin_nal_0026_feb16_0_toma_a_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_nar_bra_0005_jan16_0_toma_b_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_nar_thi_0001_may16_0_toma_a_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_war_war_0033_mar16_20_toma_c_2016-05-12	Tomato	sucking pest
+2016-05-12	ts_med_mul_mul_0019_aug15_16_bitt_b_2016-05-12	Bittergourd	sucking pest;aphid
+2016-05-18	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-05-16	Brinjal	sucking pest;mealy bug
+2016-05-18	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-05-18	Brinjal	borer
+2016-05-18	ts_ran_sha_don_0001_mar16_0_brin_a_2016-05-18	Brinjal	sucking pest;jassid
+2016-05-18	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-05-18	Brinjal	sucking pest;jassid
+2016-05-18	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-05-18	Cabbage	caterpillar
+2016-05-18	ts_ran_sha_mas_0010_oct15_0_chil_a_2016-05-16	Chilli	thrips
+2016-05-18	ts_ran_sha_don_0001_mar16_0_chil_a_2016-05-18	Chilli	thrips
+2016-05-18	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-05-18	Chilli	thrips
+2016-05-18	ts_ran_sha_kot_0011_may16_0_clus_a_2016-05-16	ClusterBean	sucking pest
+2016-05-18	ts_ran_sha_rav_0001_apr16_0_lady_a_2016-05-18	Ladyfinger	sucking pest
+2016-05-18	ts_ran_sha_kot_0003_dec15_0_mari_a_2016-05-16	Marigold	mealy bug
+2016-05-18	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-05-18	Tomato	sucking pest
+2016-05-19	ts_ran_sha_mah_0009_apr16_0_toma_a_2016-05-18	Tomato	sucking pest
+2016-05-19	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-05-19	Tomato	sucking pest
+2016-05-19	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-05-19	Brinjal	borer
+2016-05-19	ts_ran_sha_pro_0007_oct15_0_bott_a_2016-05-19	Bottlegourd	aphid
+2016-05-19	ts_ran_sha_yel_0001_mar16_0_brin_a_2016-05-19	Brinjal	sucking pest;borer;jassid
+2016-05-19	ts_ran_sha_pro_0011_jan16_0_clus_a_2016-05-19	ClusterBean	sucking pest
+2016-05-19	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-05-19	Ladyfinger	sucking pest;mildew
+2016-05-20	ts_med_gaj_ahm_0002_jul15_0_maiz_a_2016-05-20	Maize	borer
+2016-05-20	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-05-20	Chilli	thrips
+2016-05-20	ts_med_gaj_ahm_0032_apr16_7_chil_c_2016-05-20	Chilli	thrips
+2016-05-20	ts_med_jin_gum_0010_sep15_0_chil_d_2016-05-20	Chilli	thrips
+2016-05-20	ts_med_war_war_0031_feb16_19_chil_a_2016-05-20	Chilli	thrips
+2016-05-20	ts_med_war_war_0033_mar16_20_chil_b_2016-05-20	Chilli	thrips
+2016-05-20	ts_med_jin_gum_0006_aug15_0_ridg_a_2016-05-20	Ridgegourd	thrips
+2016-05-20	ts_med_mul_mul_0025_may16_0_ridg_a_2016-05-20	Ridgegourd	sucking pest;aphid
+2016-05-20	ts_med_mul_mul_0026_may16_0_ridg_f_2016-05-20	Ridgegourd	sucking pest;aphid
+2016-05-20	ts_med_nar_bra_0005_mar16_0_ridg_f_2016-05-20	Ridgegourd	sucking pest;aphid
+2016-05-20	ts_med_nar_lin_0001_may16_0_ridg_a_2016-05-20	Ridgegourd	sucking pest;aphid
+2016-05-20	ts_med_nar_lin_0014_jan16_0_ridg_b_2016-05-20	Ridgegourd	sucking pest;aphid
+2016-05-20	ts_med_war_war_0031_feb16_9_cucu_c_2016-05-20	Cucumber	aphid
+2016-05-20	ts_med_gaj_ahm_0034_apr16_17_lady_d_2016-05-20	Ladyfinger	sucking pest
+2016-05-20	ts_med_jin_nal_0011_jul15_0_lady_a_2016-05-20	Ladyfinger	mildew
+2016-05-20	ts_med_mul_lak_0001_aug15_0_lady_a_2016-05-20	Ladyfinger	borer;white fly
+2016-05-20	ts_med_war_war_0031_feb16_9_lady_a_2016-05-20	Ladyfinger	borer;white fly
+2016-05-21	ts_med_jin_gum_0006_apr16_0_bott_a_2016-05-20	Bottlegourd	jassid
+2016-05-21	ts_ran_sha_bul_0015_mar16_0_bott_a_2016-05-19	Bottlegourd	jassid
+2016-05-21	ts_med_gaj_ahm_0001_sep15_20_brin_a_2016-05-20	Brinjal	sucking pest;jassid
+2016-05-21	ts_med_jin_gum_0006_aug15_0_brin_c_2016-05-20	Brinjal	sucking pest;jassid
+2016-05-21	ts_med_jin_gum_0010_sep15_0_brin_c_2016-05-20	Brinjal	sucking pest
+2016-05-21	ts_med_jin_gum_0024_dec15_0_brin_a_2016-05-20	Brinjal	borer
+2016-05-21	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-05-19	Brinjal	mites;borer
+2016-05-21	ts_med_mul_mul_0018_aug15_16_brin_a_2016-05-20	Brinjal	sucking pest;jassid
+2016-05-21	ts_med_mul_mul_0026_may16_0_brin_a_2016-05-20	Brinjal	sucking pest
+2016-05-21	ts_med_war_war_0033_apr16_18_brin_d_2016-05-20	Brinjal	sucking pest;jassid
+2016-05-21	ts_med_jin_gum_0006_apr16_0_toma_f_2016-05-20	Tomato	sucking pest
+2016-05-21	ts_med_nar_bra_0005_jan16_0_toma_b_2016-05-20	Tomato	sucking pest
+2016-05-21	ts_med_nar_lin_0009_dec15_0_toma_a_2016-05-20	Tomato	sucking pest
+2016-05-21	ts_med_war_war_0033_mar16_20_toma_c_2016-05-20	Tomato	sucking pest
+2016-05-21	ts_med_mul_mul_0025_mar16_17_clus_a_2016-05-20	ClusterBean	thrips;sucking pest
+2016-05-21	ts_med_mul_mul_0026_apr16_17_clus_b_2016-05-20	ClusterBean	thrips;sucking pest
+2016-05-21	ts_med_nar_bra_0001_may16_0_clus_a_2016-05-20	ClusterBean	thrips;sucking pest
+2016-05-21	ts_med_nar_nar_0001_oct15_0_clus_a_2016-05-20	ClusterBean	sucking pest
+2016-05-21	ts_med_nar_nar_0002_nov15_0_clus_a_2016-05-20	ClusterBean	sucking pest
+2016-05-21	ts_med_nar_nar_0004_nov15_0_clus_a_2016-05-20	ClusterBean	sucking pest
+2016-05-21	ts_med_war_war_0028_jan16_2_clus_b_2016-05-20	ClusterBean	aphid
+2016-05-21	ts_med_war_war_0032_mar16_10_clus_c_2016-05-20	ClusterBean	sucking pest
+2016-05-23	ts_med_pat_gha_0004_jan16_0_bott_a_2016-05-20	Bottlegourd	jassid
+2016-05-23	ts_med_pat_gha_0005_mar16_0_brin_a_2016-05-20	Brinjal	borer
+2016-05-23	ts_med_pat_pat_0010_dec15_0_brin_a_2016-05-20	Brinjal	sucking pest;jassid
+2016-05-23	ts_med_pat_gha_0005_mar16_0_toma_a_2016-05-20	Tomato	sucking pest
+2016-05-25	ts_ran_sha_maa_0015_oct15_0_brin_a_2016-05-24	Brinjal	sucking pest;borer;jassid
+2016-05-25	ts_ran_sha_paa_0004_oct15_0_brin_a_2016-05-24	Brinjal	sucking pest;jassid
+2016-05-25	ts_ran_sha_kot_0011_may16_0_clus_a_2016-05-24	ClusterBean	thrips;sucking pest
+2016-05-25	ts_ran_sha_rav_0001_apr16_0_lady_a_2016-05-24	Ladyfinger	aphid;jassid
+2016-05-25	ts_ran_sha_kot_0008_oct15_0_toma_a_2016-05-24	Tomato	sucking pest
+2016-05-25	ts_ran_sha_maa_0014_mar16_0_toma_a_2016-05-24	Tomato	sucking pest
+2016-05-26	ts_med_pat_gha_0004_jan16_0_bott_a_2016-05-26	Bottlegourd	jassid
+2016-05-26	ts_ran_sha_bul_0015_mar16_0_bott_a_2016-05-26	Bottlegourd	jassid
+2016-05-26	ts_med_pat_gha_0002_aug15_0_brin_a_2016-05-26	Brinjal	sucking pest;jassid
+2016-05-26	ts_med_pat_gha_0005_mar16_0_brin_a_2016-05-26	Brinjal	mites;borer
+2016-05-26	ts_ran_sha_bul_0006_mar16_0_brin_a_2016-05-26	Brinjal	borer
+2016-05-26	ts_ran_sha_don_0001_mar16_0_brin_a_2016-05-26	Brinjal	sucking pest
+2016-05-26	ts_ran_sha_mah_0012_dec15_0_brin_a_2016-05-26	Brinjal	sucking pest;jassid
+2016-05-26	ts_ran_sha_pro_0007_aug15_0_brin_a_2016-05-25	Brinjal	mites;borer
+2016-05-26	ts_ran_sha_mah_0001_mar16_0_cabb_a_2016-05-26	Cabbage	caterpillar
+2016-05-26	ts_ran_sha_bul_0012_jan16_0_chil_a_2016-05-26	Chilli	thrips
+2016-05-26	ts_ran_sha_don_0001_mar16_0_chil_a_2016-05-26	Chilli	thrips
+2016-05-26	ts_ran_sha_mah_0011_nov15_0_chil_a_2016-05-26	Chilli	thrips
+2016-05-26	ts_ran_sha_yel_0001_may16_0_cucu_a_2016-05-25	Cucumber	thrips
+2016-05-26	ts_ran_sha_yel_0002_sep15_0_lady_a_2016-05-25	Ladyfinger	mildew
+2016-05-26	ts_med_pat_gha_0001_oct15_11_toma_a_2016-05-26	Tomato	jassid
+2016-05-26	ts_ran_sha_bul_0008_jan16_0_toma_a_2016-05-26	Tomato	sucking pest
+2016-05-26	ts_ran_sha_bul_0016_jan16_0_toma_a_2016-05-26	Tomato	sucking pest
+2016-05-26	ts_ran_sha_yel_0002_nov15_0_toma_a_2016-05-25	Tomato	sucking pest
+2016-05-28	ts_med_mul_mul_0026_apr16_17_clus_b_2016-05-27	ClusterBean	thrips;sucking pest
+2016-05-28	ts_med_war_war_0025_nov15_3_clus_e_2016-05-27	ClusterBean	aphid
+2016-05-28	ts_med_war_war_0032_mar16_10_clus_c_2016-05-27	ClusterBean	sucking pest
+2016-05-28	ts_med_jin_ant_0001_mar16_0_ridg_e_2016-05-27	Ridgegourd	aphid
+2016-05-28	ts_med_mul_mul_0026_may16_0_ridg_f_2016-05-27	Ridgegourd	thrips
+2016-05-28	ts_med_nar_bra_0001_may16_0_ridg_a_2016-05-27	Ridgegourd	sucking pest;aphid
+2016-05-28	ts_med_nar_lin_0014_jan16_0_ridg_b_2016-05-27	Ridgegourd	sucking pest;aphid
+2016-05-28	ts_med_mul_lak_0001_aug15_0_cucu_a_2016-05-27	Cucumber	sucking pest
+2016-05-28	ts_med_war_war_0031_feb16_9_cucu_c_2016-05-27	Cucumber	thrips
+2016-05-28	ts_med_jin_nal_0024_feb16_0_lady_b_2016-05-27	Ladyfinger	sucking pest;spodoptera;mildew
+2016-05-28	ts_med_jin_nal_0026_feb16_0_lady_b_2016-05-27	Ladyfinger	sucking pest
+2016-05-28	ts_med_war_war_0025_sep15_16_lady_b_2016-05-27	Ladyfinger	sucking pest
+2016-05-28	ts_med_gaj_ahm_0002_jul15_0_maiz_a_2016-05-27	Maize	borer
+2016-05-28	ts_med_gaj_ahm_0001_aug15_17_toma_a_2016-05-27	Tomato	sucking pest
+2016-05-28	ts_med_jin_ant_0002_sep15_0_toma_d_2016-05-27	Tomato	sucking pest
+2016-05-28	ts_med_mul_mul_0025_may16_0_bitt_a_2016-05-27	Bittergourd	sucking pest;aphid
+2016-05-28	ts_med_jin_gum_0006_apr16_0_bott_a_2016-05-27	Bottlegourd	aphid
+2016-05-28	ts_med_jin_ant_0001_oct15_0_brin_c_2016-05-27	Brinjal	aphid
+2016-05-28	ts_med_jin_gum_0006_aug15_0_brin_c_2016-05-27	Brinjal	sucking pest
+2016-05-28	ts_med_mul_mul_0022_sep15_20_brin_a_2016-05-27	Brinjal	sucking pest;jassid
+2016-05-28	ts_med_mul_mul_0026_may16_0_brin_a_2016-05-27	Brinjal	sucking pest;jassid
+2016-05-28	ts_med_war_war_0033_apr16_18_brin_d_2016-05-27	Brinjal	mites;borer
+2016-05-28	ts_med_gaj_ahm_0032_apr16_7_chil_c_2016-05-27	Chilli	thrips
+2016-05-28	ts_med_jin_gum_0010_sep15_0_chil_d_2016-05-27	Chilli	thrips
+2016-05-28	ts_med_war_war_0033_mar16_20_chil_b_2016-05-27	Chilli	thrips
+2016-05-30	ts_med_war_war_0029_jan16_2_bott_c_2016-02-19	Bottlegourd	aphid
+2016-06-13	ts_med_jin_gum_0010_oct15_0_bitt_d_2016-06-13	Bittergourd	sucking pest;aphid
+2016-06-13	ts_med_jin_gum_0011_sep15_0_chil_c_2016-06-13	Chilli	thrips
+2016-06-13	ts_med_jin_gum_0010_sep15_0_brin_c_2016-06-13	Brinjal	aphid
+2016-06-13	ts_med_jin_nal_0015_feb16_0_lady_f_2016-06-13	Ladyfinger	borer
+2016-06-13	ts_med_jin_gum_0009_sep15_0_toma_c_2016-06-13	Tomato	thrips;sucking pest
+2016-06-16	ts_med_mul_mul_0025_may16_0_bitt_a_2016-06-16	Bittergourd	sucking pest;aphid
+2016-06-16	ts_med_gaj_ahm_0029_sep15_21_brin_a_2016-06-16	Brinjal	aphid
+2016-06-16	ts_med_war_war_0018_aug15_19_brin_a_2016-06-16	Brinjal	borer
+2016-06-16	ts_med_gaj_ahm_0030_nov15_9_chil_c_2016-06-16	Chilli	thrips
+2016-06-16	ts_med_mul_mul_0025_mar16_17_clus_a_2016-06-16	ClusterBean	aphid
+2016-06-16	ts_med_war_war_0026_nov15_24_clus_c_2016-06-16	ClusterBean	borer
+2016-06-16	ts_med_war_war_0032_mar16_10_clus_c_2016-06-16	ClusterBean	aphid
+2016-06-16	ts_med_mul_mul_0014_feb16_27_cucu_b_2016-06-16	Cucumber	sucking pest;jassid
+2016-06-16	ts_med_gaj_ahm_0034_apr16_17_lady_d_2016-06-16	Ladyfinger	mildew
+2016-06-16	ts_med_war_war_0033_mar16_20_lady_a_2016-06-16	Ladyfinger	aphid
+2016-06-16	ts_med_war_war_0012_jul15_0_maiz_a_2016-06-16	Maize	borer
+2016-06-16	ts_med_mul_mul_0025_may16_0_ridg_a_2016-06-16	Ridgegourd	thrips;bacterial
+2016-06-16	ts_med_mul_mul_0026_may16_0_ridg_f_2016-06-16	Ridgegourd	sucking pest;aphid
+2016-06-16	ts_med_gaj_ahm_0015_aug15_17_toma_a_2016-06-16	Tomato	sucking pest
+2016-06-16	ts_med_war_war_0018_oct15_6_toma_c_2016-06-16	Tomato	sucking pest
+2016-07-14	ap_war_gha_mal_0005_jul16_0_rice_a_2016-07-14	Rice	zn deficiency
+2016-07-14	ap_war_gha_pee_0001_jul16_0_rice_a_2016-07-14	Rice	zn deficiency
+2016-07-14	ap_war_gha_lin_0004_jul16_0_maiz_a_2016-07-14	Maize	borer
+2016-07-14	ap_war_gha_mal_0006_jul16_0_maiz_a_2016-07-14	Maize	borer
+2016-07-14	ap_war_gha_ven_0003_jul16_0_maiz_a_2016-07-14	Maize	borer;spodoptera
+2016-07-14	ap_war_gha_lin_0005_jul16_0_cott_a_2016-07-14	Cotton	sucking pest
+2016-07-14	ap_war_gha_mal_0013_jul16_0_cott_a_2016-07-14	Cotton	white fly
+2016-07-14	ap_war_gha_pee_0002_jul16_0_cott_a_2016-07-14	Cotton	white fly
+2016-07-23	ts_med_jin_gum_0010_sep15_0_brin_c_2016-07-23	Brinjal	borer
+2016-07-23	ts_med_jin_nal_0012_jul15_0_brin_a_2016-07-23	Brinjal	aphid
+2016-07-23	ts_med_nar_nar_0009_nov15_0_clus_a_2016-07-23	ClusterBean	aphid
+2016-07-23	ts_med_jin_nal_0002_jul15_0_cott_a_2016-07-23	Cotton	leafminer
+2016-07-23	ts_med_jin_nal_0010_jul15_0_lady_a_2016-07-23	Ladyfinger	aphid;spodoptera
+2016-07-23	ts_med_jin_nal_0002_jul15_0_cott_a_2016-07-23	Cotton	leafminer
+2016-07-23	ts_med_nar_bra_0004_jan16_0_lady_a_2016-07-23	Ladyfinger	aphid;spodoptera
+2016-07-23	ts_med_jin_gum_0004_jul15_0_maiz_a_2016-07-23	Maize	borer
+2016-07-23	ts_med_nar_bra_0002_jul15_0_maiz_a_2016-07-23	Maize	borer
+2016-07-23	ts_med_nar_lin_0001_jul15_0_rice_a_2016-07-23	Rice	blb
+2016-07-23	ts_med_jin_gum_0010_sep15_0_ridg_a_2016-07-23	Ridgegourd	sucking pest;aphid
+2016-07-23	ts_med_jin_gum_0009_sep15_0_ridg_a_2016-07-23	Ridgegourd	jassid
+2016-08-08	ap_war_gha_lin_0005_jul16_0_cott_a_2016-08-01	Cotton	aphid
+2016-08-08	ap_war_gha_mal_0013_jul16_0_cott_a_2016-08-01	Cotton	sucking pest
+2016-08-08	ap_war_gha_lin_0002_aug16_0_maiz_a_2016-08-01	Maize	borer
+2016-08-08	ap_war_gha_mal_0006_jul16_0_maiz_a_2016-08-01	Maize	borer;spodoptera
+2016-08-08	ap_war_gha_ven_0003_jul16_0_maiz_a_2016-08-01	Maize	zn deficiency
+2016-08-08	ap_war_gha_lin_0007_aug16_0_rice_a_2016-08-01	Rice	case worm;cutworm
+2016-08-09	ts_med_nar_nar_0008_nov15_0_clus_a_2016-08-09	ClusterBean	sucking pest;mildew
+2016-08-09	ts_med_nar_bra_0005_jan16_0_lady_a_2016-08-09	Ladyfinger	aphid;spodoptera
+2016-08-09	ts_med_nar_nar_0009_nov15_0_clus_a_2016-08-09	ClusterBean	aphid
+2016-08-09	ts_med_nar_thi_0007_feb16_0_rice_a_2016-08-09	Rice	blb
+2016-08-09	ts_med_nar_lin_0001_jul15_0_rice_a_2016-08-09	ClusterBean	blb
+2016-08-09	ts_med_nar_thi_0008_jul16_23_soyb_a_2016-08-09	Soybean	caterpillar
+2016-08-13	ts_med_jin_nal_0007_oct15_0_brin_c_2016-08-13	Brinjal	borer
+2016-08-13	ts_med_jin_ant_0001_oct15_0_brin_c_2016-08-13	Brinjal	borer
+2016-08-13	ts_med_jin_ant_0002_sep15_0_caul_a_2016-08-13	Cauliflower	boll worm
+2016-08-13	ts_med_jin_gum_0011_sep15_0_caul_a_2016-08-13	Cauliflower	boll worm
+2016-08-13	ts_med_jin_ant_0002_sep15_0_chil_c_2016-08-13	Chilli	thrips
+2016-08-13	ts_med_jin_nal_0009_jul15_0_lady_a_2016-08-13	Ladyfinger	borer
+2016-08-13	ts_med_jin_ant_0001_sep15_0_toma_b_2016-08-13	Tomato	bacterial
+2016-09-06	ap_war_gha_lin_0005_jul16_0_cott_a_2016-08-26	Cotton	white fly;jassid
+2016-09-06	ap_war_gha_lin_0002_aug16_0_maiz_a_2016-08-26	Maize	borer
+2016-09-06	ap_war_gha_lin_0007_aug16_0_rice_a_2016-08-26	Rice	caterpillar;leaf folder
+2016-09-13	ts_ran_sha_kot_0001_apr16_0_brin_a_2016-09-13	Brinjal	borer
+2016-10-07	ap_war_gha_pee_0002_jul16_0_cott_a_2016-09-29	Cotton	white fly;jassid;square burning
+2016-10-07	ap_war_gha_mal_0013_jul16_0_cott_a_2016-09-29	Cotton	white fly
+2016-10-07	ap_war_gha_lin_0005_jul16_0_cott_a_2016-09-29	Cotton	white fly;jassid;square burning
+2016-10-07	ap_war_gha_ven_0005_sep16_0_cott_a_2016-09-29	Cotton	white fly
+2016-10-07	ap_war_gha_mad_0003_feb16_0_rice_a_2016-09-29	Rice	hispa
+2016-11-19	ap_war_gha_mal_0005_nov16_0_maiz_a_2016-11-19	Maize	borer
+2016-11-19	ap_war_gha_mad_0001_nov16_0_maiz_a_2016-11-19	Maize	borer
+2016-11-19	ap_war_gha_lin_0004_nov16_0_redg_a_2016-11-19	Redgram	aphid
+2016-11-19	ap_war_gha_pee_0001_nov16_0_redg_a_2016-11-19	Redgram	helicoverpa;caterpillar
+2017-01-18	ap_war_gha_mal_0012_jan17_0_maiz_a_2007-01-17	Maize	borer;spodoptera
+2017-01-18	ap_war_gha_ven_0003_jan17_0_maiz_a_2007-01-17	Maize	borer
+2017-01-18	ap_war_gha_ven_0003_jan17_0_maiz_a_2007-01-17	Maize	borer
+2017-01-18	ap_war_gha_mal_0015_jan17_0_maiz_a_2007-01-17	Maize	borer

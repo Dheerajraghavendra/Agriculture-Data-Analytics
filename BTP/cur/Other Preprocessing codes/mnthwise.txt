@@ -1,0 +1,12 @@
+January		589
+February	424
+March		383
+April		272
+May		245
+June		30
+July		122
+August		320
+September	947
+October		759
+November	639
+December	509

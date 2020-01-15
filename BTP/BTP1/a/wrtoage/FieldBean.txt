@@ -1,0 +1,4 @@
+bacterial	12
+boll worm	16
+borer	1,4,5,18
+thrips	12

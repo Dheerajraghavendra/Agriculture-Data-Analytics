@@ -1,0 +1,2 @@
+The file trn.py generates the folder train using rawdata and files like uyears.txt generated from rawdata.
+In train folder, the file finalformat is generated using which, we made the tdata folder(manually), which is used for all the models.

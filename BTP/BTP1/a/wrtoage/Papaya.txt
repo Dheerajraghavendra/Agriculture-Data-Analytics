@@ -1,0 +1,4 @@
+healthy	12,13,5,15,18,46
+white fly	16
+sucking pest	1
+aphid	44

@@ -1,0 +1,455 @@
+Chilli	kharif	30.0	24.0	84.0	61.0	4.8	0.0	3.4	2.4	thrips
+Cotton	kharif	29.0	25.0	79.0	58.0	11.7	0.0	0.6	3.0	sucking pest
+Rice	kharif	29.0	25.0	79.0	58.0	11.7	0.0	0.6	3.0	borer
+Chilli	kharif	30.0	22.0	84.0	62.0	7.9	0.0	4.0	3.1	bacterial
+Cotton	kharif	29.5	25.0	84.0	65.0	8.8	0.0	6.5	3.0	sucking pest
+Cotton	kharif	30.5	22.0	79.0	58.0	8.8	0.0	11.1	3.6	sucking pest
+Maize	kharif	30.5	22.0	79.0	58.0	8.8	0.0	11.1	3.6	nitrogen defi
+Chilli	kharif	31.5	23.5	84.0	62.0	9.2	0.0	8.4	3.5	thrips
+Cotton	kharif	31.5	22.5	87.0	56.0	3.4	0.0	6.6	3.5	borer
+Jasmine	kharif	29.0	23.0	79.0	60.0	5.5	0.0	0.2	3.0	fungus
+Maize	kharif	29.0	23.0	79.0	60.0	5.5	0.0	0.2	3.0	borer
+Chilli	kharif	31.5	22.5	87.0	56.0	3.4	0.0	6.6	3.5	grub
+Chilli	kharif	33.0	23.0	87.0	59.0	3.7	10.6	6.9	3.2	thrips
+Rice	kharif	29.5	23.0	95.0	92.0	5.0	0.0	3.3	2.5	borer
+Cotton	kharif	29.0	21.5	87.0	72.0	8.4	8.7	3.3	2.5	leafminer
+Chilli	kharif	29.0	23.0	77.0	74.0	4.7	0.0	0.0	2.4	thrips
+Chilli	kharif	31.0	21.5	95.0	92.0	7.6	23.6	5.2	3.0	thrips
+Cotton	kharif	31.0	21.5	95.0	92.0	7.6	23.6	5.2	3.0	sucking pest
+Rice	kharif	31.0	21.5	95.0	92.0	7.6	23.6	5.2	3.0	rodent
+Rice	kharif	31.0	21.5	95.0	92.0	7.6	23.6	5.2	3.0	borer
+Rice	kharif	30.0	22.0	92.0	71.0	8.5	0.0	6.5	3.0	caterpillar
+Rice	kharif	30.0	22.0	82.0	60.0	7.6	0.0	9.2	3.2	caterpillar
+Chilli	kharif	30.0	22.0	82.0	60.0	7.6	0.0	9.2	3.2	thrips
+Rice	kharif	29.0	23.0	87.0	60.0	10.8	0.0	5.0	3.0	caterpillar
+Cotton	kharif	27.5	21.0	91.0	74.0	9.2	17.0	0.0	1.3	sucking pest
+Rice	kharif	27.5	21.0	91.0	74.0	9.2	17.0	0.0	1.3	borer
+Rice	kharif	29.5	24.0	84.0	92.0	7.7	0.0	2.2	3.0	caterpillar
+Chilli	kharif	27.5	21.0	91.0	74.0	9.2	17.0	0.0	1.3	thrips
+Cotton	kharif	27.5	21.0	91.0	74.0	9.2	17.0	0.0	1.3	white fly
+Cotton	kharif	29.0	21.8	91.0	60.0	5.8	10.2	2.5	2.5	white fly
+Chilli	kharif	29.0	21.8	91.0	60.0	5.8	10.2	2.5	2.5	thrips
+Chilli	kharif	29.0	21.8	91.0	60.0	5.8	10.2	2.5	2.5	bacterial
+Rice	kharif	29.0	21.8	91.0	60.0	5.8	10.2	2.5	2.5	leaf folder
+Sugarcane	kharif	30.5	25.0	84.0	61.0	4.7	2.8	5.3	3.0	caterpillar
+Citrus	kharif	31.5	22.5	92.0	64.0	2.1	0.8	5.7	3.0	moth
+Cotton	kharif	31.5	22.5	92.0	64.0	2.1	0.8	5.7	3.0	white fly
+Maize	kharif	31.5	22.5	92.0	64.0	2.1	0.8	5.7	3.0	borer
+Rice	kharif	31.5	22.5	92.0	64.0	2.1	0.8	5.7	3.0	borer
+Chilli	kharif	30.5	22.0	92.0	72.0	3.7	0.0	1.8	3.0	thrips
+Chilli	kharif	29.4	22.0	77.0	52.0	1.1	0.0	1.4	3.0	thrips
+Cotton	kharif	29.4	22.0	77.0	52.0	1.1	0.0	1.4	3.0	bacterial
+Chilli	kharif	32.0	21.0	84.0	65.0	3.4	0.0	8.2	4.1	thrips
+Cotton	kharif	32.0	21.0	84.0	65.0	3.4	0.0	8.2	4.1	white fly
+Rice	kharif	33.0	20.5	97.0	60.0	2.1	13.8	6.1	3.6	blb
+Maize	kharif	31.5	20.5	92.0	51.0	1.4	15.2	5.0	2.8	borer
+Rice	kharif	31.0	21.5	93.0	72.0	1.0	5.0	4.4	2.7	caterpillar
+Cotton	kharif	29.0	21.5	100.0	92.0	0.6	14.0	0.0	1.8	boll worm
+Cotton	kharif	29.0	21.5	100.0	92.0	0.6	14.0	0.0	1.8	white fly
+Chilli	kharif	30.5	22.0	93.0	72.0	1.9	5.0	6.1	2.7	thrips
+Cotton	kharif	26.5	22.0	98.0	77.0	2.7	20.2	0.0	1.8	bacterial
+Redgram	kharif	26.5	22.0	98.0	77.0	2.7	20.2	0.0	1.8	helicoverpa
+Chilli	kharif	26.5	22.0	98.0	77.0	2.7	20.2	0.0	1.8	thrips
+Chilli	kharif	26.5	22.0	98.0	77.0	2.7	20.2	0.0	1.8	bacterial
+Rice	kharif	31.0	23.0	90.0	61.0	2.6	0.5	6.4	3.0	caterpillar
+Rice	kharif	31.0	22.0	84.0	50.0	0.6	0.0	2.4	3.2	blast
+Maize	kharif	31.0	22.0	84.0	50.0	0.6	0.0	2.4	3.2	borer
+Rice	kharif	32.0	17.0	80.0	38.0	2.6	0.0	9.4	3.8	borer
+Cotton	kharif	32.0	17.0	80.0	38.0	2.6	0.0	9.4	3.8	jassid
+Chilli	kharif	31.5	15.0	86.0	31.0	2.1	0.0	9.3	4.0	thrips
+Cotton	kharif	31.5	15.0	86.0	31.0	2.1	0.0	9.3	4.0	sucking pest
+Cotton	kharif	32.0	17.0	80.0	38.0	2.6	0.0	9.4	3.8	white fly
+Maize	kharif	32.0	17.0	80.0	38.0	2.6	0.0	9.4	3.8	borer
+Rice	kharif	32.0	17.0	80.0	38.0	2.6	0.0	9.4	3.8	blast
+Rice	kharif	32.0	17.0	80.0	38.0	2.6	0.0	9.4	3.8	blast
+Chilli	kharif	32.0	15.0	82.0	43.0	1.1	0.0	9.1	4.1	thrips
+Maize	kharif	32.0	15.0	82.0	43.0	1.1	0.0	9.1	4.1	borer
+Maize	kharif	31.5	15.5	91.0	26.0	2.9	0.0	9.1	4.6	borer
+Turmeric	kharif	31.5	15.5	91.0	26.0	2.9	0.0	9.1	4.6	bacterial
+Cotton	kharif	27.5	20.1	91.0	70.0	3.1	13.6	0.0	3.5	white fly
+Mango	kharif	27.5	20.1	91.0	70.0	3.1	13.6	0.0	3.5	Boron defi
+Maize	kharif	28.5	21.1	91.0	56.0	4.0	0.0	2.1	3.0	borer
+Rice	kharif	28.5	21.1	91.0	56.0	4.0	0.0	2.1	3.0	blast
+Maize	kharif	28.5	21.1	91.0	56.0	4.0	0.0	2.1	3.0	borer
+Chickpea_Bengalgram	kharif	30.0	19.1	91.0	47.0	3.1	0.0	7.7	3.3	spodoptera
+Cotton	kharif	30.0	19.1	91.0	47.0	3.1	0.0	7.7	3.3	Boron defi
+Rice	kharif	30.0	19.1	91.0	47.0	3.1	0.0	7.7	3.3	blast
+Rice	kharif	28.5	21.1	91.0	56.0	4.0	0.0	2.1	3.0	blast
+Rice	kharif	27.5	20.1	91.0	70.0	3.1	13.6	0.0	3.5	caterpillar
+Cotton	kharif	30.0	18.1	90.0	48.0	3.4	0.0	8.7	3.5	white fly
+Rice	kharif	30.5	18.1	87.0	54.0	3.1	0.0	8.1	3.7	sucking pest
+Cotton	kharif	29.0	15.1	77.0	53.0	3.7	0.0	7.5	3.7	white fly
+Cotton	kharif	29.0	15.1	77.0	53.0	3.7	0.0	7.5	3.7	white fly
+Rice	kharif	29.0	15.1	77.0	53.0	3.7	0.0	7.5	3.7	sucking pest
+Cotton	kharif	29.0	15.1	77.0	53.0	3.7	0.0	7.5	3.7	white fly
+Chickpea_Bengalgram	rabi	29.5	21.1	83.0	91.0	9.5	0.0	5.9	3.0	spodoptera
+Rice	rabi	24.0	21.1	95.0	91.0	7.9	35.0	0.0	1.0	blast
+Cotton	rabi	24.0	20.6	100.0	84.0	1.4	12.0	0.0	1.1	white fly
+Redgram	rabi	24.0	20.6	100.0	84.0	1.4	12.0	0.0	1.1	white fly
+Chickpea_Bengalgram	rabi	26.5	21.3	93.0	58.0	3.9	0.0	1.0	2.9	spodoptera
+Rice	rabi	26.5	21.3	93.0	58.0	3.9	0.0	1.0	2.9	blast
+Rice	rabi	30.0	18.1	91.0	48.0	0.6	0.0	8.2	3.3	blast
+Maize	rabi	29.5	17.1	82.0	52.0	1.4	0.0	9.5	3.5	white fly
+Chilli	rabi	26.0	16.1	91.0	41.0	0.3	0.0	0.0	3.0	thrips
+Mango	rabi	26.0	16.1	91.0	41.0	0.3	0.0	0.0	3.0	bacterial
+Redgram	rabi	28.5	14.1	81.0	32.0	1.0	0.0	6.8	2.8	helicoverpa
+Chilli	rabi	28.5	14.1	81.0	32.0	1.0	0.0	6.8	2.8	thrips
+Cotton	rabi	28.5	14.1	81.0	32.0	1.0	0.0	6.8	2.8	white fly
+Chickpea_Bengalgram	rabi	28.5	14.1	81.0	32.0	1.0	0.0	6.8	2.8	aphid
+Chickpea_Bengalgram	rabi	26.0	16.1	91.0	41.0	0.3	0.0	0.0	3.0	aphid
+Chilli	rabi	28.5	14.1	81.0	32.0	1.0	0.0	6.8	2.8	bacterial
+Cotton	rabi	28.5	14.1	81.0	32.0	1.0	0.0	6.8	2.8	white fly
+Rice	rabi	26.0	16.1	91.0	41.0	0.3	0.0	0.0	3.0	sucking pest
+Groundnut	rabi	28.0	9.1	71.0	48.0	1.6	0.0	9.5	3.3	thrips
+Citrus	rabi	28.0	9.1	71.0	48.0	1.6	0.0	9.5	3.3	Boron defi
+Maize	rabi	27.0	8.1	79.0	25.0	2.1	0.0	9.8	3.2	borer
+Redgram	rabi	30.0	15.1	81.0	38.0	1.0	0.0	8.6	3.5	helicoverpa
+Chickpea_Bengalgram	rabi	30.0	15.1	81.0	38.0	1.0	0.0	8.6	3.5	aphid
+Rice	rabi	30.0	16.1	91.0	49.0	1.9	0.0	5.1	3.2	bacterial
+Chilli	rabi	30.0	16.1	91.0	49.0	1.9	0.0	5.1	3.2	thrips
+Cotton	rabi	30.0	16.1	91.0	49.0	1.9	0.0	5.1	3.2	sucking pest
+Rice	rabi	30.0	15.1	73.0	47.0	6.6	0.0	6.8	3.4	blast
+Rice	rabi	30.0	15.1	73.0	47.0	6.6	0.0	6.8	3.4	blast
+Groundnut	rabi	30.0	16.1	91.0	39.0	2.3	0.0	8.2	3.1	spodoptera
+Redgram	rabi	30.0	16.1	91.0	39.0	2.3	0.0	8.2	3.1	helicoverpa
+Cotton	rabi	30.0	16.1	91.0	39.0	2.3	0.0	8.2	3.1	white fly
+Chilli	rabi	29.0	14.6	81.0	46.0	2.4	0.0	9.0	3.1	thrips
+Mango	rabi	34.0	13.1	65.0	31.0	1.1	0.0	10.2	3.7	bacterial
+Rice	rabi	33.5	14.1	80.0	46.0	1.6	0.0	9.8	3.6	sucking pest
+Tobacco	rabi	32.5	14.1	75.0	28.0	2.4	0.0	10.2	3.6	spodoptera
+Chilli	rabi	32.5	14.1	75.0	28.0	2.4	0.0	10.2	3.6	thrips
+Chilli	rabi	29.0	10.1	79.0	31.0	3.7	0.0	9.5	3.6	thrips
+Maize	rabi	29.0	10.1	79.0	31.0	3.7	0.0	9.5	3.6	borer
+Rice	rabi	29.0	10.0	79.0	39.0	1.8	0.0	9.6	3.6	blast
+Cotton	rabi	29.0	11.1	89.0	39.0	1.8	0.0	9.0	3.3	Boron defi
+Chilli	rabi	29.0	11.1	89.0	39.0	1.8	0.0	9.0	3.3	thrips
+Chilli	rabi	29.0	10.1	77.0	34.0	1.4	0.0	9.3	3.5	thrips
+Maize	rabi	27.0	10.1	56.0	73.0	3.7	0.0	7.7	3.4	borer
+Turmeric	rabi	28.5	10.5	81.0	29.0	2.4	0.0	9.7	4.7	bacterial
+Chilli	rabi	27.5	12.0	93.0	39.0	3.9	0.0	9.6	3.9	thrips
+Maize	rabi	27.5	12.0	93.0	39.0	3.9	0.0	9.6	3.9	borer
+Citrus	rabi	26.5	14.6	85.0	18.0	2.7	0.0	9.4	2.3	Boron defi
+Groundnut	rabi	26.5	14.6	85.0	18.0	2.7	0.0	9.4	2.3	spodoptera
+Rice	rabi	27.0	12.2	89.0	29.0	3.7	0.0	9.1	3.0	blast
+Citrus	rabi	31.5	13.0	89.0	27.0	1.6	0.0	8.8	4.4	Boron defi
+Chilli	rabi	31.5	13.0	89.0	27.0	1.6	0.0	8.8	4.4	thrips
+Chickpea_Bengalgram	rabi	32.5	16.5	81.0	39.0	3.5	0.0	9.3	4.4	aphid
+Maize	rabi	29.0	14.1	89.0	31.0	3.4	0.0	8.0	4.2	borer
+Mango	rabi	29.0	16.1	90.0	36.0	4.2	0.0	8.6	2.2	white fly
+Groundnut	rabi	32.0	13.4	89.0	25.0	3.2	0.0	9.3	5.0	spodoptera
+Rice	rabi	32.5	16.0	86.0	26.0	3.9	0.0	7.2	4.1	caterpillar
+Chilli	rabi	29.5	17.2	85.0	39.0	7.2	0.0	8.8	4.0	thrips
+Maize	rabi	31.0	19.0	74.0	36.0	5.1	0.0	7.2	3.5	borer
+Chilli	rabi	31.5	16.5	91.0	38.0	2.1	0.0	9.6	4.6	thrips
+Maize	rabi	32.0	17.1	82.0	37.0	3.9	0.0	9.5	4.9	borer
+Watermelon	summer	34.0	19.0	65.0	23.0	3.1	0.0	9.6	5.1	sucking pest
+Chilli	summer	35.0	17.1	52.0	25.0	4.2	0.0	9.0	5.0	thrips
+Cotton	kharif	32.5	21.6	87.0	61.0	2.6	0.0	8.8	5.2	sucking pest
+Maize	kharif	31.5	19.6	84.0	58.0	5.3	0.0	10.0	3.4	borer
+Maize	rabi	28.0	11.0	89.0	32.0	1.8	0.0	8.1	4.2	borer
+Maize	kharif	31.5	24.5	84.0	60.0	7.4	0.0	5.9	6.9	borer
+Cotton	kharif	34.5	25.0	73.0	49.0	11.3	0.0	10.0	8.4	white fly
+Cotton	kharif	34.0	25.0	77.0	47.0	14.2	0.0	2.3	7.2	sucking pest
+Chilli	kharif	35.5	23.5	77.0	44.0	14.5	0.0	6.2	8.5	thrips
+Chilli	kharif	36.0	25.5	71.0	52.0	7.6	0.0	9.6	7.5	boll worm
+Maize	kharif	32.5	23.5	84.0	56.0	13.0	0.0	5.5	6.4	borer
+Cotton	kharif	32.0	23.5	79.0	47.0	8.7	0.0	0.5	5.0	sucking pest
+Ladyfinger	kharif	31.0	24.5	77.0	56.0	11.4	0.0	2.0	5.0	aphid
+Chilli	kharif	32.0	23.5	79.0	47.0	8.7	0.0	0.5	5.0	thrips
+Cotton	kharif	34.0	23.0	81.0	52.0	15.1	0.0	9.5	10.1	aphid
+Maize	kharif	31.0	23.0	77.0	46.0	10.1	0.0	3.9	6.2	borer
+Tomato	kharif	33.0	24.0	77.0	49.0	5.1	0.0	4.8	5.5	thrips
+Chilli	kharif	33.0	24.0	77.0	49.0	5.1	0.0	4.8	5.5	thrips
+Ladyfinger	kharif	33.0	24.0	77.0	49.0	5.1	0.0	4.8	5.5	thrips
+Cotton	kharif	33.0	24.0	77.0	49.0	5.1	0.0	4.8	5.5	sucking pest
+Cotton	kharif	32.0	24.0	84.0	47.0	10.0	0.0	6.6	5.0	sucking pest
+Cotton	kharif	32.0	24.0	84.0	47.0	10.0	0.0	6.6	5.0	aphid
+Cotton	kharif	33.0	24.0	84.0	66.0	7.2	8.0	5.0	5.7	sucking pest
+Cotton	kharif	29.0	25.0	92.0	82.0	2.9	0.0	1.0	5.5	thrips
+Rice	kharif	29.0	25.0	92.0	82.0	2.9	0.0	1.0	5.5	borer
+Brinjal	kharif	28.0	22.5	92.0	59.0	0.8	6.0	0.0	4.0	aphid
+Cotton	kharif	28.0	22.5	92.0	59.0	0.8	6.0	0.0	4.0	thrips
+Cotton	kharif	28.0	22.5	92.0	59.0	0.8	6.0	0.0	4.0	thrips
+Chilli	kharif	32.0	22.5	89.0	52.0	0.6	0.0	2.0	2.8	thrips
+Cotton	kharif	32.0	22.5	89.0	52.0	0.6	0.0	2.0	2.8	thrips
+Lemongrass	kharif	34.0	21.5	100.0	72.0	1.6	41.8	8.5	4.0	aphid
+Cotton	kharif	34.0	21.5	100.0	72.0	1.6	41.8	8.5	4.0	thrips
+Rice	kharif	34.0	21.5	100.0	72.0	1.6	41.8	8.5	4.0	borer
+Ladyfinger	kharif	30.5	22.0	95.0	75.0	2.6	2.0	1.1	3.5	thrips
+Rice	kharif	30.5	22.0	95.0	75.0	2.6	2.0	1.1	3.5	borer
+Maize	kharif	30.5	22.0	95.0	75.0	2.6	2.0	1.1	3.5	borer
+Brinjal	kharif	30.5	22.0	95.0	75.0	2.6	2.0	1.1	3.5	aphid
+Chilli	kharif	32.0	22.5	89.0	52.0	0.6	0.0	2.0	2.8	thrips
+Cotton	kharif	30.5	22.0	95.0	75.0	2.6	2.0	1.1	3.5	thrips
+Maize	kharif	31.0	21.5	92.0	62.0	4.8	5.6	2.9	5.6	borer
+Tomato	kharif	31.0	21.5	92.0	62.0	4.8	5.6	2.9	5.6	thrips
+Maize	kharif	31.0	23.0	84.0	50.0	2.7	0.0	10.4	6.0	aphid
+Groundnut	kharif	29.0	22.0	84.0	66.0	3.5	13.6	1.9	4.7	thrips
+Sapota	kharif	29.0	22.0	84.0	66.0	3.5	13.6	1.9	4.7	mites
+Tomato	kharif	28.0	23.0	78.0	60.0	4.0	0.0	2.2	4.9	thrips
+Brinjal	kharif	28.0	23.0	78.0	60.0	4.0	0.0	2.2	4.9	sucking pest
+Cotton	kharif	28.0	23.0	78.0	60.0	4.0	0.0	2.2	4.9	thrips
+Bittergourd	kharif	28.0	23.0	78.0	60.0	4.0	0.0	2.2	4.9	borer
+Rice	kharif	30.0	23.0	78.0	61.0	4.7	0.0	4.2	5.2	borer
+Maize	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	aphid
+Brinjal	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	aphid
+Cabbage	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	aphid
+Chilli	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	thrips
+Lemongrass	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	aphid
+Tomato	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	thrips
+Cotton	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	thrips
+Cotton	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	thrips
+Rice	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	borer
+Rice	kharif	31.5	23.0	77.0	56.0	4.8	0.0	9.7	5.7	borer
+Tomato	kharif	34.0	24.0	90.0	56.0	1.6	0.0	7.9	6.6	thrips
+Cotton	kharif	34.0	24.0	90.0	56.0	1.6	0.0	7.9	6.6	thrips
+Maize	kharif	34.0	24.0	90.0	56.0	1.6	0.0	7.9	6.6	aphid
+Rice	kharif	31.0	23.0	84.0	50.0	2.7	0.0	10.4	6.0	borer
+Tomato	kharif	34.0	24.0	84.0	51.0	1.4	5.4	6.8	5.5	thrips
+Cucumber	kharif	34.0	22.0	92.0	57.0	1.0	11.8	8.1	5.6	sucking pest
+Maize	kharif	34.0	24.0	84.0	51.0	1.4	5.4	6.8	5.5	aphid
+Rice	kharif	34.0	22.0	92.0	57.0	1.0	11.8	8.1	5.6	borer
+Chilli	kharif	33.0	24.0	86.0	56.0	1.1	0.0	6.9	5.6	thrips
+Brinjal	kharif	34.0	22.5	92.0	84.0	0.6	1.4	5.4	4.4	bacterial
+Chilli	kharif	34.0	22.5	92.0	84.0	0.6	1.4	5.4	4.4	thrips
+Cotton	kharif	34.0	22.5	92.0	84.0	0.6	1.4	5.4	4.4	thrips
+Rice	kharif	34.0	22.5	92.0	84.0	0.6	1.4	5.4	4.4	borer
+Bittergourd	kharif	34.0	22.5	92.0	84.0	0.6	1.4	5.4	4.4	sucking pest
+Tomato	kharif	34.0	22.5	92.0	84.0	0.6	1.4	5.4	4.4	bacterial
+Cauliflower	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	caterpillar
+Chilli	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	thrips
+Cotton	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	thrips
+Cotton	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	thrips
+Jasmine	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	aphid
+Maize	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	aphid
+Redgram	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	aphid
+Rice	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	borer
+Rose	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	die back
+Tomato	kharif	29.0	21.5	100.0	72.0	0.3	26.2	3.0	1.4	thrips
+Ladyfinger	kharif	29.0	22.0	92.0	72.0	1.9	0.0	1.1	3.4	borer
+Cotton	kharif	29.0	22.0	92.0	72.0	1.9	0.0	1.1	3.4	thrips
+Cotton	kharif	29.5	21.5	95.0	78.0	0.8	6.0	2.5	2.1	thrips
+Chilli	kharif	29.5	21.5	95.0	78.0	0.8	6.0	2.5	2.1	thrips
+Rice	kharif	29.5	21.5	95.0	78.0	0.8	6.0	2.5	2.1	borer
+Rice	kharif	29.5	21.5	95.0	78.0	0.8	6.0	2.5	2.1	borer
+Cauliflower	kharif	28.0	21.5	97.0	100.0	0.8	29.4	0.3	2.8	caterpillar
+Cotton	kharif	28.0	21.5	97.0	100.0	0.8	29.4	0.3	2.8	thrips
+Ridgegourd	kharif	28.0	21.5	97.0	100.0	0.8	29.4	0.3	2.8	aphid
+Brinjal	kharif	24.0	22.5	95.0	78.0	0.5	28.2	0.2	2.4	aphid
+Ladyfinger	kharif	24.0	22.5	95.0	78.0	0.5	28.2	0.2	2.4	borer
+Rice	kharif	24.0	22.5	95.0	78.0	0.5	28.2	0.2	2.4	borer
+Rice	kharif	31.0	22.5	87.0	69.0	0.8	0.0	5.4	4.0	borer
+Rice	kharif	31.0	22.0	95.0	66.0	1.3	23.8	5.4	3.0	borer
+Tomato	kharif	31.0	22.5	87.0	69.0	0.8	0.0	5.4	4.0	thrips
+Ladyfinger	kharif	31.0	22.0	95.0	66.0	1.3	23.8	5.4	3.0	bacterial
+Cauliflower	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	caterpillar
+Ladyfinger	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	borer
+Rice	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	borer
+Brinjal	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	aphid
+Rice	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	borer
+Brinjal	kharif	31.0	22.0	95.0	66.0	1.3	23.8	5.4	3.0	aphid
+Chilli	kharif	31.0	22.0	95.0	66.0	1.3	23.8	5.4	3.0	thrips
+Cotton	kharif	31.0	22.5	87.0	69.0	0.8	0.0	5.4	4.0	thrips
+Cotton	kharif	31.0	22.0	95.0	66.0	1.3	23.8	5.4	3.0	thrips
+Maize	kharif	31.0	22.5	87.0	69.0	0.8	0.0	5.4	4.0	aphid
+ClusterBean	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	borer
+Ladyfinger	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	borer
+Tomato	kharif	30.0	22.5	88.0	54.0	0.6	0.0	2.1	3.0	thrips
+Chilli	kharif	30.5	22.0	87.0	53.0	0.6	0.0	6.3	4.4	thrips
+Rice	kharif	30.5	22.0	87.0	53.0	0.6	0.0	6.3	4.4	borer
+Tomato	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	thrips
+Bottlegourd	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	jassid
+Chilli	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	thrips
+Cotton	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	thrips
+Jasmine	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	aphid
+Ladyfinger	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	borer
+Rice	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	borer
+Cauliflower	kharif	32.0	20.5	91.0	48.0	0.2	0.0	8.1	4.5	caterpillar
+Rice	kharif	32.5	19.0	91.0	49.0	0.2	0.0	7.8	5.3	borer
+Cotton	kharif	32.5	19.0	91.0	49.0	0.2	0.0	7.8	5.3	thrips
+Chilli	kharif	31.5	22.5	87.0	63.0	0.3	0.0	8.6	4.6	thrips
+Rice	kharif	31.5	22.5	87.0	63.0	0.3	0.0	8.6	4.6	borer
+Brinjal	kharif	31.5	22.5	87.0	63.0	0.3	0.0	8.6	4.6	aphid
+Rose	kharif	31.5	22.5	87.0	63.0	0.3	0.0	8.6	4.6	die back
+Tomato	kharif	31.5	22.5	87.0	63.0	0.3	0.0	8.6	4.6	aphid
+Cotton	kharif	30.0	22.5	97.0	64.0	0.3	0.0	4.4	2.9	thrips
+Snakegourd	kharif	30.0	22.5	97.0	64.0	0.3	0.0	4.4	2.9	sucking pest
+Brinjal	kharif	30.0	22.5	97.0	64.0	0.3	0.0	4.4	2.9	aphid
+Beetroot	kharif	30.5	22.0	87.0	53.0	0.6	0.0	6.3	4.4	aphid
+Rice	kharif	31.0	22.0	92.0	61.0	0.2	0.8	5.4	3.0	borer
+Rice	kharif	30.0	22.5	97.0	64.0	0.3	0.0	4.4	2.9	borer
+ClusterBean	kharif	31.0	22.0	92.0	61.0	0.2	0.8	5.4	3.0	aphid
+Brinjal	kharif	31.0	22.0	92.0	61.0	0.2	0.8	5.4	3.0	aphid
+Cotton	kharif	31.0	22.0	92.0	61.0	0.2	0.8	5.4	3.0	thrips
+Cotton	kharif	31.0	22.0	92.0	61.0	0.2	0.8	5.4	3.0	aphid
+Brinjal	kharif	31.5	21.5	97.0	72.0	0.0	0.0	5.6	3.0	aphid
+Redgram	kharif	31.5	21.5	97.0	72.0	0.0	0.0	5.6	3.0	aphid
+Cotton	kharif	31.5	21.5	97.0	72.0	0.0	0.0	5.6	3.0	thrips
+Tomato	kharif	30.0	22.5	97.0	64.0	0.3	0.0	4.4	2.9	bacterial
+Rice	kharif	31.0	22.0	92.0	61.0	0.2	0.8	5.4	3.0	borer
+Rice	kharif	32.0	21.5	100.0	67.0	0.2	31.0	5.8	3.8	borer
+Cotton	kharif	32.0	21.5	100.0	67.0	0.2	31.0	5.8	3.8	thrips
+Ladyfinger	kharif	31.0	21.0	95.0	40.0	0.2	0.0	8.4	4.2	borer
+Rice	kharif	31.0	21.0	95.0	40.0	0.2	0.0	8.4	4.2	aphid
+Cotton	kharif	33.0	19.0	91.0	32.0	0.2	0.0	8.5	4.2	thrips
+Cauliflower	kharif	33.0	19.0	91.0	32.0	0.2	0.0	8.5	4.2	caterpillar
+Cotton	kharif	34.0	23.0	81.0	50.0	0.0	0.0	8.1	5.2	jassid
+Chilli	kharif	33.0	19.0	91.0	32.0	0.2	0.0	8.5	4.2	thrips
+Rice	kharif	33.0	19.0	91.0	32.0	0.2	0.0	8.5	4.2	borer
+Bittergourd	kharif	33.0	20.5	91.0	31.0	0.0	0.0	4.0	3.8	sucking pest
+Rose	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	sucking pest
+Rice	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	borer
+Rice	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	borer
+Tomato	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	thrips
+Tomato	kharif	34.0	23.0	81.0	50.0	0.0	0.0	8.1	5.2	aphid
+Ladyfinger	kharif	34.0	23.0	81.0	50.0	0.0	0.0	8.1	5.2	thrips
+Brinjal	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	aphid
+Brinjal	kharif	33.0	20.5	91.0	31.0	0.0	0.0	4.0	3.8	aphid
+Tomato	kharif	33.0	20.5	91.0	31.0	0.0	0.0	4.0	3.8	thrips
+Chilli	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	thrips
+Cotton	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	aphid
+Cotton	kharif	33.0	20.5	91.0	31.0	0.0	0.0	4.0	3.8	aphid
+Cotton	kharif	33.0	22.0	84.0	49.0	0.5	0.0	8.0	4.5	thrips
+Rice	kharif	33.0	20.5	91.0	31.0	0.0	0.0	4.0	3.8	borer
+Rice	kharif	34.0	17.0	85.0	33.0	0.0	0.0	8.9	4.7	borer
+Cotton	kharif	34.0	17.0	85.0	33.0	0.0	0.0	8.9	4.7	sucking pest
+Cauliflower	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	boll worm
+Tomato	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	thrips
+Cotton	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	thrips
+Brinjal	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	mites
+Ladyfinger	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	sucking pest
+Bittergourd	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	sucking pest
+Brinjal	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	mites
+Ladyfinger	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	sucking pest
+Ridgegourd	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	sucking pest
+Rose	kharif	32.5	20.0	91.0	35.0	0.3	0.0	9.0	4.0	sucking pest
+Redgram	kharif	32.5	19.5	88.0	50.0	1.8	0.0	9.0	5.2	bacterial
+Brinjal	kharif	32.5	19.5	88.0	50.0	1.8	0.0	9.0	5.2	mites
+ClusterBean	kharif	33.0	17.5	91.0	45.0	1.6	0.0	9.3	5.2	bacterial
+Cotton	kharif	32.5	19.5	88.0	50.0	1.8	0.0	9.0	5.2	sucking pest
+Watermelon	kharif	33.0	17.5	91.0	45.0	1.6	0.0	9.3	5.2	jassid
+Rice	kharif	32.5	19.5	88.0	50.0	1.8	0.0	9.0	5.2	borer
+Cotton	kharif	32.0	18.5	91.0	47.0	2.1	0.0	8.7	5.2	Boron defi
+Cotton	kharif	32.0	18.5	91.0	47.0	2.1	0.0	8.7	5.2	aphid
+Ladyfinger	kharif	31.5	17.0	91.0	33.0	2.1	0.0	7.6	5.0	die back
+Bittergourd	kharif	31.0	21.5	87.0	52.0	0.8	1.8	5.9	2.5	sucking pest
+Brinjal	kharif	31.0	22.5	91.0	66.0	2.9	0.0	8.1	4.2	mites
+Chilli	kharif	31.0	22.5	91.0	66.0	2.9	0.0	8.1	4.2	thrips
+Rice	kharif	31.0	22.5	91.0	66.0	2.9	0.0	8.1	4.2	borer
+Tomato	kharif	31.0	21.5	87.0	52.0	0.8	1.8	5.9	2.5	thrips
+Drumstick	kharif	31.0	21.5	87.0	52.0	0.8	1.8	5.9	2.5	aphid
+Chilli	kharif	31.0	21.5	87.0	52.0	0.8	1.8	5.9	2.5	thrips
+ClusterBean	kharif	31.0	21.5	87.0	52.0	0.8	1.8	5.9	2.5	borer
+Ridgegourd	kharif	31.0	21.5	87.0	52.0	0.8	1.8	5.9	2.5	aphid
+Tomato	rabi	32.0	19.5	100.0	44.0	0.6	0.0	7.8	4.0	thrips
+Cucumber	rabi	32.0	19.5	100.0	44.0	0.6	0.0	7.8	4.0	jassid
+Watermelon	rabi	32.0	19.5	100.0	44.0	0.6	0.0	7.8	4.0	jassid
+Tomato	rabi	32.0	21.5	95.0	51.0	0.3	0.0	9.2	3.2	thrips
+Ladyfinger	rabi	32.0	21.5	95.0	51.0	0.3	0.0	9.2	3.2	sucking pest
+Redgram	rabi	32.0	21.5	95.0	51.0	0.3	0.0	9.2	3.2	bacterial
+Sorghum	rabi	31.0	19.0	96.0	44.0	1.0	0.0	5.9	3.2	aphid
+Tomato	rabi	31.0	19.0	96.0	44.0	1.0	0.0	5.9	3.2	thrips
+Redgram	rabi	31.0	19.0	96.0	44.0	1.0	0.0	5.9	3.2	borer
+Brinjal	rabi	31.5	19.0	96.0	83.0	1.9	0.0	8.0	4.2	sucking pest
+Jasmine	rabi	31.5	19.0	96.0	83.0	1.9	0.0	8.0	4.2	borer
+Redgram	rabi	31.5	19.0	96.0	83.0	1.9	0.0	8.0	4.2	borer
+Ladyfinger	rabi	31.5	19.0	96.0	83.0	1.9	0.0	8.0	4.2	sucking pest
+Chickpea_Bengalgram	rabi	31.5	19.0	96.0	83.0	1.9	0.0	8.0	4.2	thrips
+Chickpea_Bengalgram	rabi	30.5	17.0	85.0	90.0	3.7	0.0	4.5	4.3	thrips
+Chilli	rabi	30.5	17.0	85.0	90.0	3.7	0.0	4.5	4.3	thrips
+Brinjal	rabi	30.5	17.0	85.0	90.0	3.7	0.0	4.5	4.3	sucking pest
+Chickpea_Bengalgram	rabi	31.0	15.0	84.0	86.0	4.2	0.0	9.4	6.3	thrips
+Redgram	rabi	31.0	15.0	84.0	86.0	4.2	0.0	9.4	6.3	borer
+Tomato	rabi	30.5	17.0	85.0	90.0	3.7	0.0	4.5	4.3	aphid
+Tomato	rabi	30.5	17.0	85.0	90.0	3.7	0.0	4.5	4.3	thrips
+Chilli	rabi	31.0	15.0	84.0	86.0	4.2	0.0	9.4	6.3	thrips
+Brinjal	rabi	31.0	13.5	94.0	48.0	2.1	0.0	9.3	3.9	sucking pest
+Cotton	rabi	31.0	13.5	94.0	48.0	2.1	0.0	9.3	3.9	aphid
+Maize	rabi	31.0	13.5	94.0	48.0	2.1	0.0	9.3	3.9	borer
+Tomato	rabi	31.0	13.5	94.0	48.0	2.1	0.0	9.3	3.9	aphid
+Redgram	rabi	32.0	14.5	79.0	49.0	1.8	0.0	8.0	3.8	borer
+Sorghum	rabi	31.0	13.5	94.0	48.0	2.1	0.0	9.3	3.9	borer
+Maize	rabi	32.0	14.5	79.0	49.0	1.8	0.0	8.0	3.8	borer
+Tomato	rabi	32.0	14.5	79.0	49.0	1.8	0.0	8.0	3.8	thrips
+Cauliflower	rabi	29.0	16.5	90.0	46.0	2.9	0.0	5.8	3.5	boll worm
+Potato	rabi	29.0	16.5	90.0	46.0	2.9	0.0	5.8	3.5	thrips
+Redgram	rabi	29.0	16.5	90.0	46.0	2.9	0.0	5.8	3.5	borer
+Ridgegourd	rabi	29.0	16.5	90.0	46.0	2.9	0.0	5.8	3.5	sucking pest
+Tomato	rabi	29.0	16.5	90.0	46.0	2.9	0.0	5.8	3.5	thrips
+Chilli	rabi	30.0	19.0	58.0	53.0	3.5	0.0	9.3	5.3	thrips
+Ladyfinger	rabi	30.0	19.0	58.0	53.0	3.5	0.0	9.3	5.3	sucking pest
+Potato	rabi	30.0	19.0	58.0	53.0	3.5	0.0	9.3	5.3	aphid
+Brinjal	rabi	30.0	19.5	91.0	45.0	0.5	0.0	6.2	4.2	borer
+Redgram	rabi	30.0	20.5	83.0	51.0	1.3	0.0	7.7	3.4	borer
+Tomato	rabi	30.5	19.0	96.0	48.0	0.8	0.0	9.1	4.2	Boron defi
+Sorghum	rabi	30.0	19.5	91.0	45.0	0.5	0.0	6.2	4.2	borer
+ClusterBean	rabi	30.0	19.5	91.0	45.0	0.5	0.0	6.2	4.2	sucking pest
+ClusterBean	rabi	30.5	19.0	96.0	48.0	0.8	0.0	9.1	4.2	thrips
+Maize	rabi	30.5	19.0	96.0	48.0	0.8	0.0	9.1	4.2	borer
+Brinjal	rabi	30.5	16.5	90.0	46.0	0.0	0.0	7.7	3.3	borer
+Redgram	rabi	30.5	16.5	90.0	46.0	0.0	0.0	7.7	3.3	borer
+Maize	rabi	30.5	16.5	90.0	46.0	0.0	0.0	7.7	3.3	borer
+Chilli	rabi	31.0	17.5	86.0	38.0	0.6	0.0	8.9	3.9	thrips
+Tomato	rabi	31.0	17.5	86.0	38.0	0.6	0.0	8.9	3.9	jassid
+Cauliflower	rabi	32.0	16.0	90.0	36.0	0.2	0.0	9.2	3.5	boll worm
+Redgram	rabi	32.0	16.0	90.0	36.0	0.2	0.0	9.2	3.5	borer
+Brinjal	rabi	30.0	22.5	83.0	62.0	1.9	0.0	9.1	6.0	sucking pest
+Chilli	rabi	30.0	22.5	83.0	62.0	1.9	0.0	9.1	6.0	thrips
+Brinjal	rabi	28.5	19.0	91.0	44.0	0.2	0.0	1.0	2.3	sucking pest
+Maize	rabi	28.5	19.0	91.0	44.0	0.2	0.0	1.0	2.3	borer
+Marigold	rabi	31.0	21.0	83.0	74.0	0.5	0.0	8.0	3.4	die back
+ClusterBean	rabi	31.0	21.0	83.0	74.0	0.5	0.0	8.0	3.4	aphid
+Redgram	rabi	31.0	21.0	83.0	74.0	0.5	0.0	8.0	3.4	borer
+Tomato	rabi	31.0	21.0	83.0	74.0	0.5	0.0	8.0	3.4	thrips
+Chilli	rabi	26.5	17.0	90.0	37.0	0.2	1.4	0.0	2.6	thrips
+Ladyfinger	rabi	26.5	17.0	90.0	37.0	0.2	1.4	0.0	2.6	aphid
+Brinjal	rabi	31.0	15.0	94.0	34.0	0.3	0.0	9.5	4.0	mites
+Ladyfinger	rabi	31.0	15.0	94.0	34.0	0.3	0.0	9.5	4.0	sucking pest
+Sorghum	rabi	31.0	15.0	94.0	34.0	0.3	0.0	9.5	4.0	borer
+Tomato	rabi	31.0	15.0	94.0	34.0	0.3	0.0	9.5	4.0	aphid
+Cauliflower	rabi	29.5	12.5	89.0	28.0	0.5	0.0	6.8	3.6	boll worm
+Chilli	rabi	30.0	12.5	96.0	35.0	0.3	0.0	8.7	3.6	thrips
+ClusterBean	rabi	30.0	12.5	96.0	35.0	0.3	0.0	8.7	3.6	aphid
+Redgram	rabi	29.5	12.5	89.0	28.0	0.5	0.0	6.8	3.6	borer
+Tomato	rabi	30.0	12.5	96.0	35.0	0.3	0.0	8.7	3.6	thrips
+Chilli	rabi	30.0	12.5	96.0	35.0	0.3	0.0	8.7	3.6	thrips
+Bittergourd	rabi	29.5	12.5	89.0	28.0	0.5	0.0	6.8	3.6	sucking pest
+Marigold	rabi	29.5	12.5	89.0	28.0	0.5	0.0	6.8	3.6	aphid
+Tomato	rabi	30.0	12.5	96.0	35.0	0.3	0.0	8.7	3.6	jassid
+Brinjal	rabi	33.0	19.5	76.0	35.0	0.5	0.0	8.4	3.2	sucking pest
+Chilli	rabi	34.0	19.0	91.0	47.0	0.3	0.0	8.5	4.1	thrips
+Ladyfinger	rabi	33.0	19.5	76.0	35.0	0.5	0.0	8.4	3.2	sucking pest
+Maize	rabi	28.0	13.0	96.0	34.0	0.2	0.0	3.6	3.0	borer
+Tomato	rabi	34.0	19.0	91.0	47.0	0.3	0.0	8.5	4.1	thrips
+Tomato	rabi	33.0	19.5	76.0	35.0	0.5	0.0	8.4	3.2	thrips
+Ladyfinger	rabi	33.0	19.5	76.0	35.0	0.5	0.0	8.4	3.2	sucking pest
+Potato	rabi	33.0	19.5	76.0	35.0	0.5	0.0	8.4	3.2	thrips
+Snakegourd	rabi	33.0	15.0	90.0	19.0	1.6	0.0	9.5	5.2	jassid
+Bittergourd	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	sucking pest
+Brinjal	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	borer
+Cauliflower	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	boll worm
+Chilli	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	thrips
+ClusterBean	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	aphid
+ClusterBean	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	jassid
+Marigold	rabi	31.5	17.0	94.0	33.0	1.9	0.0	9.7	3.9	aphid
+Tomato	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	thrips
+Tomato	rabi	32.5	15.5	85.0	34.0	0.5	0.0	9.5	3.9	jassid
+Chickpea_Bengalgram	rabi	32.0	15.5	96.0	37.0	0.6	0.0	8.9	4.6	helicoverpa
+Maize	rabi	32.0	15.5	96.0	37.0	0.6	0.0	8.9	4.6	borer
+Brinjal	rabi	32.0	15.5	96.0	37.0	0.6	0.0	8.9	4.6	sucking pest
+Chilli	rabi	32.0	15.5	96.0	37.0	0.6	0.0	8.9	4.6	thrips
+Redgram	rabi	32.0	15.5	96.0	37.0	0.6	0.0	8.9	4.6	borer
+ClusterBean	rabi	31.0	17.5	64.0	34.0	0.5	0.0	6.2	2.5	sucking pest
+Ridgegourd	rabi	31.0	17.5	64.0	34.0	0.5	0.0	6.2	2.5	sucking pest
+Tomato	rabi	27.0	9.0	69.0	26.0	1.3	0.0	7.2	4.3	thrips
+Brinjal	rabi	28.0	8.0	87.0	22.0	0.2	0.0	8.7	3.7	mites
+Chilli	rabi	28.0	8.0	87.0	22.0	0.2	0.0	8.7	3.7	thrips
+Chilli	rabi	28.0	8.0	87.0	22.0	0.2	0.0	8.7	3.7	thrips
+Tomato	rabi	28.0	8.0	87.0	22.0	0.2	0.0	8.7	3.7	thrips
+FieldBean	rabi	33.0	17.0	81.0	43.0	1.1	0.0	8.9	4.2	borer
+ClusterBean	rabi	30.5	9.5	83.0	19.0	1.0	0.0	10.0	3.8	jassid
+Brinjal	rabi	32.0	9.0	88.0	22.0	0.6	0.0	10.2	4.6	borer
+Chilli	rabi	32.0	9.0	88.0	22.0	0.6	0.0	10.2	4.6	thrips
+Cucumber	rabi	32.0	9.0	88.0	22.0	0.6	0.0	10.2	4.6	die back
+Tomato	rabi	32.0	9.0	88.0	22.0	0.6	0.0	10.2	4.6	jassid
+Maize	rabi	32.0	13.5	83.0	34.0	2.1	0.0	9.7	4.0	borer

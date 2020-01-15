@@ -1,0 +1,14 @@
+2012-09-11  ap_kur_ban_san_0003_aug12_0_rice_a_2012-09-06   Rice  leaf folder
+2012-09-14  ap_kur_gad_gad_0004_jul12_0_rice_a_2012-09-13   Rice  leaf folder
+2012-09-14  ap_kur_gad_pes_0001_jul12_0_rice_a_2012-09-13   Rice  leaf folder
+2012-09-21  ap_kur_ban_kak_0001_aug12_0_rice_a_2012-09-21   Rice  leaf folder
+2012-10-13  ap_kur_ban_kak_0004_aug12_0_rice_a_2012-10-11   Rice  leaf folder
+2012-10-26  ap_kur_ban_bho_0006_aug12_0_rice_a_2012-10-21   Rice  leaf folder
+2012-11-01  ap_kur_ban_bho_0001_aug12_0_rice_a_2012-10-31   Rice  leaf folder
+2012-11-01  ap_kur_ban_san_0001_aug12_0_rice_a_2012-10-31   Rice  leaf folder
+2012-11-08  ap_kur_nan_ayy_0007_aug12_9_rice_a_2012-11-07   Rice  leaf folder
+2013-03-21  ap_kur_gad_buj_0009_jan13_0_rice_a_2013-03-18   Rice  leaf folder
+2015-09-21  ts_ran_sha_bul_0015_sep15_0_redg_a_2015-09-19   Redgram  leaf folder
+2016-03-09  ts_med_mul_mul_0008_feb16_6_rice_c_2016-03-08   Rice  leaf folder
+2016-04-01  ts_med_war_war_0027_apr16_31_rice_b_2016-04-01   Rice  leaf folder
+2016-09-06  ap_war_gha_lin_0007_aug16_0_rice_a_2016-08-26   Rice  leaf folder

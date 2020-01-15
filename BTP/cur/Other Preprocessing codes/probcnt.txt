@@ -1,0 +1,39 @@
+thrips	941
+mites	73
+sucking pest	882
+borer	761
+white fly	130
+nitrogen defi	1
+aphid	584
+helicoverpa	73
+caterpillar	79
+leafminer	17
+spodoptera	99
+cercospora	6
+blast	76
+grub	5
+heliothis	1
+Boron defi	52
+fungus	4
+rodent	2
+case worm	4
+tsv virus	1
+blb	15
+boll worm	66
+hispa	72
+algal	1
+moth	1
+zn deficiency	9
+bacterial	174
+jassid	375
+magnesium defi	4
+die back	21
+blotch	35
+square burning	6
+chlorosis	1
+mealy bug	19
+leaf folder	14
+choanephora	7
+cutworm	1
+mosaic	16
+mildew	236

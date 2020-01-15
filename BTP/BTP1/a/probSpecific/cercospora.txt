@@ -1,0 +1,6 @@
+2012-08-23  ap_kur_pan_pan_0002_aug12_9_cucu_a_2012-08-22   Cucumber  cercospora
+2015-09-08  ts_ran_sha_yel_0001_sep15_0_chil_a_2015-09-07   Chilli  cercospora
+2015-09-12  ts_ran_sha_mas_0015_sep15_0_chil_a_2015-09-11   Chilli  cercospora
+2015-09-14  ap_war_gha_mal_0009_jun15_0_cott_a_2015-09-12   Cotton  cercospora
+2015-11-14  ts_med_nar_nar_0008_nov15_0_clus_a_2015-11-13   ClusterBean  cercospora
+2015-11-14  ts_med_nar_nar_0002_nov15_0_clus_a_2015-11-13   ClusterBean  cercospora

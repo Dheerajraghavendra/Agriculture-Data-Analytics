@@ -1,0 +1,6 @@
+moth	7
+Boron defi	3,12,4,13,5,14,14,6,17,10,20,20,12,-26,-34,-266,-273,-263,-271,27
+aphid	13
+mealy bug	13
+zn deficiency	7,15,15,7
+bacterial	9,-24

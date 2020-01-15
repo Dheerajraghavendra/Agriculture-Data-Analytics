@@ -1,0 +1,54 @@
+Beetroot	3	annual,60-65 days
+Maize	662	annual
+Castor	10	annual,perennial
+Blackgram	13	annual
+Chickpea_Bengalgram	166	annual
+Ladyfinger	244 annual, 55-60 days
+Rose	108	perennials
+Chrysanthemum	1	perennials
+Groundnut	84	perennial grown as annual
+Amla	2	perennial
+Drumstick	8	annual
+Sunflower	18	annual
+Rice	1275	annual
+Banana	142	perennial
+Pumpkin	2	annual 90-120 days
+Marigold	36	annual
+Papaya	9	perennial
+Mustard	27	annual
+Cauliflower	95
+Sugarcane	95
+Jasmine	84
+Cucumber	92
+Brinjal	426
+Snakegourd	22
+Muskmelon	5
+Watermelon	17
+Cabbage	31
+Ridgegourd	97
+Broccoli	1
+Jute	1
+Redgram	217
+Tomato	639
+Chilli	676
+Horsegram	1
+Sapota	1
+Greengram	6
+Tobacco	39
+Potato	21
+Capsicum	4
+Mango	33
+Bittergourd	106
+Gherkins	1
+Bottlegourd	90
+Ber	6
+Sorghum	72
+Turmeric	143
+Coccinia	1
+ClusterBean	204
+Citrus	40
+FieldBean	7
+Soybean	1
+Lemongrass	11
+Onion	88
+Cotton	581

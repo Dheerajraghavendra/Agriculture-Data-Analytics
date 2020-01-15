@@ -1,0 +1,6 @@
+healthy	6
+die back	3,3,4,5,5,6,3,4,8
+borer	31
+aphid	11,20
+sucking pest	4,9,5,10,10
+thrips	3,27,24,31

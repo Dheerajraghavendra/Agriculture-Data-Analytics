@@ -1,0 +1,6 @@
+ts_med_pat_kya_0006_aug15_0_mari_a	2
+ts_med_pat_nan_0004_aug15_0_mari_a	1
+ts_ran_sha_kot_0003_dec15_0_mari_a	16
+ts_med_pat_nan_0004_sep15_0_mari_a	2
+ts_ran_sha_kot_0010_dec15_0_mari_a	14
+ts_med_pat_kya_0007_oct15_0_mari_a	1

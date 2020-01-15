@@ -1,0 +1,6 @@
+spodoptera	2
+jassid	4
+white fly	5,2
+aphid	2,2,3,3,5,2
+sucking pest	1,1,2,2,6
+thrips	1,1,2,2,5,2,6

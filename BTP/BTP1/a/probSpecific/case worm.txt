@@ -1,0 +1,4 @@
+2012-09-03  ap_kur_gad_man_0003_jul12_0_rice_a_2012-09-03   Rice  case worm
+2012-09-03  ap_kur_gad_gad_0005_jul12_0_rice_a_2012-09-03   Rice  case worm
+2012-09-03  ap_kur_gad_gad_0003_jul12_0_rice_a_2012-09-03   Rice  case worm
+2016-08-08  ap_war_gha_lin_0007_aug16_0_rice_a_2016-08-01   Rice  case worm

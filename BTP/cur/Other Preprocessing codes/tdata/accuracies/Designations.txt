@@ -1,0 +1,19 @@
+1	thrips
+2	mites
+3	sucking pest
+4	borer
+5	white fly
+6	aphid
+7	helicoverpa
+8	caterpillar
+9	leafminer
+10	spodoptera
+11	blast
+12	Boron defi
+13	blb
+14	boll worm
+15	zn deficiency
+16	bacterial
+17	jassid
+18	die back
+19	mealy bug

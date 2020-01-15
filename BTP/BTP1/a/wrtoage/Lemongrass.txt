@@ -1,0 +1,2 @@
+thrips	2
+aphid	2,2,4,4

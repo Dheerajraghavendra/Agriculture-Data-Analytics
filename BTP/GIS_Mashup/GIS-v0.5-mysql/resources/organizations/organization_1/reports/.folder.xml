@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<folder exportedWithPermissions="true"><parent>/organizations/organization_1</parent><name>reports</name><label>Reports</label><description>Reports</description><creationDate>2013-11-01T10:58:36.000-07:00</creationDate><updateDate>2013-10-16T12:03:49.000-07:00</updateDate><permission><permissionMask>30</permissionMask><recipient recipientType="role">ROLE_USER</recipient></permission></folder>

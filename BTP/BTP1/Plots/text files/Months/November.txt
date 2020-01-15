@@ -1,0 +1,38 @@
+healthy	69
+thrips	90
+mites	8
+sucking pest	68
+borer	95
+white fly	40
+nitrogen defi	0
+aphid	67
+helicoverpa	26
+caterpillar	6
+leafminer	0
+spodoptera	26
+cercospora	2
+blast	24
+grub	0
+heliothis	0
+Boron defi	15
+fungus	0
+rodent	0
+case worm	0
+tsv virus	0
+blb	1
+boll worm	10
+hispa	0
+algal	0
+moth	0
+zn deficiency	3
+bacterial	43
+jassid	38
+magnesium defi	0
+die back	3
+blotch	0
+square burning	2
+chlorosis	0
+mealy bug	3
+leaf folder	3
+choanephora	0
+cutworm	0

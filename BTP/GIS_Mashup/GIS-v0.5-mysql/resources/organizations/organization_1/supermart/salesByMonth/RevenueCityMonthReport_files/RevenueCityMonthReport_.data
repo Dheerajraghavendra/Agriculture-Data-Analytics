@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="RevenueCityMonthReport" pageWidth="792" pageHeight="612" orientation="Landscape" whenNoDataType="AllSectionsNoDetail" columnWidth="732" leftMargin="30" rightMargin="30" topMargin="20" bottomMargin="20" resourceBundle="supermart" whenResourceMissingType="Key" isIgnorePagination="true">
+	<property name="ireport.scriptlethandling" value="0"/>
+	<property name="ireport.encoding" value="UTF-8"/>
+	<property name="net.sf.jasperreports.export.pdf.tagged" value="true"/>
+	<property name="net.sf.jasperreports.export.pdf.tag.language" value="EN-US"/>
+	<import value="net.sf.jasperreports.engine.*"/>
+	<import value="java.util.*"/>
+	<import value="net.sf.jasperreports.engine.data.*"/>
+	<style name="elementTextLeft" isDefault="false" hAlign="Left" vAlign="Middle" fontName="SansSerif">
+		<box leftPadding="4"/>
+	</style>
+	<style name="elementNumberRight" isDefault="false" hAlign="Right" vAlign="Middle" pattern="#,###.00" fontName="SansSerif">
+		<box rightPadding="4"/>
+	</style>
+	<style name="elementTextCenter" isDefault="false" hAlign="Center" vAlign="Middle" fontName="SansSerif"/>
+	<style name="cellLightBackground" isDefault="false" mode="Opaque" backcolor="#E6EAED">
+		<box>
+			<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+			<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+			<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+			<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+		</box>
+	</style>
+	<style name="cellLightBorder" isDefault="false">
+		<box>
+			<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+			<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+			<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+			<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+		</box>
+	</style>
+	<style name="titleStyle" isDefault="false" mode="Opaque" forecolor="#FFFFFF" backcolor="#4A8797" fontName="SansSerif" fontSize="24" isBold="true">
+		<box padding="4">
+			<pen lineWidth="1.0" lineStyle="Solid" lineColor="#993200"/>
+		</box>
+	</style>
+	<style name="group2Style" isDefault="false" forecolor="#003066" fontName="SansSerif" fontSize="14" isBold="true">
+		<box padding="4">
+			<pen lineWidth="2.0" lineStyle="Solid" lineColor="#003066"/>
+		</box>
+	</style>
+	<style name="group3Style" isDefault="false" mode="Opaque" forecolor="#FFFFFF" backcolor="#993200" fontName="SansSerif" fontSize="14" isBold="true">
+		<box padding="2">
+			<pen lineWidth="1.0" lineStyle="Solid" lineColor="#993200"/>
+		</box>
+	</style>
+	<style name="group4Style" isDefault="false" forecolor="#993200" fontName="SansSerif" isBold="true">
+		<box padding="2">
+			<pen lineWidth="1.0" lineStyle="Solid" lineColor="#993200"/>
+		</box>
+	</style>
+	<subDataset name="xtab_data" resourceBundle="supermart" whenResourceMissingType="Key">
+		<parameter name="monthNumber" class="java.lang.Integer" isForPrompting="false"/>
+		<parameter name="states" class="java.lang.String"/>
+		<parameter name="pickStateIsNull" class="java.lang.Integer" isForPrompting="false">
+			<defaultValueExpression><![CDATA[$P{states}==null ? new java.lang.Integer( 1 ) : new java.lang.Integer( 0 )]]></defaultValueExpression>
+		</parameter>
+		<queryString>
+			<![CDATA[SELECT
+     sum(sales_fact_1997.store_sales)as store_sales,
+     store.store_state AS store_store_state,
+     store.store_city AS store_store_city,
+     product_class.product_family AS product_class_product_family
+FROM
+     sales_fact_1997 sales_fact_1997 INNER JOIN store store ON sales_fact_1997.store_id = store.store_id
+     INNER JOIN product product ON sales_fact_1997.product_id = product.product_id
+     INNER JOIN time_by_day time_by_day ON sales_fact_1997.time_id = time_by_day.time_id
+     INNER JOIN product_class product_class ON product.product_class_id = product_class.product_class_id
+WHERE
+     time_by_day.month_of_year = $P{monthNumber}
+     AND ( store.store_state = $P{states} OR 1 = $P{pickStateIsNull} ) /* If PickState is specified, then we use it. If it is null, then we return all rows. */
+GROUP BY
+     store.store_state,
+     store.store_city,
+     product_class.product_family]]>
+		</queryString>
+		<field name="store_sales" class="java.math.BigDecimal"/>
+		<field name="store_store_state" class="java.lang.String"/>
+		<field name="store_store_city" class="java.lang.String"/>
+		<field name="product_class_product_family" class="java.lang.String"/>
+	</subDataset>
+	<parameter name="monthNumber" class="java.lang.Integer">
+		<defaultValueExpression><![CDATA[new Integer(1)]]></defaultValueExpression>
+	</parameter>
+	<parameter name="states" class="java.lang.String"/>
+	<parameter name="pickStateIsNull" class="java.lang.Integer" isForPrompting="false">
+		<defaultValueExpression><![CDATA[$P{states}==null ? new java.lang.Integer( 1 ) : new java.lang.Integer( 0 )]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     sum(sales_fact_1997.store_sales)as store_sales,
+     store.store_state AS store_store_state,
+     store.store_city AS store_store_city,
+     product_class.product_family AS product_class_product_family,
+     time_by_day.the_month AS time_by_day_the_month
+FROM
+     sales_fact_1997 sales_fact_1997 
+     INNER JOIN store store ON sales_fact_1997.store_id = store.store_id
+     INNER JOIN product product ON sales_fact_1997.product_id = product.product_id
+     INNER JOIN time_by_day time_by_day ON sales_fact_1997.time_id = time_by_day.time_id
+     INNER JOIN product_class product_class ON product.product_class_id = product_class.product_class_id
+WHERE
+     time_by_day.month_of_year = $P{monthNumber}
+     AND ( store.store_state = $P{states} OR 1 = $P{pickStateIsNull} ) /* If PickState is specified, then we use it. If it is null, then we return all rows. */
+GROUP BY
+     store.store_state,
+     store.store_city,
+     product_class.product_family,
+     time_by_day.the_month]]>
+	</queryString>
+	<field name="store_sales" class="java.math.BigDecimal"/>
+	<field name="store_store_state" class="java.lang.String"/>
+	<field name="store_store_city" class="java.lang.String"/>
+	<field name="product_class_product_family" class="java.lang.String"/>
+	<field name="time_by_day_the_month" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="479" splitType="Stretch">
+			<stackedBar3DChart>
+				<chart evaluationTime="Report" customizerClass="com.jaspersoft.demo.BarLabels">
+					<reportElement key="element-1" x="128" y="37" width="521" height="213"/>
+					<box>
+						<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+						<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+						<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+						<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					</box>
+					<chartTitle color="#000000">
+						<titleExpression><![CDATA[$R{RevenueByCity}]]></titleExpression>
+					</chartTitle>
+					<chartSubtitle/>
+					<chartLegend textColor="#000000" backgroundColor="#FFFFFF"/>
+					<hyperlinkTooltipExpression><![CDATA[$R{RevenueByCity}]]></hyperlinkTooltipExpression>
+				</chart>
+				<categoryDataset>
+					<categorySeries>
+						<seriesExpression><![CDATA[$F{product_class_product_family}]]></seriesExpression>
+						<categoryExpression><![CDATA[$F{store_store_city}]]></categoryExpression>
+						<valueExpression><![CDATA[$F{store_sales}]]></valueExpression>
+						<labelExpression><![CDATA[$F{store_sales}.setScale( 2).toString()]]></labelExpression>
+						<itemHyperlink>
+							<hyperlinkTooltipExpression><![CDATA[$F{store_store_city}]]></hyperlinkTooltipExpression>
+						</itemHyperlink>
+					</categorySeries>
+				</categoryDataset>
+				<bar3DPlot isShowLabels="true" xOffset="5.0" yOffset="5.0">
+					<plot foregroundAlpha="0.6" labelRotation="-30.0">
+						<seriesColor seriesOrder="0" color="#C8DC0A"/>
+						<seriesColor seriesOrder="1" color="#D1AEAE"/>
+						<seriesColor seriesOrder="2" color="#4375AA"/>
+					</plot>
+					<itemLabel color="#000000" backgroundColor="#FFFFFF"/>
+					<categoryAxisFormat>
+						<axisFormat>
+							<labelFont/>
+							<tickLabelFont/>
+						</axisFormat>
+					</categoryAxisFormat>
+					<valueAxisFormat>
+						<axisFormat>
+							<labelFont/>
+							<tickLabelFont/>
+						</axisFormat>
+					</valueAxisFormat>
+				</bar3DPlot>
+			</stackedBar3DChart>
+			<crosstab>
+				<reportElement key="crosstab-1" x="128" y="257" width="521" height="215"/>
+				<crosstabDataset>
+					<dataset>
+						<datasetRun subDataset="xtab_data">
+							<datasetParameter name="monthNumber">
+								<datasetParameterExpression><![CDATA[$P{monthNumber}]]></datasetParameterExpression>
+							</datasetParameter>
+							<datasetParameter name="states">
+								<datasetParameterExpression><![CDATA[$P{states}]]></datasetParameterExpression>
+							</datasetParameter>
+							<datasetParameter name="pickStateIsNull">
+								<datasetParameterExpression><![CDATA[$P{pickStateIsNull}]]></datasetParameterExpression>
+							</datasetParameter>
+							<connectionExpression><![CDATA[$P{REPORT_CONNECTION}]]></connectionExpression>
+						</datasetRun>
+					</dataset>
+				</crosstabDataset>
+				<crosstabHeaderCell>
+					<cellContents mode="Transparent">
+						<box>
+							<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+						</box>
+					</cellContents>
+				</crosstabHeaderCell>
+				<rowGroup name="store_store_state" width="31" totalPosition="End">
+					<bucket>
+						<bucketExpression class="java.lang.String"><![CDATA[$F{store_store_state}]]></bucketExpression>
+					</bucket>
+					<crosstabRowHeader>
+						<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+							<box>
+								<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							</box>
+							<textField isStretchWithOverflow="true" isBlankWhenNull="false">
+								<reportElement key="textField" style="elementTextCenter" x="0" y="0" width="31" height="60"/>
+								<box>
+									<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								</box>
+								<textElement rotation="Left">
+									<font isBold="true"/>
+								</textElement>
+								<textFieldExpression class="java.lang.String"><![CDATA[$V{store_store_state}]]></textFieldExpression>
+							</textField>
+						</cellContents>
+					</crosstabRowHeader>
+					<crosstabTotalRowHeader>
+						<cellContents mode="Transparent" style="cellLightBorder">
+							<box>
+								<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							</box>
+							<textField isStretchWithOverflow="true" isBlankWhenNull="false">
+								<reportElement key="textField" style="elementTextLeft" x="0" y="0" width="100" height="30"/>
+								<box>
+									<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								</box>
+								<textElement>
+									<font isBold="true"/>
+								</textElement>
+								<textFieldExpression class="java.lang.String"><![CDATA[$R{ColumnTotals}]]></textFieldExpression>
+							</textField>
+						</cellContents>
+					</crosstabTotalRowHeader>
+				</rowGroup>
+				<rowGroup name="store_store_city" width="100" totalPosition="End">
+					<bucket>
+						<bucketExpression class="java.lang.String"><![CDATA[$F{store_store_city}]]></bucketExpression>
+					</bucket>
+					<crosstabRowHeader>
+						<cellContents mode="Transparent" style="cellLightBorder">
+							<box>
+								<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							</box>
+							<textField isStretchWithOverflow="true" isBlankWhenNull="false">
+								<reportElement key="textField" style="elementTextLeft" x="0" y="0" width="100" height="30"/>
+								<box>
+									<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								</box>
+								<textElement/>
+								<textFieldExpression class="java.lang.String"><![CDATA[$V{store_store_city}]]></textFieldExpression>
+							</textField>
+						</cellContents>
+					</crosstabRowHeader>
+					<crosstabTotalRowHeader>
+						<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+							<box>
+								<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							</box>
+							<textField isStretchWithOverflow="true" isBlankWhenNull="false">
+								<reportElement key="textField" style="elementTextLeft" x="0" y="0" width="100" height="30"/>
+								<box>
+									<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								</box>
+								<textElement/>
+								<textFieldExpression class="java.lang.String"><![CDATA[msg($R{SubtotalState},$V{store_store_state})]]></textFieldExpression>
+							</textField>
+						</cellContents>
+					</crosstabTotalRowHeader>
+				</rowGroup>
+				<columnGroup name="product_class_product_family" height="25" totalPosition="End" headerPosition="Center">
+					<bucket>
+						<bucketExpression class="java.lang.String"><![CDATA[$F{product_class_product_family}]]></bucketExpression>
+					</bucket>
+					<crosstabColumnHeader>
+						<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+							<box>
+								<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							</box>
+							<textField isStretchWithOverflow="true" isBlankWhenNull="false">
+								<reportElement key="textField" style="elementTextCenter" x="0" y="0" width="80" height="25"/>
+								<box>
+									<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								</box>
+								<textElement>
+									<font isBold="true"/>
+								</textElement>
+								<textFieldExpression class="java.lang.String"><![CDATA[$V{product_class_product_family}]]></textFieldExpression>
+							</textField>
+						</cellContents>
+					</crosstabColumnHeader>
+					<crosstabTotalColumnHeader>
+						<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+							<box>
+								<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+								<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							</box>
+							<textField isStretchWithOverflow="true" pattern="" isBlankWhenNull="false">
+								<reportElement key="textField" style="elementTextCenter" x="0" y="0" width="80" height="25"/>
+								<box>
+									<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+									<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								</box>
+								<textElement>
+									<font isBold="true"/>
+								</textElement>
+								<textFieldExpression class="java.lang.String"><![CDATA[$R{RowTotals}]]></textFieldExpression>
+							</textField>
+						</cellContents>
+					</crosstabTotalColumnHeader>
+				</columnGroup>
+				<measure name="store_sales_Sum" class="java.math.BigDecimal" calculation="Sum">
+					<measureExpression><![CDATA[$F{store_sales}]]></measureExpression>
+				</measure>
+				<crosstabCell width="80" height="30">
+					<cellContents mode="Transparent" style="cellLightBorder">
+						<box>
+							<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+						</box>
+						<textField isStretchWithOverflow="true" pattern="#,##0.00" isBlankWhenNull="false">
+							<reportElement key="textField" style="elementNumberRight" x="0" y="0" width="80" height="30"/>
+							<box>
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement/>
+							<textFieldExpression class="java.math.BigDecimal"><![CDATA[$V{store_sales_Sum}]]></textFieldExpression>
+						</textField>
+					</cellContents>
+				</crosstabCell>
+				<crosstabCell width="80" height="30" columnTotalGroup="product_class_product_family">
+					<cellContents mode="Transparent" style="cellLightBorder">
+						<box>
+							<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+						</box>
+						<textField isStretchWithOverflow="true" pattern="#,##0.00" isBlankWhenNull="false">
+							<reportElement key="textField" style="elementNumberRight" x="0" y="0" width="80" height="30"/>
+							<box>
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement/>
+							<textFieldExpression class="java.math.BigDecimal"><![CDATA[$V{store_sales_Sum}]]></textFieldExpression>
+						</textField>
+					</cellContents>
+				</crosstabCell>
+				<crosstabCell width="80" height="30" rowTotalGroup="store_store_city">
+					<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+						<box>
+							<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+						</box>
+						<textField isStretchWithOverflow="true" pattern="#,##0.00" isBlankWhenNull="false">
+							<reportElement key="textField" style="elementNumberRight" x="0" y="0" width="80" height="30"/>
+							<box>
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement/>
+							<textFieldExpression class="java.math.BigDecimal"><![CDATA[$V{store_sales_Sum}]]></textFieldExpression>
+						</textField>
+					</cellContents>
+				</crosstabCell>
+				<crosstabCell width="80" height="30" rowTotalGroup="store_store_city" columnTotalGroup="product_class_product_family">
+					<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+						<box>
+							<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+						</box>
+						<textField isStretchWithOverflow="true" pattern="#,##0.00" isBlankWhenNull="false">
+							<reportElement key="textField" style="elementNumberRight" x="0" y="0" width="80" height="30"/>
+							<box>
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement/>
+							<textFieldExpression class="java.math.BigDecimal"><![CDATA[$V{store_sales_Sum}]]></textFieldExpression>
+						</textField>
+					</cellContents>
+				</crosstabCell>
+				<crosstabCell width="80" height="30" rowTotalGroup="store_store_state">
+					<cellContents mode="Transparent" style="cellLightBorder">
+						<box>
+							<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+						</box>
+						<textField isStretchWithOverflow="true" pattern="#,##0.00" isBlankWhenNull="false">
+							<reportElement key="textField" style="elementNumberRight" x="0" y="0" width="80" height="30"/>
+							<box>
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement/>
+							<textFieldExpression class="java.math.BigDecimal"><![CDATA[$V{store_sales_Sum}]]></textFieldExpression>
+						</textField>
+					</cellContents>
+				</crosstabCell>
+				<crosstabCell width="80" height="30" rowTotalGroup="store_store_state" columnTotalGroup="product_class_product_family">
+					<cellContents backcolor="#E6EAED" mode="Opaque" style="cellLightBackground">
+						<box>
+							<topPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<leftPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+							<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#D0D6D9"/>
+						</box>
+						<textField isStretchWithOverflow="true" pattern="#,##0.00" isBlankWhenNull="false">
+							<reportElement key="textField" style="elementNumberRight" x="0" y="0" width="80" height="30"/>
+							<box>
+								<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+								<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							</box>
+							<textElement>
+								<font isBold="true"/>
+							</textElement>
+							<textFieldExpression class="java.math.BigDecimal"><![CDATA[$V{store_sales_Sum}]]></textFieldExpression>
+						</textField>
+					</cellContents>
+				</crosstabCell>
+				<whenNoDataCell>
+					<cellContents mode="Transparent">
+						<box>
+							<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+							<bottomPen lineWidth="1.0" lineStyle="Solid" lineColor="#000000"/>
+							<rightPen lineWidth="1.0" lineStyle="Solid" lineColor="#000000"/>
+						</box>
+					</cellContents>
+				</whenNoDataCell>
+			</crosstab>
+			<textField isBlankWhenNull="false">
+				<reportElement key="textField" style="group2Style" x="128" y="5" width="521" height="30"/>
+				<box>
+					<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{time_by_day_the_month}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band splitType="Stretch"/>
+	</detail>
+	<columnFooter>
+		<band splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>

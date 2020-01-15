@@ -1,0 +1,19 @@
+0	0	thrips
+1	1	mites
+2	2	sucking pest
+3	3	borer
+4	4	white fly
+6	5	aphid
+7	6	helicoverpa
+8	7	caterpillar
+9	8	leafminer
+10	9	spodoptera
+15	10	Boron defi
+21	11	boll worm
+22	12	hispa
+26	13	bacterial
+27	14	jassid
+29	15	die back
+30	16	blotch
+33	17	mealy bug
+38	18	mildew

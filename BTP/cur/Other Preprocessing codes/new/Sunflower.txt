@@ -1,0 +1,4 @@
+ts_med_gaj_ahm_0007_dec15_23_sunf_b	7
+ap_kur_pan_ner_0008_jan13_8_sunf_b	3
+ts_med_pat_pat_0007_oct15_0_sunf_a	1
+ts_med_gaj_ahm_0005_dec15_22_sunf_b	7

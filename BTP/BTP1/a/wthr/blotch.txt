@@ -1,0 +1,1 @@
+Date    MAXT(C)    MINT (C)    RH1(%)    RH2 (%)    WS (kmph)    RF (mm)    SS (hr)    EVP (mm)

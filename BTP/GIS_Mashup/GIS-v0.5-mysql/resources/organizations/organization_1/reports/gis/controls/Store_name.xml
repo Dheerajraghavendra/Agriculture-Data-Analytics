@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inputControl exportedWithPermissions="true"><folder>/organizations/organization_1/reports/gis/controls</folder><name>Store_name</name><version>1</version><label>Store Name</label><description></description><creationDate>2013-11-01T11:25:43.000-07:00</creationDate><updateDate>2013-11-11T10:59:34.000-08:00</updateDate><type>2</type><mandatory>true</mandatory><readOnly>false</readOnly><visible>true</visible><dataType><uri>/organizations/organization_1/datatypes/TextGeneralDatatype</uri></dataType></inputControl>

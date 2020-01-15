@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report6" language="groovy" pageWidth="380" pageHeight="300" columnWidth="380" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0">
+	<property name="ireport.jasperserver.reportUnit" value="/reports/Fusion/Bars4Dashboard"/>
+	<property name="ireport.jasperserver.url" value="http://91.121.118.76:8081/jasperserver-pro/services/repository"/>
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString>
+		<![CDATA[SELECT
+     ORDERS.`ORDERID` AS orders_ORDERID,
+     ORDERS.`SHIPPEDDATE` AS orders_SHIPPEDDATE,
+     round(sum(ORDERS.`FREIGHT`),1) AS orders_FREIGHT,
+     round(count(ORDERS.`FREIGHT`),1) as count_freight,
+     round(avg(ORDERS.`FREIGHT`),1) as avg_freight,
+     ORDERS.`SHIPCITY` AS orders_SHIPCITY,
+     ORDERS.`SHIPREGION` AS orders_SHIPREGION,
+     ORDERS.`SHIPCOUNTRY` AS orders_SHIPCOUNTRY
+FROM
+     ORDERS
+WHERE SHIPCOUNTRY="USA"
+GROUP BY
+     SHIPCITY
+LIMIT 5]]>
+	</queryString>
+	<field name="orders_ORDERID" class="java.lang.Integer"/>
+	<field name="orders_SHIPPEDDATE" class="java.sql.Timestamp"/>
+	<field name="orders_FREIGHT" class="java.math.BigDecimal"/>
+	<field name="count_freight" class="java.lang.Long"/>
+	<field name="avg_freight" class="java.math.BigDecimal"/>
+	<field name="orders_SHIPCITY" class="java.lang.String"/>
+	<field name="orders_SHIPREGION" class="java.lang.String"/>
+	<field name="orders_SHIPCOUNTRY" class="java.lang.String"/>
+	<background>
+		<band/>
+	</background>
+	<title>
+		<band/>
+	</title>
+	<pageHeader>
+		<band/>
+	</pageHeader>
+	<columnHeader>
+		<band/>
+	</columnHeader>
+	<detail>
+		<band/>
+	</detail>
+	<columnFooter>
+		<band/>
+	</columnFooter>
+	<pageFooter>
+		<band/>
+	</pageFooter>
+	<summary>
+		<band height="256">
+			<componentElement>
+				<reportElement x="0" y="20" width="380" height="235"/>
+				<fc:chart xmlns:fc="http://jaspersoft.com/fusion" xsi:schemaLocation="http://jaspersoft.com/fusion http://jaspersoft.com/schema/fusion.xsd" type="Column3D">
+					<fc:chartProperty name="showBorder">
+						<fc:propertyExpression><![CDATA[Boolean.TRUE]]></fc:propertyExpression>
+					</fc:chartProperty>
+					<fc:chartProperty name="borderColor">
+						<fc:propertyExpression><![CDATA[new java.awt.Color(-16777216)]]></fc:propertyExpression>
+					</fc:chartProperty>
+					<fc:chartProperty name="borderThickness">
+						<fc:propertyExpression><![CDATA[new Integer(1)]]></fc:propertyExpression>
+					</fc:chartProperty>
+					<fc:chartDataset>
+						<fc:item>
+							<fc:seriesExpression><![CDATA["Numbers Orders"]]></fc:seriesExpression>
+							<fc:labelExpression><![CDATA[$F{orders_SHIPCITY}]]></fc:labelExpression>
+							<fc:valueExpression><![CDATA[$F{count_freight}]]></fc:valueExpression>
+						</fc:item>
+						<fc:item>
+							<fc:seriesExpression><![CDATA["Average cost"]]></fc:seriesExpression>
+							<fc:labelExpression><![CDATA[$F{orders_SHIPCITY}]]></fc:labelExpression>
+							<fc:valueExpression><![CDATA[$F{avg_freight}]]></fc:valueExpression>
+						</fc:item>
+					</fc:chartDataset>
+				</fc:chart>
+			</componentElement>
+			<textField>
+				<reportElement mode="Opaque" x="0" y="0" width="380" height="20" backcolor="#CCCCFF"/>
+				<box>
+					<pen lineWidth="0.0"/>
+					<topPen lineWidth="0.0"/>
+					<leftPen lineWidth="0.0"/>
+					<bottomPen lineWidth="0.0"/>
+					<rightPen lineWidth="0.0"/>
+				</box>
+				<textElement textAlignment="Center">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA["Top 5 Freight Costs"]]></textFieldExpression>
+			</textField>
+		</band>
+	</summary>
+</jasperReport>

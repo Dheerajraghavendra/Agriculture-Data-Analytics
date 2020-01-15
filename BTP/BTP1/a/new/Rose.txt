@@ -1,0 +1,7 @@
+ap_kur_pan_pan_0003_aug12_9_rose_a	1
+ts_ran_sha_kot_0006_aug15_0_rose_a	28
+ts_ran_sha_rav_0008_nov15_0_rose_a	1
+ts_ran_sha_kot_0003_aug15_0_rose_a	30
+ts_ran_sha_ram_0001_sep15_0_rose_a	23
+ap_kur_pan_pan_0004_aug12_9_rose_a	1
+ts_ran_sha_pro_0009_sep15_0_rose_a	24

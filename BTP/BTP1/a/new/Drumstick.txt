@@ -1,0 +1,3 @@
+ts_med_pat_kya_0006_jun15_0_drum_a	3
+ts_med_pat_nan_0006_jun15_0_drum_a	4
+ts_med_pat_nan_0008_jun15_0_drum_a	1

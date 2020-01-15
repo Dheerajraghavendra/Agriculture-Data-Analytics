@@ -1,0 +1,9 @@
+2012-09-14  ap_kur_baa_tan_0008_aug12_8_redg_a_2012-09-13   Redgram  zn deficiency
+2012-09-21  ap_kur_ban_bho_0006_aug12_0_rice_a_2012-09-21   Rice  zn deficiency
+2012-09-21  ap_kar_sai_ray_0008_aug12_8_citr_a_2012-09-21   Citrus  zn deficiency
+2012-11-28  ap_kar_sai_ray_0008_aug12_8_citr_a_2012-11-27   Citrus  zn deficiency
+2012-11-28  ap_kar_sai_ray_0009_aug12_9_citr_a_2012-11-27   Citrus  zn deficiency
+2012-11-28  ap_kar_sai_ray_0010_oct12_10_citr_a_2012-11-27   Citrus  zn deficiency
+2016-07-14  ap_war_gha_mal_0005_jul16_0_rice_a_2016-07-14   Rice  zn deficiency
+2016-07-14  ap_war_gha_pee_0001_jul16_0_rice_a_2016-07-14   Rice  zn deficiency
+2016-08-08  ap_war_gha_ven_0003_jul16_0_maiz_a_2016-08-01   Maize  zn deficiency

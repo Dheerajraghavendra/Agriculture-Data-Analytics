@@ -1,0 +1,2 @@
+healthy	4
+thrips	6,11,14

@@ -1,0 +1,6 @@
+naive bayes-gaussian distribution
+12.568	45.68
+20.742	59.46
+22.596	58.26
+bayes
+54.59	81.94
